@@ -285,3 +285,13 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL732/PROFILE05.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL104/PROFILE03.m3u8
 #EXTINF:0 channelId="-1" , MILENIO
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL603/PROFILE03.m3u8
+#EXTINF:0 channelId="-1" , TUDN USA
+http://23.237.68.90:25461/live/EVENTO-03.LAMTV/I9YVOX36r2/347.m3u8
+#EXTINF:0 channelId="-1" , AFIZZIONADOS
+http://23.237.68.90:25461/live/EVENTO-03.LAMTV/I9YVOX36r2/172.m3u8
+#EXTINF:0 channelId="-1" , ESPN DEPORTES
+http://198.255.72.122:25461/live/TOTAlPLAYSD-lAMTV/lWZONg2mxW/13.m3u8
+#EXTINF:0 channelId="-1" , AFIZZIONADOS
+http://23.237.68.90:25461/live/EVENTO-03.LAMTV/I9YVOX36r2/172.m3u8
+#EXTINF:0 channelId="-1" , UNIMAS
+https://unidfpclnlds164.akamaized.net/linear/hls/pb/event/D8RY01WsRv6SMK6X3AoWAg/stream/7d48c01c-995f-4474-bcba-cbe5e19b7062:TPE/variant/895e4fc0a6bed69d2d0dfa5b572ea3ab/bandwidth/4500000.m3u8?hdntl=exp=1604282514~acl=*~id=2f47f98d-0213-40d4-ab7c-5a74e9c69228~data=hdntl~hmac=590127b70e8e3dd85985a6652798f5f47103b6064ff3f2b98b33eb5da39076ea
