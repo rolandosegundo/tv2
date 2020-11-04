@@ -1,290 +1,7 @@
 # tv2
 tvgratis
 #EXTM3U
-#EXTINF:0 channelId="-1" , DISCOVERY THEATER
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE03.m3u8
-#EXTINF:0 channelId="1455" , HISTORY
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE03.m3u8
-#EXTINF:0 channelId="164" , NATGEO WILD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL355/PROFILE03.m3u8
-#EXTINF:0 channelId="2839" , DISCOVERY WORLD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL356/PROFILE03.m3u8
-#EXTINF:0 channelId="57" , DISCOVERY CHANNEL
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE03.m3u8
-#EXTINF:0 channelId="50" , ANIMAL PLANET
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL373/PROFILE03.m3u8
-#EXTINF:0 channelId="-1" , H&H
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL374/PROFILE03.m3u8
-#EXTINF:0 channelId="56" , NATGEO
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL377/PROFILE03.m3u8
-#EXTINF:0 channelId="1200" , LIFETIME
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL379/PROFILE03.m3u8
-#EXTINF:0 channelId="58" , DISCOVERY SCIENCE
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE03.m3u8
-#EXTINF:0 channelId="2841" , DISCOVERY CIVILIZATION
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE03.m3u8
-#EXTINF:0 channelId="2840" , DISCOVERY TURBO
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL383/PROFILE03.m3u8
-#EXTINF:0 channelId="67" , TLC
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL386/PROFILE03.m3u8
-#EXTINF:0 channelId="-1" , WOBI
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL387/PROFILE03.m3u8
-#EXTINF:0 channelId="-1" , EL FINANCIERO BLOOMERANG
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL610/PROFILE03.m3u8
-#EXTINF:0 channelId="2558" , DISCOVERY THEATER HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE05.m3u8
-#EXTINF:0 channelId="1456" , HISTORY HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE05.m3u8
-#EXTINF:0 channelId="206" , NATGEO WILD HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL355/PROFILE05.m3u8
-#EXTINF:0 channelId="2890" , DISCOVERY WORLD HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL356/PROFILE05.m3u8
-#EXTINF:0 channelId="341" , DISCOVERY CHANNEL HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE05.m3u8
-#EXTINF:0 channelId="240" , ANIMAL PLANET HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL373/PROFILE05.m3u8
-#EXTINF:0 channelId="-1" , H&H HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL374/PROFILE05.m3u8
-#EXTINF:0 channelId="207" , NATGEO HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL377/PROFILE05.m3u8
-#EXTINF:0 channelId="-1" , LIFETIME HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL379/PROFILE05.m3u8
-#EXTINF:0 channelId="1508" , DISCOVERY SCIENCE HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE05.m3u8
-#EXTINF:0 channelId="-1" , DISCOVERY CIVILIZATION HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE05.m3u8
-#EXTINF:0 channelId="-1" , DISCOVERY TURBO HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL383/PROFILE05.m3u8
-#EXTINF:0 channelId="1040" , TLC HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL386/PROFILE05.m3u8
-#EXTINF:0 channelId="-1" , WOBI HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL387/PROFILE05.m3u8
-#EXTINF:0 channelId="-1" , EL FINANCIERO BLOOMERANG HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL610/PROFILE05.m3u8
-#EXTINF:-1 channelId="2505" , DISCOVERY KIDS
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL303/PROFILE05.m3u8
-#EXTINF:-1 channelId="1197" , DISNEY JUNIOR
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL308/PROFILE05.m3u8
-#EXTINF:0 channelId="19" , DISNEY CHANNEL
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL312/PROFILE05.m3u8
-#EXTINF:0 channelId="2711" , NICKTOONS
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL314/PROFILE05.m3u8
-#EXTINF:0 channelId="2707" , NICK HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL315/PROFILE05.m3u8
-#EXTINF:0 channelId="40" , CARTOON NETWORK
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL320/PROFILE05.m3u8
-#EXTINF:0 channelId="1198" , DISNEY XD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL322/PROFILE05.m3u8
-#EXTINF:-1 channelId="321" , BOOMERANG
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL324/PROFILE05.m3u8
-#EXTINF:-1 channelId="2639" , TOONCAST
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL328/PROFILE05.m3u8
-#EXTINF:0 channelId="-1" , ESPN +
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE03.m3u8
-#EXTINF:0 channelId="355" , ESPN 3
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8
-#EXTINF:0 channelId="1328" , FOX SPORTS
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE03.m3u8
-#EXTINF:0 channelId="170" , FOX SPORTS 2
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE03.m3u8
-#EXTINF:0 channelId="-1" , PX
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL528/PROFILE03.m3u8
-#EXTINF:0 channelId="2540" , ESPN
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE03.m3u8
-#EXTINF:0 channelId="344" , ESPN 2
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE03.m3u8
-#EXTINF:0 channelId="-1" , ESPN + HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE05.m3u8
-#EXTINF:0 channelId="357" , ESPN 3 HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE05.m3u8
-#EXTINF:0 channelId="2891" , FOX SPORTS HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE05.m3u8
-#EXTINF:0 channelId="179" , FOX SPORTS 2 HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE05.m3u8
-#EXTINF:0 channelId="-1" , PX HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL528/PROFILE05.m3u8
-#EXTINF:0 channelId="1263" , ESPN HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE05.m3u8
-#EXTINF:0 channelId="-1" , ESPN 2 HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE05.m3u8
-#EXTINF:0 channelId="208" , FOX HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE03.m3u8
-#EXTINF:0 channelId="298" , SONY
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE03.m3u8
-#EXTINF:0 channelId="-1" , WB
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE03.m3u8
-#EXTINF:0 channelId="2901" , UNIVERSAL HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE03.m3u8
-#EXTINF:0 channelId="1304" , FX HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE03.m3u8
-#EXTINF:0 channelId="2503" , A&E HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL211/PROFILE03.m3u8
-#EXTINF:0 channelId="2246" , AXN HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL213/PROFILE03.m3u8
-#EXTINF:0 channelId="2636" , TRUTV HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL215/PROFILE03.m3u8
-#EXTINF:0 channelId="1190" , COMEDY CENTRAL
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL217/PROFILE03.m3u8
-#EXTINF:0 channelId="388" , UNICABLE
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL218/PROFILE03.m3u8
-#EXTINF:0 channelId="-1" , HOLATV
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL219/PROFILE03.m3u8
-#EXTINF:0 channelId="280" , FASHIONTV
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL220/PROFILE03.m3u8
-#EXTINF:0 channelId="238" , AZCORAZON
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL250/PROFILE03.m3u8
-#EXTINF:0 channelId="177" , FOX
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL251/PROFILE03.m3u8
-#EXTINF:0 channelId="-1" , BBC ENTRETAINMENT
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL253/PROFILE03.m3u8
-#EXTINF:0 channelId="1188" , E!
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL255/PROFILE03.m3u8
-#EXTINF:0 channelId="187" , UNIVERSAL
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL256/PROFILE03.m3u8
-#EXTINF:0 channelId="73" , SYFY
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL257/PROFILE03.m3u8
-#EXTINF:0 channelId="1303" , FX
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL258/PROFILE03.m3u8
-#EXTINF:0 channelId="-1" , ID
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL263/PROFILE03.m3u8
-#EXTINF:0 channelId="2686" , TNT SERIES
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL266/PROFILE03.m3u8
-#EXTINF:0 channelId="310" , EL GOURMET
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL268/PROFILE03.m3u8
-#EXTINF:0 channelId="-1" , GARAGE TV
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL269/PROFILE03.m3u8
-#EXTINF:0 channelId="2622" , GLITZ
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL270/PROFILE03.m3u8
-#EXTINF:0 channelId="178" , FOXLIFE
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL271/PROFILE03.m3u8
-#EXTINF:0 channelId="1961" , DISTRITO COMEDIA
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL272/PROFILE03.m3u8
-#EXTINF:0 channelId="-1" , TBS
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL273/PROFILE03.m3u8
-#EXTINF:0 channelId="2504" , TLNOVELAS
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE03.m3u8
-#EXTINF:0 channelId="378" , tve
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL651/PROFILE03.m3u8
-#EXTINF:0 channelId="1954" , CANAL DE LAS ESTRELLAS
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE03.m3u8
-#EXTINF:0 channelId="1955" , CANAL 5
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE03.m3u8
-#EXTINF:0 channelId="255" , AZTECA 7
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE03.m3u8
-#EXTINF:0 channelId="1970" , GALAVISION
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE03.m3u8
-#EXTINF:0 channelId="-1" , ONCE TV
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL111/PROFILE03.m3u8
-#EXTINF:0 channelId="1971" , AZTECA 13
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE03.m3u8
-#EXTINF:0 channelId="-1" , CANAL 40
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE03.m3u8
-#EXTINF:0 channelId="-1" , MULTIMEDIOS TV
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE03.m3u8
-#EXTINF:0 channelId="243" , AZCLIC
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL725/PROFILE03.m3u8
-#EXTINF:0 channelId="-1" , CANAL DE LAS ESTRELLAS HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
-#EXTINF:0 channelId="133" , CANAL 5 HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE05.m3u8
-#EXTINF:0 channelId="1951" , AZTECA 7 HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE05.m3u8
-#EXTINF:0 channelId="-1" , GALAVISION HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE05.m3u8
-#EXTINF:0 channelId="-1" , ONCE TV HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL111/PROFILE05.m3u8
-#EXTINF:0 channelId="2660" , AZTECA 13 HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE05.m3u8
-#EXTINF:0 channelId="-1" , CANAL 40 HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE05.m3u8
-#EXTINF:0 channelId="-1" , MULTIMEDIOS TV HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE05.m3u8
-#EXTINF:0 channelId="-1" , AZCLIC HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL725/PROFILE05.m3u8
-#EXTINF:0 channelId="2492" , FOX 1 HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL415/PROFILE03.m3u8
-#EXTINF:0 channelId="2495" , FOX ACTION HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL416/PROFILE03.m3u8
-#EXTINF:0 channelId="2493" , FOX MOVIES HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL417/PROFILE03.m3u8
-#EXTINF:0 channelId="2494" , FOX CINEMA
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL421/PROFILE03.m3u8
-#EXTINF:0 channelId="-1" , FOX CLASSIC
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL424/PROFILE03.m3u8
-#EXTINF:0 channelId="-1" , AZCINEMA
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL425/PROFILE03.m3u8
-#EXTINF:0 channelId="64" , CINECANAL
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL430/PROFILE03.m3u8
-#EXTINF:0 channelId="1052" , TNT
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL435/PROFILE03.m3u8
-#EXTINF:0 channelId="333" , GOLDEN
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL436/PROFILE03.m3u8
-#EXTINF:0 channelId="2661" , FILMZONE
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL440/PROFILE03.m3u8
-#EXTINF:0 channelId="1952" , DEPELICULA
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL442/PROFILE03.m3u8
-#EXTINF:0 channelId="2501" , AMC
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL444/PROFILE03.m3u8
-#EXTINF:0 channelId="383" , SPACE
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL445/PROFILE03.m3u8
-#EXTINF:0 channelId="2494" , FOXCINEMA
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL472/PROFILE03.m3u8
-#EXTINF:0 channelId="-1" , FOXCLASSIC
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL478/PROFILE03.m3u8
-#EXTINF:0 channelId="64" , CINECANAL
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL480/PROFILE03.m3u8
-#EXTINF:0 channelId="1326" , CINEMAX
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL481/PROFILE03.m3u8
-#EXTINF:0 channelId="1052" , TNT
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL482/PROFILE03.m3u8
-#EXTINF:0 channelId="-1" , EDGE
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL484/PROFILE03.m3u8
-#EXTINF:0 channelId="2501" , AMC
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL490/PROFILE03.m3u8
-#EXTINF:0 channelId="383" , SPACE
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL491/PROFILE03.m3u8
-#EXTINF:0 channelId="2625" , STUDIOUNIVERSAL
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL492/PROFILE03.m3u8
-#EXTINF:0 channelId="2638" , I.SAT
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL495/PROFILE03.m3u8
-#EXTINF:0 channelId="895" , TCM
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL496/PROFILE03.m3u8
-#EXTINF:0 channelId="-1" , MTV LIVE
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL701/PROFILE03.m3u8
-#EXTINF:0 channelId="1966" , TELEHIT
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL702/PROFILE03.m3u8
-#EXTINF:0 channelId="-1" , VHR
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL703/PROFILE03.m3u8
-#EXTINF:0 channelId="1973" , MTV
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL726/PROFILE03.m3u8
-#EXTINF:0 channelId="289" , MTV HITS
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL727/PROFILE03.m3u8
-#EXTINF:0 channelId="-1" , 1CLASSICS
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL728/PROFILE03.m3u8
-#EXTINF:0 channelId="1964" , RITMOSON
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL731/PROFILE03.m3u8
-#EXTINF:0 channelId="1959" , BANDAMAX
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL732/PROFILE03.m3u8
-#EXTINF:0 channelId="237" , MTV LIVE HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL701/PROFILE05.m3u8
-#EXTINF:0 channelId="339" , TELEHIT HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL702/PROFILE05.m3u8
-#EXTINF:0 channelId="-1" , VHR HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL703/PROFILE05.m3u8
-#EXTINF:0 channelId="1484" , MTV HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL726/PROFILE05.m3u8
-#EXTINF:0 channelId="-1" , MTV HITS HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL727/PROFILE05.m3u8
-#EXTINF:0 channelId="-1" , 1CLASSICS HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL728/PROFILE05.m3u8
-#EXTINF:0 channelId="-1" , RITMOSON HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL731/PROFILE05.m3u8
-#EXTINF:0 channelId="-1" , BANDAMAX HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL732/PROFILE05.m3u8
-#EXTINF:0 channelId="328" , Foro TV
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL104/PROFILE03.m3u8
-#EXTINF:0 channelId="-1" , MILENIO
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL603/PROFILE03.m3u8
+
 #EXTINF:0 channelId="-1" , TUDN USA
 http://23.237.68.90:25461/live/EVENTO-03.LAMTV/I9YVOX36r2/347.m3u8
 #EXTINF:0 channelId="-1" , AFIZZIONADOS
@@ -293,5 +10,254 @@ http://23.237.68.90:25461/live/EVENTO-03.LAMTV/I9YVOX36r2/172.m3u8
 http://198.255.72.122:25461/live/TOTAlPLAYSD-lAMTV/lWZONg2mxW/13.m3u8
 #EXTINF:0 channelId="-1" , AFIZZIONADOS
 http://23.237.68.90:25461/live/EVENTO-03.LAMTV/I9YVOX36r2/172.m3u8
-#EXTINF:0 channelId="-1" , UNIMAS
-https://unidfpclnlds164.akamaized.net/linear/hls/pb/event/D8RY01WsRv6SMK6X3AoWAg/stream/7d48c01c-995f-4474-bcba-cbe5e19b7062:TPE/variant/895e4fc0a6bed69d2d0dfa5b572ea3ab/bandwidth/4500000.m3u8?hdntl=exp=1604282514~acl=*~id=2f47f98d-0213-40d4-ab7c-5a74e9c69228~data=hdntl~hmac=590127b70e8e3dd85985a6652798f5f47103b6064ff3f2b98b33eb5da39076ea
+#EXTINF:-1,Azteca Uno (Geo)
+http://gmsiptv.ddns.net:25461/eddison/eddison/535
+#EXTINF:-1,Azteca 7 
+http://gmsiptv.ddns.net:25461/eddison/eddison/536
+#EXTINF:-1,A+ 7.2 (Geo)
+http://gmsiptv.ddns.net:25461/eddison/eddison/537
+#EXTINF:-1,Canal 6 Monterrey
+http://gmsiptv.ddns.net:25461/eddison/eddison/538
+#EXTINF:-1,Canal 6 CDMX
+http://gmsiptv.ddns.net:25461/eddison/eddison/539
+#EXTINF:-1,Canal 6 Laguna
+http://gmsiptv.ddns.net:25461/eddison/eddison/540
+#EXTINF:-1,Canal 6 Guadalajara
+http://gmsiptv.ddns.net:25461/eddison/eddison/541
+#EXTINF:-1,Canal 6 Puebla
+http://gmsiptv.ddns.net:25461/eddison/eddison/542
+#EXTINF:-1,Canal 6 Bajio
+http://gmsiptv.ddns.net:25461/eddison/eddison/543
+#EXTINF:-1,Canal 6 Saltillo
+http://gmsiptv.ddns.net:25461/eddison/eddison/544
+#EXTINF:-1,adn40
+http://gmsiptv.ddns.net:25461/eddison/eddison/545
+#EXTINF:-1,Canal 6 Ciudad Juarez
+http://gmsiptv.ddns.net:25461/eddison/eddison/546
+#EXTINF:-1,Mexiquense
+http://gmsiptv.ddns.net:25461/eddison/eddison/547
+#EXTINF:-1,Canal 14
+http://gmsiptv.ddns.net:25461/eddison/eddison/548
+#EXTINF:-1,RCG (México)
+http://gmsiptv.ddns.net:25461/eddison/eddison/549
+#EXTINF:-1,Canal 15 Zacatecas (México)
+http://gmsiptv.ddns.net:25461/eddison/eddison/550
+#EXTINF:-1,Telemar Campeche (México)
+http://gmsiptv.ddns.net:25461/eddison/eddison/551
+#EXTINF:-1,Sipse TV Cancun (México)
+http://gmsiptv.ddns.net:25461/eddison/eddison/552
+#EXTINF:-1,Canal 10 Chetumal (México)
+http://gmsiptv.ddns.net:25461/eddison/eddison/553
+#EXTINF:-1,TV HIDALGO (México)
+http://gmsiptv.ddns.net:25461/eddison/eddison/554
+#EXTINF:-1,TMTV  (México)
+http://gmsiptv.ddns.net:25461/eddison/eddison/555
+#EXTINF:-1,Canal 4.1  (México)
+http://gmsiptv.ddns.net:25461/eddison/eddison/556
+#EXTINF:-1,Canal 4.2  (México)
+http://gmsiptv.ddns.net:25461/eddison/eddison/557
+#EXTINF:-1,QuieroTV  (México)
+http://gmsiptv.ddns.net:25461/eddison/eddison/558
+#EXTINF:-1,Once (México)
+http://gmsiptv.ddns.net:25461/eddison/eddison/559
+#EXTINF:-1,Once Internacional (México)
+http://gmsiptv.ddns.net:25461/eddison/eddison/560
+#EXTINF:-1,TuristikTV
+http://gmsiptv.ddns.net:25461/eddison/eddison/561
+#EXTINF:-1,Vibe 
+http://gmsiptv.ddns.net:25461/eddison/eddison/562
+#EXTINF:-1,MultimediosTV (México)
+http://gmsiptv.ddns.net:25461/eddison/eddison/563
+#EXTINF:-1,Teleformula (México)
+http://gmsiptv.ddns.net:25461/eddison/eddison/564
+#EXTINF:-1,MilenioTV
+http://gmsiptv.ddns.net:25461/eddison/eddison/565
+#EXTINF:-1,Multimedios Laguna HD
+http://gmsiptv.ddns.net:25461/eddison/eddison/566
+#EXTINF:-1,Teleritmo
+http://gmsiptv.ddns.net:25461/eddison/eddison/567
+#EXTINF:-1,Canal 4
+http://gmsiptv.ddns.net:25461/eddison/eddison/568
+#EXTINF:-1,FORO TV (Mexico)
+http://gmsiptv.ddns.net:25461/eddison/eddison/569
+#EXTINF:-1,Telemax
+http://gmsiptv.ddns.net:25461/eddison/eddison/570
+#EXTINF:-1,Canal 26 AguasCalientes
+http://gmsiptv.ddns.net:25461/eddison/eddison/571
+#EXTINF:-1,CBTV
+http://gmsiptv.ddns.net:25461/eddison/eddison/572
+#EXTINF:-1,TVP Obregon
+http://gmsiptv.ddns.net:25461/eddison/eddison/573
+#EXTINF:-1,TVP Mazatlan
+http://gmsiptv.ddns.net:25461/eddison/eddison/574
+#EXTINF:-1,TVP Mochis
+http://gmsiptv.ddns.net:25461/eddison/eddison/575
+#EXTINF:-1,Canal 7 Mazatlan
+http://gmsiptv.ddns.net:25461/eddison/eddison/576
+#EXTINF:0 channelId="-1" , PUNTA CANA TV
+http://gmsiptv.ddns.net:25461/eddison/eddison/8
+#EXTINF:0 channelId="-1" , MICROVISION
+http://gmsiptv.ddns.net:25461/eddison/eddison/10
+#EXTINF:0 channelId="-1" , ASI SUSEDIO
+http://gmsiptv.ddns.net:25461/eddison/eddison/18
+#EXTINF:-1,3ABN Kids
+http://gmsiptv.ddns.net:25461/eddison/eddison/108
+#EXTINF:-1,monsters kids (Infantiles)
+http://gmsiptv.ddns.net:25461/eddison/eddison/109
+#EXTINF:-1,PBS 1
+http://gmsiptv.ddns.net:25461/eddison/eddison/110
+#EXTINF:-1,PBS 2
+http://gmsiptv.ddns.net:25461/eddison/eddison/111
+#EXTINF:-1,Super Geek Heroes (Kids)
+http://gmsiptv.ddns.net:25461/eddison/eddison/112
+#EXTINF:-1,Leominster TV Education
+http://gmsiptv.ddns.net:25461/eddison/eddison/113
+#EXTINF:-1,Smile of a Child  (Kids)
+http://gmsiptv.ddns.net:25461/eddison/eddison/114
+#EXTINF:-1,EBS Kids
+http://gmsiptv.ddns.net:25461/eddison/eddison/115
+#EXTINF:-1,Kartoon Fun Time
+http://gmsiptv.ddns.net:25461/eddison/eddison/116
+#EXTINF:-1,PequeradioTV  
+http://gmsiptv.ddns.net:25461/eddison/eddison/117
+#EXTINF:-1,Zoo kids
+http://gmsiptv.ddns.net:25461/eddison/eddison/118
+#EXTINF:-1,Boomerang 
+http://gmsiptv.ddns.net:25461/eddison/eddison/119
+#EXTINF:-1,Discovery Kids
+http://gmsiptv.ddns.net:25461/eddison/eddison/120
+#EXTINF:-1,Disney
+http://gmsiptv.ddns.net:25461/eddison/eddison/121
+#EXTINF:-1,Disney XD
+http://gmsiptv.ddns.net:25461/eddison/eddison/122
+#EXTINF:-1,BabyTV
+http://gmsiptv.ddns.net:25461/eddison/eddison/123
+#EXTINF:-1,Nick Jr.
+http://gmsiptv.ddns.net:25461/eddison/eddison/124
+#EXTINF:-1,Nick 2
+http://gmsiptv.ddns.net:25461/eddison/eddison/125
+#EXTINF:-1,Nicktoons
+http://gmsiptv.ddns.net:25461/eddison/eddison/126
+#EXTINF:-1,Pop (UK)
+http://gmsiptv.ddns.net:25461/eddison/eddison/127
+#EXTINF:-1,tvo kids (EN)
+http://gmsiptv.ddns.net:25461/eddison/eddison/128
+http://gmsiptv.ddns.net:25461/eddison/eddison/137
+#EXTINF:-1,AXN
+http://gmsiptv.ddns.net:25461/eddison/eddison/138
+#EXTINF:-1,TNT
+http://gmsiptv.ddns.net:25461/eddison/eddison/139
+#EXTINF:-1,TNT Series
+http://gmsiptv.ddns.net:25461/eddison/eddison/140
+#EXTINF:-1,AMC
+http://gmsiptv.ddns.net:25461/eddison/eddison/141
+#EXTINF:-1,Sony
+http://gmsiptv.ddns.net:25461/eddison/eddison/142
+#EXTINF:-1,HBO
+http://gmsiptv.ddns.net:25461/eddison/eddison/143
+#EXTINF:-1,HBO2
+http://gmsiptv.ddns.net:25461/eddison/eddison/144
+#EXTINF:-1,HBO  mundi
+http://gmsiptv.ddns.net:25461/eddison/eddison/145
+#EXTINF:-1,Paramount
+http://gmsiptv.ddns.net:25461/eddison/eddison/146
+#EXTINF:-1,Cinecanal
+http://gmsiptv.ddns.net:25461/eddison/eddison/147
+#EXTINF:-1,Golden
+http://gmsiptv.ddns.net:25461/eddison/eddison/148
+#EXTINF:-1,Golden Plus
+http://gmsiptv.ddns.net:25461/eddison/eddison/149
+#EXTINF:-1,MLB1
+http://gmsiptv.ddns.net:25461/eddison/eddison/152
+#EXTINF:-1,MLB2
+http://gmsiptv.ddns.net:25461/eddison/eddison/153
+#EXTINF:-1,ESPN 1 Sur
+http://gmsiptv.ddns.net:25461/eddison/eddison/154
+#EXTINF:-1,ESPN 2 
+http://gmsiptv.ddns.net:25461/eddison/eddison/155
+#EXTINF:-1,ESPN 3
+http://gmsiptv.ddns.net:25461/eddison/eddison/156
+#EXTINF:-1,ESPN 
+http://gmsiptv.ddns.net:25461/eddison/eddison/157
+#EXTINF:-1,Fox Sports News (EN)
+http://gmsiptv.ddns.net:25461/eddison/eddison/158
+#EXTINF:-1,Fox Sports 1
+http://gmsiptv.ddns.net:25461/eddison/eddison/159
+#EXTINF:-1,Fox Sport 2
+http://gmsiptv.ddns.net:25461/eddison/eddison/160
+#EXTINF:-1,Fox Sports 3 Sur
+http://gmsiptv.ddns.net:25461/eddison/eddison/161
+#EXTINF:-1,TUDN
+http://gmsiptv.ddns.net:25461/eddison/eddison/162
+#EXTINF:-1,NESN plus Sports
+http://gmsiptv.ddns.net:25461/eddison/eddison/163
+#EXTINF:-1,Adventure Sports Network
+http://gmsiptv.ddns.net:25461/eddison/eddison/164
+#EXTINF:-1,Darcizzle Offshore
+http://gmsiptv.ddns.net:25461/eddison/eddison/165
+#EXTINF:-1,Edge Sport
+http://gmsiptv.ddns.net:25461/eddison/eddison/166
+#EXTINF:-1,Dubai Sports 1
+http://gmsiptv.ddns.net:25461/eddison/eddison/199
+#EXTINF:-1,Discovery Turbo
+http://gmsiptv.ddns.net:25461/eddison/eddison/200
+#EXTINF:-1,Arriadia
+http://gmsiptv.ddns.net:25461/eddison/eddison/201
+#EXTINF:-1,LSN
+http://gmsiptv.ddns.net:25461/eddison/eddison/202
+#EXTINF:-1,CBSSN 
+http://gmsiptv.ddns.net:25461/eddison/eddison/203
+#EXTINF:-1,T47
+http://gmsiptv.ddns.net:25461/eddison/eddison/204
+#EXTINF:-1,Telemundo Chicago
+http://gmsiptv.ddns.net:25461/eddison/eddison/205
+#EXTINF:-1,Univision Miami
+http://gmsiptv.ddns.net:25461/eddison/eddison/207
+#EXTINF:-1,LocomotionTV 
+http://gmsiptv.ddns.net:25461/eddison/eddison/242
+#EXTINF:-1,Discovery Home & Heath
+http://gmsiptv.ddns.net:25461/eddison/eddison/243
+#EXTINF:-1,Cosmo
+http://gmsiptv.ddns.net:25461/eddison/eddison/212
+#EXTINF:-1,Discovery Max
+http://gmsiptv.ddns.net:25461/eddison/eddison/215
+#EXTINF:-1,Univision NY
+http://gmsiptv.ddns.net:25461/eddison/eddison/210
+#EXTINF:-1,Canal 2 (Nicaragua)
+http://gmsiptv.ddns.net:25461/eddison/eddison/234
+#EXTINF:-1,Canal 12 (Nicaragua)
+http://gmsiptv.ddns.net:25461/eddison/eddison/235
+#EXTINF:-1,TribunaTV (El Salvador)
+http://gmsiptv.ddns.net:25461/eddison/eddison/236
+#EXTINF:-1,Tele1 (El Salvador)
+http://gmsiptv.ddns.net:25461/eddison/eddison/238
+#EXTINF:-1,TLC
+http://gmsiptv.ddns.net:25461/eddison/eddison/239
+#EXTINF:-1,CN247 (Uruguay)
+http://gmsiptv.ddns.net:25461/eddison/eddison/240
+#EXTINF:-1,Investigation Discovery
+http://gmsiptv.ddns.net:25461/eddison/eddison/245
+#EXTINF:-1,Discovery Channel 
+http://gmsiptv.ddns.net:25461/eddison/eddison/246
+#EXTINF:-1,El gourmet
+http://gmsiptv.ddns.net:25461/eddison/eddison/248
+#EXTINF:-1,National Geographic
+http://gmsiptv.ddns.net:25461/eddison/eddison/249
+#EXTINF:-1,Historia
+http://gmsiptv.ddns.net:25461/eddison/eddison/250
+#EXTINF:-1,Animal Planet
+http://gmsiptv.ddns.net:25461/eddison/eddison/251
+#EXTINF:-1,Nova
+http://gmsiptv.ddns.net:25461/eddison/eddison/252
+#EXTINF:-1,Comedy Central
+http://gmsiptv.ddns.net:25461/eddison/eddison/253
+#EXTINF:-1,Love Nature (ES)
+http://gmsiptv.ddns.net:25461/eddison/eddison/254
+#EXTINF:-1,Love Nature (EN)
+http://gmsiptv.ddns.net:25461/eddison/eddison/255
+#EXTINF:-1,Caracol (Colombia)
+http://gmsiptv.ddns.net:25461/eddison/eddison/491
+#EXTINF:-1,Canal UNO (Colombia)
+http://gmsiptv.ddns.net:25461/eddison/eddison/492
+#EXTINF:-1,CityTV
+http://gmsiptv.ddns.net:25461/eddison/eddison/493
