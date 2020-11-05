@@ -1,7 +1,8 @@
 # tv2
 tvgratis
 #EXTM3U
-
+#EXTINF:0 channelId="-1" , TUDN MX
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
 #EXTINF:0 channelId="-1" , TUDN USA
 http://23.237.68.90:25461/live/EVENTO-03.LAMTV/I9YVOX36r2/347.m3u8
 #EXTINF:0 channelId="-1" , AFIZZIONADOS
