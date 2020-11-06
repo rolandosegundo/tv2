@@ -11,8 +11,20 @@ http://23.237.68.90:25461/live/EVENTO-03.LAMTV/I9YVOX36r2/172.m3u8
 http://198.255.72.122:25461/live/TOTAlPLAYSD-lAMTV/lWZONg2mxW/13.m3u8
 #EXTINF:0 channelId="-1" , AFIZZIONADOS
 http://23.237.68.90:25461/live/EVENTO-03.LAMTV/I9YVOX36r2/172.m3u8
-
-
+#EXTINF:-1,USA: ESPN DEPORTES
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/40949.m3u8
+#EXTINF:-1,WIN SPORTS
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1035.m3u8
+#EXTINF:-1,WIN SPORTS +
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/18231.m3u8
+#EXTINF:-1,WIN SPORTS ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58098.m3u8
+#EXTINF:-1,WIN SPORTS+
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57459.m3u8
+#EXTINF:-1,WIN SPORTS+ ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57312.m3u8
+#EXTINF:-1,WIN SPORTS+ ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57631.m3u8
 #EXTINF:-1,AZ Corazon | ENTRETENIMIENTO LATINO
 http://flowfhd.xyz:25461/XHDwq26vgF/XHDwq26vgF/69024
 
@@ -369,1323 +381,1334 @@ http://flowfhd.xyz:25461/XHDwq26vgF/XHDwq26vgF/75575
 
 #EXTINF:-1,UNIVISION TLENOVELAS | UN
 http://flowfhd.xyz:25461/XHDwq26vgF/XHDwq26vgF/75572
-#EXTINF:-1,HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
---------------------------------------------------------------------------------
-#EXTM3U
-#EXTINF:-1,AMERICA TV
-#EXTGRP:PERU
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3727.ts
-
-#EXTINF:-1,AMERICA TV
-#EXTGRP:PERU
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54952.ts
-
-#EXTINF:-1,AMERICA TV 2
-#EXTGRP:PERU
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3452.ts
-
-#EXTINF:-1,ANTARES
-#EXTGRP:PERU
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3451.ts
-
-#EXTINF:-1,ATV
-#EXTGRP:PERU
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3449.ts
-
-#EXTINF:-1,CANAL N2
-#EXTGRP:PERU
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3443.ts
-
-#EXTINF:-1,CANAL N
-#EXTGRP:PERU
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3446.ts
-
-#EXTINF:-1,CAPITAL TV
-#EXTGRP:PERU
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3444.ts
-
-#EXTINF:-1,CMD
-#EXTGRP:PERU
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3442.ts
-
-#EXTINF:-1,DIRECTV SPORTS
-#EXTGRP:PERU
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/39653.ts
-
-#EXTINF:-1,EXITOSA
-#EXTGRP:PERU
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/39650.ts
-
-#EXTINF:-1,GOL PERU
-#EXTGRP:PERU
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3437.ts
-
-#EXTINF:-1,GOL PERU2
-#EXTGRP:PERU
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/25086.ts
-
-#EXTINF:-1,LATINA
-#EXTGRP:PERU
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3433.ts
-
-#EXTINF:-1,LATINA2
-#EXTGRP:PERU
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3436.ts
-
-#EXTINF:-1,Movistar Deportes
-#EXTGRP:PERU
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54954.ts
-
-#EXTINF:-1,Movistar Plus
-#EXTGRP:PERU
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3430.ts
-
-#EXTINF:-1,NEXT TV
-#EXTGRP:PERU
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3431.ts
-
-#EXTINF:-1,PANAMERICANA
-#EXTGRP:PERU
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3428.ts
-
-#EXTINF:-1,PERU MAGICO
-#EXTGRP:PERU
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3425.ts
-
-#EXTINF:-1,RPP
-#EXTGRP:PERU
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/39652.ts
-
-#EXTINF:-1,Sol TV
-#EXTGRP:PERU
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58132.ts
-
-#EXTINF:-1,TV PERU NOTICIAS
-#EXTGRP:PERU
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3422.ts
-
-#EXTINF:-1,Willax
-#EXTGRP:PERU
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/39651.ts
-
-#EXTINF:-1,CANAL UNO
-#EXTGRP:ECUADOR
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/59350.ts
-
-#EXTINF:-1,CANELA TV
-#EXTGRP:ECUADOR
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/59352.ts
-
-#EXTINF:-1,CANELA TV2
-#EXTGRP:ECUADOR
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54987.ts
-
-#EXTINF:-1,DIRECTV SPORTS
-#EXTGRP:ECUADOR
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54988.ts
-
-#EXTINF:-1,DIRECTV SPORTS2
-#EXTGRP:ECUADOR
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54990.ts
-
-#EXTINF:-1,ECUADOR TV
-#EXTGRP:ECUADOR
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54991.ts
-
-#EXTINF:-1,ECUADOR TV2
-#EXTGRP:ECUADOR
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54992.ts
-
-#EXTINF:-1,ECUAVISA
-#EXTGRP:ECUADOR
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3507.ts
-
-#EXTINF:-1,ECUAVISA2
-#EXTGRP:ECUADOR
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/59355.ts
-
-#EXTINF:-1,ECUAVISA INTERNACIONAL
-#EXTGRP:ECUADOR
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/59353.ts
-
-#EXTINF:-1,ECUAVISA INTERNACIONAL2
-#EXTGRP:ECUADOR
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/59354.ts
-
-#EXTINF:-1,GAMAVISION
-#EXTGRP:ECUADOR
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3504.ts
-
-#EXTINF:-1,GAMAVISON2
-#EXTGRP:ECUADOR
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/59358.ts
-
-#EXTINF:-1,GOL TV
-#EXTGRP:ECUADOR
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/39326.ts
-
-#EXTINF:-1,Gol TV (Solo Eventos)
-#EXTGRP:ECUADOR
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54994.ts
-
-#EXTINF:-1,GOL TV2
-#EXTGRP:ECUADOR
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3500.ts
-
-#EXTINF:-1,OROMAR
-#EXTGRP:ECUADOR
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3497.ts
-
-#EXTINF:-1,OROMAR2
-#EXTGRP:ECUADOR
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/59368.ts
-
-#EXTINF:-1,RTS
-#EXTGRP:ECUADOR
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3494.ts
-
-#EXTINF:-1,TC
-#EXTGRP:ECUADOR
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3484.ts
-
-#EXTINF:-1,TC2
-#EXTGRP:ECUADOR
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3491.ts
-
-#EXTINF:-1,TELEAMAZONAS
-#EXTGRP:ECUADOR
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3489.ts
-
-#EXTINF:-1,TELEAMAZONAS2
-#EXTGRP:ECUADOR
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3490.ts
-
-#EXTINF:-1,TVC
-#EXTGRP:ECUADOR
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/59367.ts
-
-#EXTINF:-1,NATGEO WILD
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/5413.ts
-
-#EXTINF:-1,NATGEO WILD2
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15536.ts
-
-#EXTINF:-1,NATIONAL GEOGRAPHIC2
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/803.ts
-
-#EXTINF:-1,HBO 2
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1745.ts
-
-#EXTINF:-1,HBO 2.2
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55431.ts
-
-#EXTINF:-1,HBO FAMILY
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1746.ts
-
-#EXTINF:-1,HBO FAMILY2
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55432.ts
-
-#EXTINF:-1,HBO
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1744.ts
-
-#EXTINF:-1,HBO2
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/45651.ts
-
-#EXTINF:-1,HBO MUNDI
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1750.ts
-
-#EXTINF:-1,HBO PLUS
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1747.ts
-
-#EXTINF:-1,HBO POP
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1751.ts
-
-#EXTINF:-1,HBO SIGNATURE
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1748.ts
-
-#EXTINF:-1,HBO XTREAM
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1749.ts
-
-#EXTINF:-1,HBO XTREAM2
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43223.ts
-
-#EXTINF:-1,FOX
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15925.ts
-
-#EXTINF:-1,FOX2
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/53539.ts
-
-#EXTINF:-1,FOX3
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1738.ts
-
-#EXTINF:-1,FOX PREMIUM CINEMA
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55417.ts
-
-#EXTINF:-1,FOX PREMIUM CLASSIC
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55418.ts
-
-#EXTINF:-1,FOX PREMIUM FAMILY
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55419.ts
-
-#EXTINF:-1,FOX LIFE
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55420.ts
-
-#EXTINF:-1,FOX PREMIUM MOVIES
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55421.ts
-
-#EXTINF:-1,FOX PREMIUM SERIES
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55424.ts
-
-#EXTINF:-1,ANIMAL PLANET
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1160.ts
-
-#EXTINF:-1,ANIMAL PLANET2
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1160.ts
-
-#EXTINF:-1,COMEDY CENTRAL
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/18229.ts
-
-#EXTINF:-1,COMEDY CENTRAL2
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/18230.ts
-
-#EXTINF:-1,DISCOVERY CHANNEL
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17326.ts
-
-#EXTINF:-1,DISCOVERY CHANNEL2
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/781.ts
-
-#EXTINF:-1,DISCOVERY CIVILIZATION
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17327.ts
-
-#EXTINF:-1,DISCOVERY CIVILIZATION2
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/5407.ts
-
-#EXTINF:-1,DISCOVERY H&H
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/782.ts
-
-#EXTINF:-1,DISCOVERY H&H2
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/5408.ts
-
-#EXTINF:-1,DISCOVERY SCIENCE
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17329.ts
-
-#EXTINF:-1,DISCOVERY SCIENCE2
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/5409.ts
-
-#EXTINF:-1,DISCOVERY THEATER
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/784.ts
-
-#EXTINF:-1,DISCOVERY TURBO
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/5410.ts
-
-#EXTINF:-1,DISCOVERY TURBO2
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1161.ts
-
-#EXTINF:-1,DISCOVERY WORLD
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/5412.ts
-
-#EXTINF:-1,DISCOVERY WORLD2
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17331.ts
-
-#EXTINF:-1,HISTORY
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/9958.ts
-
-#EXTINF:-1,HISTORY2
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55429.ts
-
-#EXTINF:-1,A&E
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/38796.ts
-
-#EXTINF:-1,A&E2
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1722.ts
-
-#EXTINF:-1,AXN
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/42432.ts
-
-#EXTINF:-1,AXN2
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/27591.ts
-
-#EXTINF:-1,CINECANAL
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1726.ts
-
-#EXTINF:-1,CINECANAL2
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17334.ts
-
-#EXTINF:-1,CINELATINO
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55013.ts
-
-#EXTINF:-1,CINELATINO 2
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55012.ts
-
-#EXTINF:-1,FOX LIFE2
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1730.ts
-
-#EXTINF:-1,FOX PREMIUM ACTION2
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/33356.ts
-
-#EXTINF:-1,FOX PREMIUM CLASSICS2
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1733.ts
-
-#EXTINF:-1,FOX PREMIUM COMEDY2
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1734.ts
-
-#EXTINF:-1,FOX PREMIUM FAMILY2
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1735.ts
-
-#EXTINF:-1,FOX PREMIUM MOVIES2
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/33361.ts
-
-#EXTINF:-1,FOX PREMIUM SERIES2
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1737.ts
-
-#EXTINF:-1,TNT SERIES
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1761.ts
-
-#EXTINF:-1,TNT
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1760.ts
-
-#EXTINF:-1,AMC
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/42431.ts
-
-#EXTINF:-1,AMC2
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/40116.ts
-
-#EXTINF:-1,ANIMAL PLANET2
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/5406.ts
-
-#EXTINF:-1,CARTOON NETWORK
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1163.ts
-
-#EXTINF:-1,CARTOON NETWORK2
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55401.ts
-
-#EXTINF:-1,CINEMAX ACTION
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54863.ts
-
-#EXTINF:-1,CINEMAX ACTION2
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55403.ts
-
-#EXTINF:-1,CINEMAX
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17335.ts
-
-#EXTINF:-1,CARACOL
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58371.ts
-
-#EXTINF:-1,CARACOL INTERNACIONAL
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3995.ts
-
-#EXTINF:-1,CITY TV
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3994.ts
-
-#EXTINF:-1,CITY TV2
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17772.ts
-
-#EXTINF:-1,DHE
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55011.ts
-
-#EXTINF:-1,E!
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/53536.ts
-
-#EXTINF:-1,E!2
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/554.ts
-
-#EXTINF:-1,WARNER
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55447.ts
-
-#EXTINF:-1,WARNER2
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1763.ts
-
-#EXTINF:-1,HBO PLUS2
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54865.ts
-
-#EXTINF:-1,DC UNIVERSE 
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57654.ts
-
-#EXTINF:-1,DISNEY FAMILY 
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57655.ts
-
-#EXTINF:-1,DREAMWORKS 
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57656.ts
-
-#EXTINF:-1,FAMILIA 
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57657.ts
-
-#EXTINF:-1,HAPPY MADISSON
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57658.ts
-
-#EXTINF:-1,HORRROR
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57659.ts
-
-#EXTINF:-1,MARVEL ANIMADO
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57661.ts
-
-#EXTINF:-1,MARVEL STUDIOS 
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57662.ts
-
-#EXTINF:-1,CIENCIA FICCION
-#EXTGRP:PPV TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57652.ts
-
-#EXTINF:-1,DC COMICS
-#EXTGRP:PPV TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57653.ts
-
-
-
-
-#EXTINF:-1,DTV SPORTS (ecuador)
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60863.ts
-#EXTINF:-1,DTV SPORTS +
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/41663.ts
-#EXTINF:-1,DTV SPORTS + ⁽ᴹ⁾
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15881.ts
-#EXTINF:-1,DTV SPORTS 1
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/604.ts
-#EXTINF:-1,DTV SPORTS 1 (colombia)
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/27514.ts
-#EXTINF:-1,DTV SPORTS 1 CHILE 1080 ⁽ᴹ⁾
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/605.ts
-#EXTINF:-1,DTV SPORTS 1 CHILE 720 ⁽ᴹ⁾
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/53362.ts
-#EXTINF:-1,DTV SPORTS 1 ⁽ᴹ⁾
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54128.ts
-#EXTINF:-1,DTV SPORTS 2
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/49510.ts
-#EXTINF:-1,DTV SPORTS 2  (colombia)
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43364.ts
-#EXTINF:-1,DTV SPORTS 2 (perú)
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57381.ts
-#EXTINF:-1,DTV SPORTS 2 ⁽ᴹ⁾
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/53363.ts
-#EXTINF:-1,DTV SPORTS PLUS
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/42472.ts
-#EXTINF:-1,ADRENALINA SPORTS ⁽ᴴᴰ⁾
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15921.ts
 #EXTINF:-1,AFIZZIONADOS
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55292.ts
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55292.m3u8
 #EXTINF:-1,AFIZZIONADOS ⁽ᴴᴰ⁾
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54335.ts
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54335.m3u8
+#EXTINF:-1,ADN TV
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/2270.m3u8
+#EXTINF:-1,ADRENALINA SPORTS ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15921.m3u8
+#EXTINF:-1,AFIZZIONADOS
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55292.m3u8
+#EXTINF:-1,AFIZZIONADOS ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54335.m3u8
+#EXTINF:-1,Agreetsuko ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60522.m3u8
+#EXTINF:-1,ALEGRIA TV
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/2266.m3u8
+#EXTINF:-1,Alf
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60523.m3u8
+#EXTINF:-1,ALIENTO VISION
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/29010.m3u8
+#EXTINF:-1,Alternative
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3534.m3u8
+#EXTINF:-1,Amazon Kids ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60492.m3u8
+#EXTINF:-1,AMC
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/42431.m3u8
+#EXTINF:-1,AMC ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/40116.m3u8
+#EXTINF:-1,Ame --
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/39656.m3u8
+#EXTINF:-1,ANIMAL PLANET ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/5406.m3u8
+#EXTINF:-1,ANIMAL PLANET ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1160.m3u8
+#EXTINF:-1,Animaniacs
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60524.m3u8
+#EXTINF:-1,Antena 3 ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55396.m3u8
+#EXTINF:-1,AR: 13 Max HD
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54955.m3u8
+#EXTINF:-1,AR: 24/7 NOTICIAS
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3723.m3u8
+#EXTINF:-1,AR: A24
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54956.m3u8
+#EXTINF:-1,AR: America FHD
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54957.m3u8
+#EXTINF:-1,AR: AMERICA TV
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/16184.m3u8
+#EXTINF:-1,AR: America TV HD
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10871.m3u8
+#EXTINF:-1,AR: C5N
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3731.m3u8
+#EXTINF:-1,AR: C5N SD
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54958.m3u8
+#EXTINF:-1,AR: C5N*
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15770.m3u8
+#EXTINF:-1,AR: CANAL 26
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/49384.m3u8
+#EXTINF:-1,AR: CANAL 26 
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3732.m3u8
+#EXTINF:-1,AR: CANAL A24 
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15771.m3u8
+#EXTINF:-1,AR: CANAL A24 *
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3724.m3u8
+#EXTINF:-1,AR: CRONICA TV 
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3733.m3u8
+#EXTINF:-1,AR: EL NUEVE
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3735.m3u8
+#EXTINF:-1,AR: EL TRECE
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3739.m3u8
+#EXTINF:-1,AR: EL TRECE*
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15768.m3u8
+#EXTINF:-1,AR: NET TV (p)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/45678.m3u8
+#EXTINF:-1,AR: TELEFE
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3744.m3u8
+#EXTINF:-1,AR: TELEFE*
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3745.m3u8
+#EXTINF:-1,AR: TELEMAX*
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3746.m3u8
+#EXTINF:-1,AR: TN*
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3747.m3u8
+#EXTINF:-1,AR: TV PUBLICA*
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3752.m3u8
+#EXTINF:-1,AR: TV PUBLICA**
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3753.m3u8
+#EXTINF:-1,AR: VOLVER
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/40886.m3u8
+#EXTINF:-1,Arica TV 
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57767.m3u8
+#EXTINF:-1,ATACAMA TV
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15868.m3u8
+#EXTINF:-1,Atlanta Braves
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57722.m3u8
+#EXTINF:-1,AXN LATINO ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1725.m3u8
+#EXTINF:-1,AXN WHITE ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/39835.m3u8
+#EXTINF:-1,AXN WHITE ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/42433.m3u8
+#EXTINF:-1,AXN ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55397.m3u8
+#EXTINF:-1,AXN ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/42432.m3u8
+#EXTINF:-1,AXN ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/27591.m3u8
 #EXTINF:-1,AyM SPORTS ⁽ᴴᴰ⁾
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54971.ts
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54971.m3u8
 #EXTINF:-1,B3IN SP0RTS ⁽ᴴᴰ⁾
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/14776.ts
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/14776.m3u8
 #EXTINF:-1,B3IN SPORTS (canadá)
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58157.ts
-#EXTINF:-1,B3IN SPORTS 1 ⁽ᴴᴰ⁾
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43292.ts
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58157.m3u8
 #EXTINF:-1,B3IN SPORTS 11 ⁽ᴴᴰ⁾
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55244.ts
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55244.m3u8
 #EXTINF:-1,B3IN SPORTS 2
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54757.ts
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54757.m3u8
 #EXTINF:-1,B3IN SPORTS 3
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58096.ts
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58096.m3u8
 #EXTINF:-1,B3IN SPORTS 4
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58097.ts
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58097.m3u8
 #EXTINF:-1,B3IN SPORTS LALIGA (ꜰʜᴅ)
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60878.ts
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60878.m3u8
 #EXTINF:-1,B3IN SPORTS MAX 7
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/53442.ts
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/53442.m3u8
+#EXTINF:-1,B3IN SPORTS USA ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43292.m3u8
 #EXTINF:-1,B3IN SPORTS XTRA
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/49360.ts
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/49360.m3u8
 #EXTINF:-1,B3IN SPORTS Ñ
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/14775.ts
-#EXTINF:-1,B3IN SPORTS 
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/16688.ts
-#EXTINF:-1,BARCA TV
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15360.ts
-#EXTINF:-1,CDF BASICO
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/16704.ts
-#EXTINF:-1,CDF BASICO 
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/14789.ts
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/14775.m3u8
+#EXTINF:-1,B3IN SPORTS Ñ ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/16688.m3u8
+#EXTINF:-1,Babar
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60525.m3u8
+#EXTINF:-1,BABY FIRST*
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/42429.m3u8
+#EXTINF:-1,BABY FIRTS 
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/5419.m3u8
+#EXTINF:-1,BABY TV
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/719.m3u8
+#EXTINF:-1,Baltimore Orioles
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57734.m3u8
+#EXTINF:-1,BANDAMAX
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/34685.m3u8
+#EXTINF:-1,bitME
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/27158.m3u8
+#EXTINF:-1,Bob Esponja
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60527.m3u8
+#EXTINF:-1,BOL: ATB
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/11263.m3u8
+#EXTINF:-1,BOL: ATB sd
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/49511.m3u8
+#EXTINF:-1,BOL: BOLIVIA DEPORTES
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/11266.m3u8
+#EXTINF:-1,BOL: BOLIVIA TV
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/11264.m3u8
+#EXTINF:-1,BOL: Bolivia TV Deportes
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54854.m3u8
+#EXTINF:-1,BOL: Bolivision
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54855.m3u8
+#EXTINF:-1,BOL: BOLIVISION TV ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/11262.m3u8
+#EXTINF:-1,BOL: Cadena A
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43269.m3u8
+#EXTINF:-1,BOL: MEGAVISION
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/51465.m3u8
+#EXTINF:-1,BOL: PAT
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43270.m3u8
+#EXTINF:-1,BOL: REC ONLINE
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/39325.m3u8
+#EXTINF:-1,BOL: Red Uno HD
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/39324.m3u8
+#EXTINF:-1,BOL: RTP
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/11265.m3u8
+#EXTINF:-1,BOL: Tigo Sports 1 HD
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54856.m3u8
+#EXTINF:-1,BOL: Tigo Sports 1 SD
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54857.m3u8
+#EXTINF:-1,BOL: Tigo Sports 2 HD
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54858.m3u8
+#EXTINF:-1,BOL: Tigo Sports 2 SD
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54859.m3u8
+#EXTINF:-1,BOL: Tigo Sports 3 HD
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54860.m3u8
+#EXTINF:-1,BOL: Tigo Sports 3 SD
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54861.m3u8
+#EXTINF:-1,BOL: TV U
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43268.m3u8
+#EXTINF:-1,BOL: UNITEL
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/14611.m3u8
+#EXTINF:-1,BOL: UNITEL ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43571.m3u8
+#EXTINF:-1,Bonao TV --
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/39657.m3u8
+#EXTINF:-1,BOOMERANG
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/33726.m3u8
+#EXTINF:-1,Boomerang ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55398.m3u8
+#EXTINF:-1,BOOMERANG ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/720.m3u8
+#EXTINF:-1,CAMPEONATO CHILENO
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54021.m3u8
+#EXTINF:-1,CAMPEONATO CHILENO ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58267.m3u8
+#EXTINF:-1,CAMPEONATO ECUATORIANO
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55194.m3u8
+#EXTINF:-1,CAMPEONATO PARAGUAYO
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54022.m3u8
+#EXTINF:-1,CAMPEONATO PARAGUAYO 2
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54327.m3u8
+#EXTINF:-1,CAMPEONATO PERUANO
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55377.m3u8
+#EXTINF:-1,CAMPEONATO URUGUAYO 
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54020.m3u8
+#EXTINF:-1,CANAL 11
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/39290.m3u8
+#EXTINF:-1,Canal 123 TV ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60501.m3u8
+#EXTINF:-1,CANAL 2 SAN ANTONIO
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15873.m3u8
+#EXTINF:-1,Canal 33 Temuco 
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57777.m3u8
+#EXTINF:-1,Canal 4 RD --
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/39658.m3u8
+#EXTINF:-1,Canal 4 ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55399.m3u8
+#EXTINF:-1,CANAL 5 LINARES
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15874.m3u8
+#EXTINF:-1,CANAL ANTOFAGASTA
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15872.m3u8
+#EXTINF:-1,CANAL DE LAS ESTRELLAS
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1164.m3u8
+#EXTINF:-1,CANAL DE LAS ESTRELLAS ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/9961.m3u8
+#EXTINF:-1,CANAL DE NOTICIAS 24/7
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/27712.m3u8
+#EXTINF:-1,Canal del Sol --
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/39659.m3u8
+#EXTINF:-1,Canela TV ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55400.m3u8
+#EXTINF:-1,CAPPISSIMA MULTIMEDIAL ARICA
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15871.m3u8
+#EXTINF:-1,Carivision --
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/39660.m3u8
+#EXTINF:-1,CAROLINA TV
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/2277.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1163.m3u8
+#EXTINF:-1,Cartoon Network ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55401.m3u8
+#EXTINF:-1,CARTOON NETWORK*
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15804.m3u8
+#EXTINF:-1,CDF BASICO (ꜰʜᴅ)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/16704.m3u8
+#EXTINF:-1,CDF BASICO ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/14789.m3u8
 #EXTINF:-1,CDF ESTADIO
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15878.ts
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15878.m3u8
 #EXTINF:-1,CDF HD
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/27180.ts
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/27180.m3u8
 #EXTINF:-1,CDF HD 1080
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/601.ts
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/601.m3u8
 #EXTINF:-1,CDF HD 720
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/600.ts
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/600.m3u8
 #EXTINF:-1,CDF HD ⁽²⁾
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/16687.ts
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/16687.m3u8
 #EXTINF:-1,CDF HD ⁽ᴹ⁾
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3069.ts
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3069.m3u8
 #EXTINF:-1,CDF PREMIUM ⁽ˢᵈ⁾
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/25322.ts
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/25322.m3u8
+#EXTINF:-1,CDM --
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/39661.m3u8
+#EXTINF:-1,CDM Internacional
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57750.m3u8
 #EXTINF:-1,CDO BÁSICO
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57714.ts
-#EXTINF:-1,CDO PREMIUM
-#EXTGRP:DEPORTES
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57714.m3u8
+#EXTINF:-1,CDO PREMIUM 
 https://cdo.04.cl.cdnz.cl/cdoplus/smil:cdn.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,CDO PREMIUM ⁽ᵃ⁾
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15601.ts
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15601.m3u8
+#EXTINF:-1,CH: 13 DOCU
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/33491.m3u8
+#EXTINF:-1,CH: 13C
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/16175.m3u8
+#EXTINF:-1,CH: 13C ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/511.m3u8
+#EXTINF:-1,CH: 24 HORAS 
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15540.m3u8
+#EXTINF:-1,CH: 24 HORAS (directo)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/41830.m3u8
+#EXTINF:-1,CH: CANAL 13
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/27155.m3u8
+#EXTINF:-1,CH: CANAL 13 1080
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/513.m3u8
+#EXTINF:-1,CH: CANAL 13 720
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15882.m3u8
+#EXTINF:-1,CH: CANAL 13 ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/25177.m3u8
+#EXTINF:-1,CH: CANAL 13i
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15765.m3u8
+#EXTINF:-1,CH: CANAL 13i ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/49831.m3u8
+#EXTINF:-1,CH: CHILEVISION 1080
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1159.m3u8
+#EXTINF:-1,CH: CHILEVISION 720
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/899.m3u8
+#EXTINF:-1,CH: CHILEVISION ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54997.m3u8
+#EXTINF:-1,CH: CHILEVISION ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/34769.m3u8
+#EXTINF:-1,CH: CNN CHILE
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17722.m3u8
+#EXTINF:-1,CH: CNN CHILE ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/38249.m3u8
+#EXTINF:-1,CH: CNN ESPAÑOL
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15712.m3u8
+#EXTINF:-1,CH: ETC TV
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15928.m3u8
+#EXTINF:-1,CH: ETC TV ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54999.m3u8
+#EXTINF:-1,CH: FM HOT CINE 
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1764.m3u8
+#EXTINF:-1,CH: HAGALO UD MISMO TV
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/33492.m3u8
+#EXTINF:-1,CH: LA RED
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/518.m3u8
+#EXTINF:-1,CH: LA RED ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/53437.m3u8
+#EXTINF:-1,CH: LA RED ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15422.m3u8
+#EXTINF:-1,CH: MEGA 1080 ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17284.m3u8
+#EXTINF:-1,CH: MEGA 720 ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/16742.m3u8
+#EXTINF:-1,CH: MEGA GORMET
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/33490.m3u8
+#EXTINF:-1,CH: MEGA PLUS
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15864.m3u8
+#EXTINF:-1,CH: MEGA ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58410.m3u8
+#EXTINF:-1,CH: MEGA ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17304.m3u8
+#EXTINF:-1,CH: MEGANOTICIAS (directo)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58409.m3u8
+#EXTINF:-1,CH: REC TV ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/52671.m3u8
+#EXTINF:-1,CH: RECTV CHILE
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/9865.m3u8
+#EXTINF:-1,CH: T13 MOVIL
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/2269.m3u8
+#EXTINF:-1,CH: TELETRAK
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54388.m3u8
+#EXTINF:-1,CH: TELETRAK ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54998.m3u8
+#EXTINF:-1,CH: TV +
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/2258.m3u8
+#EXTINF:-1,CH: TV + ⁽ᵃ⁾
+https://mdstrm.com/live-stream-playlist/5cb5f2bd50ae45798813ba17.m3u8?PlaylistM3UCL
+#EXTINF:-1,CH: TV CAMARA DE DIPUTADOS
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/2691.m3u8
+#EXTINF:-1,CH: TV CHILE
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58411.m3u8
+#EXTINF:-1,CH: TV EDUCA CHILE
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/36817.m3u8
+#EXTINF:-1,CH: TV EDUCA CHILE (directo)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58114.m3u8
+#EXTINF:-1,CH: TV+ 
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/16013.m3u8
+#EXTINF:-1,CH: TVN
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/27156.m3u8
+#EXTINF:-1,CH: TVN ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/520.m3u8
+#EXTINF:-1,CH: TVN ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/27154.m3u8
+#EXTINF:-1,CH: TVN ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/519.m3u8
+#EXTINF:-1,CH: ZONA LATINA ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60879.m3u8
+#EXTINF:-1,Chespirito TV
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60615.m3u8
+#EXTINF:-1,CINE AR ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43018.m3u8
+#EXTINF:-1,Cinecanal ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55402.m3u8
+#EXTINF:-1,CINECANAL ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1726.m3u8
+#EXTINF:-1,CINECANAL ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17334.m3u8
+#EXTINF:-1,CINELATINO
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55013.m3u8
+#EXTINF:-1,CINELATINO 2
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55012.m3u8
+#EXTINF:-1,CINELATINO ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/42436.m3u8
+#EXTINF:-1,CINEMA ACCION CLASSICS ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57651.m3u8
+#EXTINF:-1,Cinema Accion Classics ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60468.m3u8
+#EXTINF:-1,Cinema Anime [test]
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60469.m3u8
+#EXTINF:-1,CINEMA CIENCIA FICCION ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57652.m3u8
+#EXTINF:-1,Cinema Ciencia Ficcion ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60470.m3u8
+#EXTINF:-1,Cinema Comedia Este ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60472.m3u8
+#EXTINF:-1,Cinema Comedia ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60471.m3u8
+#EXTINF:-1,CINEMA DC COMICS ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57653.m3u8
+#EXTINF:-1,Cinema DC Comics ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60473.m3u8
+#EXTINF:-1,CINEMA DC UNIVERSE ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57654.m3u8
+#EXTINF:-1,Cinema DC Universe ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60474.m3u8
+#EXTINF:-1,CINEMA DISNEY FAMILY ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57655.m3u8
+#EXTINF:-1,Cinema Disney Family ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60475.m3u8
+#EXTINF:-1,Cinema Disney Pixar ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60476.m3u8
+#EXTINF:-1,CINEMA DREAMWORKS ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57656.m3u8
+#EXTINF:-1,Cinema Dreamworks ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60477.m3u8
+#EXTINF:-1,CINEMA FAMILIA ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57657.m3u8
+#EXTINF:-1,Cinema Familia ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60478.m3u8
+#EXTINF:-1,Cinema Happy Madison ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60479.m3u8
+#EXTINF:-1,CINEMA HAPPY MADISSON ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57658.m3u8
+#EXTINF:-1,Cinema Horror Classics ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60480.m3u8
+#EXTINF:-1,Cinema Horror ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60481.m3u8
+#EXTINF:-1,CINEMA HORRROR ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57659.m3u8
+#EXTINF:-1,CINEMA LEGO MOVIES ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57660.m3u8
+#EXTINF:-1,Cinema Lego Movies ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60482.m3u8
+#EXTINF:-1,CINEMA MARVEL ANIMADO ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57661.m3u8
+#EXTINF:-1,Cinema Marvel Animated ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60483.m3u8
+#EXTINF:-1,Cinema Marvel Studios Este ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60485.m3u8
+#EXTINF:-1,Cinema Marvel Studios Oeste ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60486.m3u8
+#EXTINF:-1,CINEMA MARVEL STUDIOS ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57662.m3u8
+#EXTINF:-1,Cinema Marvel Studios ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60484.m3u8
+#EXTINF:-1,Cinema Navidad ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60487.m3u8
+#EXTINF:-1,Cinemax Action FHD
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54863.m3u8
+#EXTINF:-1,Cinemax ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55403.m3u8
+#EXTINF:-1,CINEMAX ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17335.m3u8
+#EXTINF:-1,CINEMAX ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1727.m3u8
+#EXTINF:-1,Cinevision Canal 19  --
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/39662.m3u8
+#EXTINF:-1,CLARO CINEMA
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/42437.m3u8
+#EXTINF:-1,Claro Música
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57646.m3u8
 #EXTINF:-1,CLARO SPORTS
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54755.ts
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54755.m3u8
 #EXTINF:-1,CLARO SPORTS ⁽ᴴᴰ⁾
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57824.ts
-#EXTINF:-1,ECDF (sólo eventos)
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/59307.ts
-#EXTINF:-1,FOX SPORTS (argentina)
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58066.ts
-#EXTINF:-1,FOX SPORTS (argentina) ⁽ᴹ⁾
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58065.ts
-#EXTINF:-1,FOX SPORTS (brasil)
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54329.ts
-#EXTINF:-1,FOX SPORTS (méxico)
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/32993.ts
-#EXTINF:-1,FOX SPORTS 1
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54121.ts
-#EXTINF:-1,FOX SPORTS 1 CHILE (ʙ)
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55004.ts
-#EXTINF:-1,FOX SPORTS 1 CHILE (ᴀ)
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/25247.ts
-#EXTINF:-1,FOX SPORTS 1 SUR ⁽ᴹ⁾
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/25248.ts
-#EXTINF:-1,FOX SPORTS 1 ⁽ᴹ⁾
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/41665.ts
-#EXTINF:-1,FOX SPORTS 2 (brasil)
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54330.ts
-#EXTINF:-1,FOX SPORTS 2 (brasil)
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57810.ts
-#EXTINF:-1,FOX SPORTS 2 (chile)
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58150.ts
-#EXTINF:-1,FOX SPORTS 2 (méxico)
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/613.ts
-#EXTINF:-1,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" group-title="DEPORTES",FOX SPORTS 2 SUR ⁽ᴴᴰ⁾
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55005.ts
-#EXTINF:-1,FOX SPORTS 2 SUR ⁽ᴹ⁾
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57823.ts
-#EXTINF:-1,FOX SPORTS 2 ⁽ᴴᴰ⁾
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58095.ts
-#EXTINF:-1,FOX SPORTS 2 ⁽ᴹ⁾
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54123.ts
-#EXTINF:-1,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" group-title="DEPORTES",FOX SPORTS 2 ⁽ᴹ⁾ (méxico)
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55378.ts
-#EXTINF:-1,FOX SPORTS 3 (argentina)
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/41668.ts
-#EXTINF:-1,FOX SPORTS 3 (méxico)
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55007.ts
-#EXTINF:-1,FOX SPORTS 3 (méxico) ⁽ᴹ⁾
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/18218.ts
-#EXTINF:-1,FOX SPORTS 3 SUR ⁽ᵃ⁾
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55006.ts
-#EXTINF:-1,FOX SPORTS PREMIUM ⁽ᴴᴰ⁾
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54122.ts
-#EXTINF:-1,FOX SPORTS SUR
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58093.ts
-#EXTINF:-1,FOX SPORTS SUR 2
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/18219.ts
-#EXTINF:-1,FOX SPORTS ⁽ᴴᴰ⁾ (méxico)
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55003.ts
-#EXTINF:-1,PREMIERE 2
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54341.ts
-#EXTINF:-1,PREMIERE 3
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55197.ts
-#EXTINF:-1,PREMIERE 4
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57479.ts
-#EXTINF:-1,PREMIERE 5
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57288.ts
-#EXTINF:-1,PREMIERE 6
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57630.ts
-#EXTINF:-1,PREMIERE 7
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57289.ts
-#EXTINF:-1,PREMIERE CLUBES
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54334.ts
-#EXTINF:-1,PREMIERE CLUBES
-#EXTGRP:DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54993.ts
-#EXTINF:-1,Fox Sports 2 
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55425.ts
-#EXTINF:-1,Fox Sports 3 
-#EXTGRP:TV EN VIVO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55426.ts
-
-
-
-#EXTINF:-1,Doraemon
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60535.ts
-#EXTINF:-1,Doug
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60536.ts
-#EXTINF:-1,Dragon Ball
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60537.ts
-#EXTINF:-1,Dragon Ball 2
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60538.ts
-#EXTINF:-1,Dragon Ball GT
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60539.ts
-#EXTINF:-1,Animaniacs
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60524.ts
-#EXTINF:-1,Jimmy Neutron
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60558.ts
-#EXTINF:-1,Johnny Bravo
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60559.ts
-#EXTINF:-1,(Des)encanto
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60517.ts
-#EXTINF:-1,13 Docu
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60515.ts
-#EXTINF:-1,13 Now Kids
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60491.ts
-#EXTINF:-1,2 Perros Tontos
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60518.ts
-#EXTINF:-1,31 Minutos
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60519.ts
-#EXTINF:-1,31 Minutos ⁽ᴴᴰ⁾
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60520.ts
-#EXTINF:-1,Aaahh Real Monsters
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60521.ts
-#EXTINF:-1,Agreetsuko ⁽ᴴᴰ⁾
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60522.ts
-#EXTINF:-1,Alf
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60523.ts
-#EXTINF:-1,Amazon Kids ⁽ᴴᴰ⁾
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60492.ts
-#EXTINF:-1,Agreetsuko ⁽ᴴᴰ⁾
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60522.ts
-#EXTINF:-1,Bob Esponja
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60527.ts
-#EXTINF:-1,TV EN VIVOma Accion Classics ⁽ᴴᴰ⁾
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60468.ts
-#EXTINF:-1,TV EN VIVOma Anime [test]
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60469.ts
-#EXTINF:-1,TV EN VIVOma Ciencia Ficcion ⁽ᴴᴰ⁾
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60470.ts
-#EXTINF:-1,TV EN VIVOma Comedia Este ⁽ᴴᴰ⁾
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60472.ts
-#EXTINF:-1,TV EN VIVOma Comedia ⁽ᴴᴰ⁾
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60471.ts
-#EXTINF:-1,TV EN VIVOma DC Comics ⁽ᴴᴰ⁾
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60473.ts
-#EXTINF:-1,TV EN VIVOma DC Universe ⁽ᴴᴰ⁾
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60474.ts
-#EXTINF:-1,TV EN VIVOma Disney Family ⁽ᴴᴰ⁾
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60475.ts
-#EXTINF:-1,TV EN VIVOma Disney Pixar ⁽ᴴᴰ⁾
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60476.ts
-#EXTINF:-1,TV EN VIVOma Dreamworks ⁽ᴴᴰ⁾
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60477.ts
-#EXTINF:-1,TV EN VIVOma Familia ⁽ᴴᴰ⁾
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60478.ts
-#EXTINF:-1,TV EN VIVOma Happy Madison ⁽ᴴᴰ⁾
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60479.ts
-#EXTINF:-1,TV EN VIVOma Horror Classics ⁽ᴴᴰ⁾
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60480.ts
-#EXTINF:-1,TV EN VIVOma Horror ⁽ᴴᴰ⁾
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60481.ts
-#EXTINF:-1,TV EN VIVOma Lego Movies ⁽ᴴᴰ⁾
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60482.ts
-#EXTINF:-1,TV EN VIVOma Marvel Animated ⁽ᴴᴰ⁾
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60483.ts
-#EXTINF:-1,TV EN VIVOma Marvel Studios Este ⁽ᴴᴰ⁾
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60485.ts
-#EXTINF:-1,TV EN VIVOma Marvel Studios Oeste ⁽ᴴᴰ⁾
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60486.ts
-#EXTINF:-1,TV EN VIVOma Marvel Studios ⁽ᴴᴰ⁾
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60484.ts
-#EXTINF:-1,TV EN VIVOma Navidad ⁽ᴴᴰ⁾
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60487.ts
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57824.m3u8
+#EXTINF:-1,Cleveland Indians
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57728.m3u8
+#EXTINF:-1,CNN CHILE*
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/27710.m3u8
+#EXTINF:-1,CNN ESPAÑOL
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/27716.m3u8
+#EXTINF:-1,CNN INTERNACIONAL
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/27708.m3u8
+#EXTINF:-1,CNN INTERNACIONAL ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/27707.m3u8
+#EXTINF:-1,Cocina Abierta ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60503.m3u8
+#EXTINF:-1,Cocina Real ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60505.m3u8
+#EXTINF:-1,COL:  DTV SPORTS 
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43362.m3u8
+#EXTINF:-1,COL: CABLE NOTICIAS 
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/4003.m3u8
+#EXTINF:-1,COL: CABLENOTICIA
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17790.m3u8
+#EXTINF:-1,COL: CANAL CAPITAL
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43359.m3u8
+#EXTINF:-1,COL: CANAL TRO
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43360.m3u8
+#EXTINF:-1,COL: CANAL UNO
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17780.m3u8
+#EXTINF:-1,COL: CANAL UNO 
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3999.m3u8
+#EXTINF:-1,COL: CANTINAZO
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43361.m3u8
+#EXTINF:-1,COL: CARACOL
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58371.m3u8
+#EXTINF:-1,COL: CARACOL INTERNACIONAL
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3995.m3u8
+#EXTINF:-1,COL: CARACOL INTERNACIONAL ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17767.m3u8
+#EXTINF:-1,COL: CARACOL ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17698.m3u8
+#EXTINF:-1,COL: CARACOL ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17787.m3u8
+#EXTINF:-1,COL: CITY TV 
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3994.m3u8
+#EXTINF:-1,COL: CITY TV 1
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17772.m3u8
+#EXTINF:-1,COL: COSMOVISION
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3991.m3u8
+#EXTINF:-1,COL: DTV SPORTS 2 
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43363.m3u8
+#EXTINF:-1,COL: EL TRECE 
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3973.m3u8
+#EXTINF:-1,COL: NTN 24
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17789.m3u8
+#EXTINF:-1,COL: NTN24
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3990.m3u8
+#EXTINF:-1,COL: PASIONES
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17786.m3u8
+#EXTINF:-1,COL: PASIONES (T)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3989.m3u8
+#EXTINF:-1,COL: RCN
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3986.m3u8
+#EXTINF:-1,COL: RCN (D)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3972.m3u8
+#EXTINF:-1,COL: RCN *
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17759.m3u8
+#EXTINF:-1,COL: RCN INTERNACIONAL 
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17762.m3u8
+#EXTINF:-1,COL: RCN NOTICIAS
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17760.m3u8
+#EXTINF:-1,COL: RCN NOVELAS
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17761.m3u8
+#EXTINF:-1,COL: RCN NOVELAS
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3982.m3u8
+#EXTINF:-1,COL: RCN NUESTRA TELE
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15710.m3u8
+#EXTINF:-1,COL: RCN ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17758.m3u8
+#EXTINF:-1,COL: SEÑAL COLOMBIA
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17781.m3u8
+#EXTINF:-1,COL: TELEAMIGA
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17778.m3u8
+#EXTINF:-1,COL: TELEANTIOQUIA
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17774.m3u8
+#EXTINF:-1,COL: TELEANTIOQUIA **
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3981.m3u8
+#EXTINF:-1,COL: TELECAFE
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17779.m3u8
+#EXTINF:-1,COL: TELECARIBE
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17777.m3u8
+#EXTINF:-1,COL: TELECARIBE 
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3978.m3u8
+#EXTINF:-1,COL: TELEMEDELLIN
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17775.m3u8
+#EXTINF:-1,COL: TELEMEDELLIN 
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3977.m3u8
+#EXTINF:-1,COL: TELEPACIFICO
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17776.m3u8
+#EXTINF:-1,COL: TELEPACIFICO
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3976.m3u8
+#EXTINF:-1,COL: TV AGRO
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17782.m3u8
+#EXTINF:-1,COL: WIN SPORTS
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17769.m3u8
+#EXTINF:-1,COL: WIN SPORTS+ 
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17768.m3u8
+#EXTINF:-1,Color Vision --
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/39663.m3u8
+#EXTINF:-1,Colorado Rockies
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57742.m3u8
+#EXTINF:-1,COMEDY CENTRAL
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/18229.m3u8
+#EXTINF:-1,Comedy Central ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55404.m3u8
+#EXTINF:-1,COMEDY CENTRAL ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/18230.m3u8
+#EXTINF:-1,CONCERT CHANNEL
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/780.m3u8
+#EXTINF:-1,CONTIVISION MUSICA
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/2272.m3u8
+#EXTINF:-1,CORONA VIRUS
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/27641.m3u8
+#EXTINF:-1,CSTV
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58127.m3u8
+#EXTINF:-1,CTN INTERNACIONAL
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/29006.m3u8
+#EXTINF:-1,CTNI 
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/39286.m3u8
 #EXTINF:-1,Cuentos de la Cripta
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60530.ts
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60530.m3u8
+#EXTINF:-1,Dance/EDM
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3530.m3u8
 #EXTINF:-1,DC Hero Super Girls
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60531.ts
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60531.m3u8
+#EXTINF:-1,DE PELICULA PLUS
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/42434.m3u8
+#EXTINF:-1,DE PELICULA ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1728.m3u8
 #EXTINF:-1,Death Note
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60532.ts
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60532.m3u8
+#EXTINF:-1,Delicioso HD
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54864.m3u8
+#EXTINF:-1,Detective Conan
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60533.m3u8
+#EXTINF:-1,Detroit Tigers
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57726.m3u8
+#EXTINF:-1,DHE ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55011.m3u8
+#EXTINF:-1,DHE ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55010.m3u8
 #EXTINF:-1,Dinosaurios
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60534.ts
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60534.m3u8
+#EXTINF:-1,Directv Sports ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55405.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17326.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/781.m3u8
+#EXTINF:-1,DISCOVERY CIVILIZATION (ꜰʜᴅ)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/5407.m3u8
+#EXTINF:-1,DISCOVERY CIVILIZATION ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17327.m3u8
+#EXTINF:-1,DISCOVERY H&H ⁽ᴬ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/782.m3u8
+#EXTINF:-1,DISCOVERY H&H ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/5408.m3u8
+#EXTINF:-1,Discovery Home & Healt ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55406.m3u8
+#EXTINF:-1,DISCOVERY INVESTIGATION (ꜰʜᴅ) (méxico)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17320.m3u8
+#EXTINF:-1,DISCOVERY INVESTIGATION ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17312.m3u8
+#EXTINF:-1,DISCOVERY KIDS
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/721.m3u8
+#EXTINF:-1,Discovery Kids ⁽ˢᵈ⁾  [Dual Audio]
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/59293.m3u8
+#EXTINF:-1,DISCOVERY KIDS ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17719.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17329.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/5409.m3u8
+#EXTINF:-1,DISCOVERY THEATER ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/784.m3u8
+#EXTINF:-1,DISCOVERY TURBO 
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/5410.m3u8
+#EXTINF:-1,Discovery Turbo ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55407.m3u8
+#EXTINF:-1,DISCOVERY TURBO ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1161.m3u8
+#EXTINF:-1,DISCOVERY WORLD
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/5412.m3u8
+#EXTINF:-1,DISCOVERY WORLD ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17331.m3u8
+#EXTINF:-1,Disenchantment (Ing)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60621.m3u8
+#EXTINF:-1,DISNEY CHANELL*
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15604.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/33727.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/723.m3u8
+#EXTINF:-1,Disney Junior ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55408.m3u8
+#EXTINF:-1,DISNEY JUNIOR*
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/33724.m3u8
+#EXTINF:-1,Disney Live Action ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60489.m3u8
+#EXTINF:-1,DISNEY PRINCESAS
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/41864.m3u8
+#EXTINF:-1,DISNEY PRINCESAS*
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/42424.m3u8
+#EXTINF:-1,Disney Princess ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60490.m3u8
+#EXTINF:-1,Disney XD ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55409.m3u8
+#EXTINF:-1,DISNEY XD ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/724.m3u8
+#EXTINF:-1,DISNEY XD ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/33725.m3u8
+#EXTINF:-1,DJ LONCHO TV
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/2276.m3u8
+#EXTINF:-1,Doraemon
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60535.m3u8
+#EXTINF:-1,Doug
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60536.m3u8
+#EXTINF:-1,Dragon Ball
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60537.m3u8
+#EXTINF:-1,Dragon Ball 2
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60538.m3u8
+#EXTINF:-1,Dragon Ball GT
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60539.m3u8
 #EXTINF:-1,Dragon Ball Super 1 Saga la Batalla de los Dioses y la resurreccion de Frezzer
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60540.ts
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60540.m3u8
 #EXTINF:-1,Dragon Ball Super 2 Saga Universo 6 y Goku Black
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60541.ts
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60541.m3u8
 #EXTINF:-1,Dragon Ball Super 3 Saga de la Supervivencia Universal
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60542.ts
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60542.m3u8
 #EXTINF:-1,Dragon Ball Z Movies
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60543.ts
-#EXTINF:-1,24/7  DUCK DODGERS
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10917.ts
-#EXTINF:-1,24/7  LA MASCARA: ANIMADA
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10919.ts
-#EXTINF:-1,24/7  LOS CUENTOS DE MASHA
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10920.ts
-#EXTINF:-1,24/7 AHH.. REAL MONSTERS
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10922.ts
-#EXTINF:-1,24/7 ALF
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10923.ts
-#EXTINF:-1,24/7 ANIMANIACS
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10924.ts
-#EXTINF:-1,24/7 AQUAMAN ANIMADO
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10925.ts
-#EXTINF:-1,24/7 Avengers
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57873.ts
-#EXTINF:-1,24/7 Años Maravillosos Temp 1
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57832.ts
-#EXTINF:-1,24/7 Años Maravillosos Temp 2
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57833.ts
-#EXTINF:-1,24/7 Años Maravillosos Temp 3
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57834.ts
-#EXTINF:-1,24/7 BABAR
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10926.ts
-#EXTINF:-1,24/7 BATMAN ANIMADO
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10929.ts
-#EXTINF:-1,24/7 BEETLEJUICE
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10931.ts
-#EXTINF:-1,24/7 BOB ESPONJA
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/5420.ts
-#EXTINF:-1,24/7 BREAKING BAD
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57835.ts
-#EXTINF:-1,24/7 CABALLEROS DEL ZODIACO
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/16691.ts
-#EXTINF:-1,24/7 Candy Candy
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54963.ts
-#EXTINF:-1,24/7 CANITO Y CANUTO
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10935.ts
-#EXTINF:-1,24/7 CASADO CON HIJOS
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54754.ts
-#EXTINF:-1,24/7 Caso Cerrado
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57836.ts
-#EXTINF:-1,24/7 Chernobyl HD
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54964.ts
-#EXTINF:-1,24/7 Como dice el dicho
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57828.ts
-#EXTINF:-1,24/7 CONAN EL AVENTURERO
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10941.ts
-#EXTINF:-1,24/7 CONDE PATULA
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10942.ts
-#EXTINF:-1,24/7 CORAJE EL PERRO COBARDE
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43286.ts
-#EXTINF:-1,24/7 CUENTOS DE LA CRYPTA ANIMADA
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10943.ts
-#EXTINF:-1,24/7 DANIEL EL TRAVIESO
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10944.ts
-#EXTINF:-1,24/7 DORA Y SUS AMIGOS
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43273.ts
-#EXTINF:-1,24/7 DOS PERROS TONTOS
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10945.ts
-#EXTINF:-1,24/7 DRA JUGUETE
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43274.ts
-#EXTINF:-1,24/7 DRAGON BALL GT
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10946.ts
-#EXTINF:-1,24/7 DRAGON BALL PELICULAS
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10947.ts
-#EXTINF:-1,h_576,strp/dragon_ball_z__dbz__nuevo_logo_by_saodvd_d8rx6aw-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvM2ViNzBjY2MtZTdhZC00ZTFhLTg3ZmEtZjk3ZGY5ZWYxYzUyXC9kOHJ4NmF3LTdhZWQzOGRkLTU3NmItNDdjYy1iMGIwLWEyNDgwM2YxZjJmZS5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.oYKaNgd3mlbQkcOGM5ZCJnb4RG0bBOxr3j5rSPCpSPg" group-title="24/7",24/7 DRAGON BALL Z
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10948.ts
-#EXTINF:-1,24/7 EL CHAPULIN COLORADO
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/47644.ts
-#EXTINF:-1,24/7 EL CHAVO DEL 8
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43277.ts
-#EXTINF:-1,24/7 EL CHAVO DEL 8 ANIMADO
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43278.ts
-#EXTINF:-1,24/7 El Chavo del 8 Temp 01
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57848.ts
-#EXTINF:-1,24/7 El Chavo del 8 Temp 02
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57849.ts
-#EXTINF:-1,24/7 El Chavo TV
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58126.ts
-#EXTINF:-1,24/7 El Clon HD
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54965.ts
-#EXTINF:-1,24/7 El Coche Fantastico
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54966.ts
-#EXTINF:-1,24/7 El Coyote y el Correcaminos
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57850.ts
-#EXTINF:-1,24/7 EL GRUPO INCREIBLE
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10949.ts
-#EXTINF:-1,24/7 EL INCREIBLE HULK
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43279.ts
-#EXTINF:-1,24/7 EL LABORATORIO DE DEXTER
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10950.ts
-#EXTINF:-1,24/7 EL MUNDO DE BOBBY
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54753.ts
-#EXTINF:-1,24/7 El Príncipe de Bel-Air
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57851.ts
-#EXTINF:-1,24/7 El Señor de los Cielos
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54967.ts
-#EXTINF:-1,800x800,070,f.u2.jpg" group-title="24/7",24/7 EL SHOW DE PEBBLES Y BAMM-BAMM
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10952.ts
-#EXTINF:-1,24/7 ER SALA DE URGENCIAS
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43275.ts
-#EXTINF:-1,24/7 Exponiendo Infieles
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57847.ts
-#EXTINF:-1,24/7 FENOMENOIDE
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10953.ts
-#EXTINF:-1,24/7 FUTURAMA
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10955.ts
-#EXTINF:-1,24/7 GARFIELD
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10956.ts
-#EXTINF:-1,24/7 GATO FELIX
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10958.ts
-#EXTINF:-1,24/7 HALCONES GALÁCTICOS
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10959.ts
-#EXTINF:-1,24/7 HE-MAN Y LOS AMOS DEL UNIVERSO
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10961.ts
-#EXTINF:-1,24/7 HE-MAN y los Masters del Universo
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57852.ts
-#EXTINF:-1,24/7 HERCULES LOS VIAJES LEGENDARIOS
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43287.ts
-#EXTINF:-1,24/7 HEY ARNOLD
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/5421.ts
-#EXTINF:-1,24/7 HOMBRES DE NEGRO LA SERIE ANIMADA
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43288.ts
-#EXTINF:-1,24/7 HORA DE AVENTURAS
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10962.ts
-#EXTINF:-1,24/7 J.I.JOE
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57853.ts
-#EXTINF:-1,24/7 JIMMY NEUTRON
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10964.ts
-#EXTINF:-1,24/7 JOVENES TITANES EN ACCIÓN
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10965.ts
-#EXTINF:-1,24/7 Juegos de Tronos Temp 1
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57857.ts
-#EXTINF:-1,24/7 Juegos de Tronos Temp 2
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57858.ts
-#EXTINF:-1,24/7 LA CASA DE MICKEY MOUSE
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43289.ts
-#EXTINF:-1,24/7 La Casa de Papel
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57854.ts
-#EXTINF:-1,24/7 LA FAMILIA P.LUCHE
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43276.ts
-#EXTINF:-1,24/7 LA GARRAPATA
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10966.ts
-#EXTINF:-1,24/7 LA MUJER MARAVILLA
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10967.ts
-#EXTINF:-1,24/7 LA NIÑERA
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/38319.ts
-#EXTINF:-1,24/7 LA PAISANA JACINTA
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57829.ts
-#EXTINF:-1,24/7 LAS TORTUGAS NINJAS
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10992.ts
-#EXTINF:-1,24/7 Latinos Up! TV
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58133.ts
-#EXTINF:-1,24/7 LE TEMES A LA OSCURIDAD
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10969.ts
-#EXTINF:-1,24/7 LITTLEST PET SHOP
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10971.ts
-#EXTINF:-1,24/7 Lobo del Aire
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54968.ts
-#EXTINF:-1,24/7 LOS CROODS
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10973.ts
-#EXTINF:-1,24/7 LOS PADRINOS MAGICOS
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43280.ts
-#EXTINF:-1,24/7 LOS PICAPIEDRAS
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/5427.ts
-#EXTINF:-1,24/7 LOS PINGUINOS DE MADAGASCAR
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10975.ts
-#EXTINF:-1,24/7 LOS PITUFOS
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10976.ts
-#EXTINF:-1,24/7 LOS PULENTOS
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10984.ts
-#EXTINF:-1,24/7 LOS SIMPSON
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/25250.ts
-#EXTINF:-1,24/7 Los Simpsons Temp 1
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57859.ts
-#EXTINF:-1,24/7 Los Simpsons Temp 2
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57860.ts
-#EXTINF:-1,24/7 Los Simpsons Temp 3
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57861.ts
-#EXTINF:-1,24/7 Los Simpsons Temp 4
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57862.ts
-#EXTINF:-1,24/7 Los Simpsons Temp 5
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57863.ts
-#EXTINF:-1,24/7 Los Simpsons Temp 6
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57864.ts
-#EXTINF:-1,24/7 Los Simpsons Temp 7
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57865.ts
-#EXTINF:-1,24/7 LOS VERDADEROS CAZAFANTASMAS
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10977.ts
-#EXTINF:-1,24/7 MALCOLM
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/30817.ts
-#EXTINF:-1,24/7 MASHA Y EL OSO
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10978.ts
-#EXTINF:-1,24/7 MAZINGER Z
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/47739.ts
-#EXTINF:-1,Televisión Clásica" tvg-logo="https://lh3.googleusercontent.com/proxy/N3CgdPM4x-_Jo3eglct9ZfqaUVYvG-kLsdiChrtrl3UB2VvKET7qT4YwJTRxq9G0KYCOT-LGMtPI7oW_K0onhYfQJoDIB7W7k_z0j8pfEPBmt_21b620fYMP6pLdVxAYSWgKd9Kt" group-title="24/7",24/7 Mi TV , Televisión Clásica
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58131.ts
-#EXTINF:-1,24/7 MORTAL KOMBAT: LA SERIE
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10979.ts
-#EXTINF:-1,24/7 MY LITTLE PONNY 86
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10980.ts
-#EXTINF:-1,24/7 Nosotros los guapos
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57830.ts
-#EXTINF:-1,24/7 PAW PATROL
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43281.ts
-#EXTINF:-1,24/7 PEPA PIG
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43282.ts
-#EXTINF:-1,24/7 Play! TV EN VIVOma Accion Classics
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57866.ts
-#EXTINF:-1,24/7 Play! TV EN VIVOma Actividad paranormal
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57867.ts
-#EXTINF:-1,24/7 POPEYE Y SU HIJO
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10982.ts
-#EXTINF:-1,24/7 PRINCESITA SOFIA
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/42425.ts
-#EXTINF:-1,24/7 RANMA ½
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10985.ts
-#EXTINF:-1,24/7 RICK Y MORTY
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10986.ts
-#EXTINF:-1,24/7 Rosa de Guadalupe
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57831.ts
-#EXTINF:-1,24/7 SAGA RAPIDO & FURIOSO
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/46688.ts
-#EXTINF:-1,24/7 SCARY MOVIE
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/5441.ts
-#EXTINF:-1,24/7 Scooby-Doo!
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57827.ts
-#EXTINF:-1,24/7 SLAM DUNK
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54750.ts
-#EXTINF:-1,24/7 SOUTH PARK
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10988.ts
-#EXTINF:-1,24/7 SPIDER-MAN: LA SERIE ANIMADA
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10989.ts
-#EXTINF:-1,24/7 SUPER CAMPEONES
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15465.ts
-#EXTINF:-1,24/7 SUPERSONICOS
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10990.ts
-#EXTINF:-1,24/7 TAZMANIA
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10991.ts
-#EXTINF:-1,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" group-title="24/7",24/7 Telered
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58136.ts
-#EXTINF:-1,24/7 Thundercats
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57856.ts
-#EXTINF:-1,24/7 TOY STORY
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10993.ts
-#EXTINF:-1,24/7 Two and Half Men
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57855.ts
-#EXTINF:-1,24/7 X-MEN ANIMADO
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10995.ts
-#EXTINF:-1,24/7 XENA LA PRINCESA GUERRERA
-#EXTGRP:SERIES RETRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43290.ts
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60543.m3u8
+#EXTINF:-1,DTV SPORTS (ecuador)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60863.m3u8
+#EXTINF:-1,DTV SPORTS +
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/41663.m3u8
+#EXTINF:-1,DTV SPORTS + (ꜰʜᴅ)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60951.m3u8
+#EXTINF:-1,DTV SPORTS + ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15881.m3u8
+#EXTINF:-1,DTV SPORTS 1
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/604.m3u8
+#EXTINF:-1,DTV SPORTS 1 (colombia)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/27514.m3u8
+#EXTINF:-1,DTV SPORTS 1 CHILE 1080 ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/605.m3u8
+#EXTINF:-1,DTV SPORTS 1 CHILE 720 ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/53362.m3u8
+#EXTINF:-1,DTV SPORTS 1 ⁽ᴴᴰ⁾ (chile) 
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/61519.m3u8
+#EXTINF:-1,DTV SPORTS 1 ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54128.m3u8
+#EXTINF:-1,DTV SPORTS 2
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/49510.m3u8
+#EXTINF:-1,DTV SPORTS 2  (colombia)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43364.m3u8
+#EXTINF:-1,DTV SPORTS 2 (perú)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57381.m3u8
+#EXTINF:-1,DTV SPORTS 2 ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60950.m3u8
+#EXTINF:-1,DTV SPORTS 2 ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/53363.m3u8
+#EXTINF:-1,DTV SPORTS PLUS
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/42472.m3u8
+#EXTINF:-1,Duck Dodgers
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60544.m3u8
+#EXTINF:-1,E!
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/53536.m3u8
+#EXTINF:-1,E! ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/554.m3u8
+#EXTINF:-1,ECU: CANAL UNO (2 ᴍʙ)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/59350.m3u8
+#EXTINF:-1,ECU: Canal Uno (ꜰʜᴅ)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3515.m3u8
+#EXTINF:-1,ECU: CANAL UNO ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/59351.m3u8
+#EXTINF:-1,ECU: CANELA TV (2 ᴍʙ)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/59352.m3u8
+#EXTINF:-1,ECU: CANELA TV ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54987.m3u8
+#EXTINF:-1,ECU: Directv Sports (ꜰʜᴅ)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54988.m3u8
+#EXTINF:-1,ECU: DIRECTV SPORTS ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54990.m3u8
+#EXTINF:-1,ECU: Directv Sports ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54989.m3u8
+#EXTINF:-1,ECU: ECDF (2 ᴍɢ)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/61475.m3u8
+#EXTINF:-1,ECU: ECUADOR TV (ꜰʜᴅ)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54991.m3u8
+#EXTINF:-1,ECU: Ecuador TV ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54992.m3u8
+#EXTINF:-1,ECU: ECUADOR TV ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3509.m3u8
+#EXTINF:-1,ECU: ECUAVISA
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3507.m3u8
+#EXTINF:-1,ECU: ECUAVISA GUAYAQUIL (2 ᴍʙ)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/59355.m3u8
+#EXTINF:-1,ECU: ECUAVISA INTERNACIONAL (ꜰʜᴅ)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/59353.m3u8
+#EXTINF:-1,ECU: ECUAVISA INTERNACIONAL ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/59354.m3u8
+#EXTINF:-1,ECU: ECUAVISA QUITO (2 ᴍʙ)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/59356.m3u8
+#EXTINF:-1,ECU: ECUAVISA QUITO (ꜰʜᴅ)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/59357.m3u8
+#EXTINF:-1,ECU: GAMAVISION ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3504.m3u8
+#EXTINF:-1,ECU: GAMAVISON ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/59358.m3u8
+#EXTINF:-1,ECU: GOL TV
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/39326.m3u8
+#EXTINF:-1,ECU: Gol TV (Solo Eventos)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54994.m3u8
+#EXTINF:-1,ECU: GOLTV
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3500.m3u8
+#EXTINF:-1,ECU: GOLTV 
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3501.m3u8
+#EXTINF:-1,ECU: GOLTV (2 ᴍʙ)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/59359.m3u8
+#EXTINF:-1,ECU: GOLTV (ꜰʜᴅ)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/59362.m3u8
+#EXTINF:-1,ECU: GOLTV ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/59360.m3u8
+#EXTINF:-1,ECU: GOLTV ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/59361.m3u8
+#EXTINF:-1,ECU: OROMAR 
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3497.m3u8
+#EXTINF:-1,ECU: OROMAR ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/59368.m3u8
+#EXTINF:-1,ECU: RTS (ꜰʜᴅ)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3494.m3u8
+#EXTINF:-1,ECU: TC MI CANAL 
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3484.m3u8
+#EXTINF:-1,ECU: TC MI CANAL ⁽ᴴᴰ⁾ 
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3491.m3u8
+#EXTINF:-1,ECU: TELEAMAZONAS
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3489.m3u8
+#EXTINF:-1,ECU: TELEAMAZONAS
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3490.m3u8
+#EXTINF:-1,ECU: TELEAMAZONAS GUAYAQUIL ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/59363.m3u8
+#EXTINF:-1,ECU: TELEAMAZONAS GUAYAQUIL ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/59364.m3u8
+#EXTINF:-1,ECU: TELEAMAZONAS QUITO ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/59365.m3u8
+#EXTINF:-1,ECU: TELEAMAZONAS QUITO ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/59366.m3u8
+#EXTINF:-1,ECU: TVC ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/59367.m3u8
+#EXTINF:-1,Ecuador TV 2mb
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55410.m3u8
+#EXTINF:-1,Ecuavisa [Gquil] 2mb
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55411.m3u8
+#EXTINF:-1,EL CANAL DEL FÚTBOL , ECDF (2 ᴍɢ)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/61474.m3u8
+#EXTINF:-1,El Chavo
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60614.m3u8
+#EXTINF:-1,ESPN
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54125.m3u8
+#EXTINF:-1,ESPN (brasil)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57807.m3u8
+#EXTINF:-1,ESPN (usa)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57822.m3u8
+#EXTINF:-1,ESPN 1 (méxico)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/32979.m3u8
+#EXTINF:-1,ESPN 1 SUR (ꜰʜᴅ)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/610.m3u8
+#EXTINF:-1,ESPN 1 SUR ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/49402.m3u8
+#EXTINF:-1,ESPN 1 SUR ⁽ᵃ⁾ chile
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58049.m3u8
+#EXTINF:-1,ESPN 2 (argentina)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58092.m3u8
+#EXTINF:-1,ESPN 2 (argentina) ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/53991.m3u8
+#EXTINF:-1,ESPN 2 (brasil)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57809.m3u8
+#EXTINF:-1,ESPN 2 (colombia)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58064.m3u8
+#EXTINF:-1,ESPN 2 (colombia) ᴹ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58089.m3u8
+#EXTINF:-1,ESPN 2 (mexico) ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/53649.m3u8
+#EXTINF:-1,ESPN 2 (méxico)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/27553.m3u8
+#EXTINF:-1,ESPN 2 (usa)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57818.m3u8
+#EXTINF:-1,ESPN 2 CHILE 1080
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57325.m3u8
+#EXTINF:-1,ESPN 2 CHILE 720 ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/16686.m3u8
+#EXTINF:-1,ESPN 2 CHILE SD
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55413.m3u8
+#EXTINF:-1,ESPN 2 HD Brasil
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54328.m3u8
+#EXTINF:-1,ESPN 2 NORTE
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54306.m3u8
+#EXTINF:-1,ESPN 2 NORTE ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54399.m3u8
+#EXTINF:-1,ESPN 2 NORTE ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/61490.m3u8
+#EXTINF:-1,ESPN 2 SUR
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/14869.m3u8
+#EXTINF:-1,ESPN 2 SUR ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/609.m3u8
+#EXTINF:-1,ESPN 3
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55414.m3u8
+#EXTINF:-1,ESPN 3 (méxico)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15766.m3u8
+#EXTINF:-1,ESPN 3 SUR
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/608.m3u8
+#EXTINF:-1,ESPN 3 SUR ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/26135.m3u8
+#EXTINF:-1,ESPN 3 ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54124.m3u8
+#EXTINF:-1,ESPN DEPORTES ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54126.m3u8
+#EXTINF:-1,ESPN DEPORTES ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/14050.m3u8
+#EXTINF:-1,ESPN EXTRA
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/14085.m3u8
+#EXTINF:-1,ESPN EXTRA ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/41661.m3u8
+#EXTINF:-1,ESPN U ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58061.m3u8
+#EXTINF:-1,ESPN ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55412.m3u8
+#EXTINF:-1,Estacion TV
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57778.m3u8
+#EXTINF:-1,EUROPA EUROPA
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/51475.m3u8
+#EXTINF:-1,EUROSPORT 1
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/25039.m3u8
+#EXTINF:-1,EUROSPORT 2 ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57584.m3u8
+#EXTINF:-1,EWTN
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/59369.m3u8
+#EXTINF:-1,F1  LIVE
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/61460.m3u8
+#EXTINF:-1,Fenomenoide
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60551.m3u8
+#EXTINF:-1,FIGHT NETWORK
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15923.m3u8
+#EXTINF:-1,Film & Arts ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/49468.m3u8
+#EXTINF:-1,FOOD NETWORK
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/53493.m3u8
+#EXTINF:-1,FOOD NETWORK ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/789.m3u8
+#EXTINF:-1,Fox Action ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55415.m3u8
+#EXTINF:-1,FOX CHANNEL
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15925.m3u8
+#EXTINF:-1,FOX CHANNEL (ᴍᴇxɪᴄᴏ)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/53539.m3u8
+#EXTINF:-1,FOX CHANNEL SUR
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1738.m3u8
+#EXTINF:-1,Fox Channel ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55416.m3u8
+#EXTINF:-1,Fox Cinema ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55417.m3u8
+#EXTINF:-1,Fox Classics ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55418.m3u8
+#EXTINF:-1,Fox Family ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55419.m3u8
+#EXTINF:-1,FOX LIFE (ᴍᴇxɪᴄᴏ)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1730.m3u8
+#EXTINF:-1,FOX LIFE (ᴍᴇxɪᴄᴏ) ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/42435.m3u8
+#EXTINF:-1,FOX LIFE HD ⁽ᶜᵒˡᵒᵐᵇⁱᵃ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55015.m3u8
+#EXTINF:-1,Fox Life ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55420.m3u8
+#EXTINF:-1,Fox Movies ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55421.m3u8
+#EXTINF:-1,FOX NEWS
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/27718.m3u8
+#EXTINF:-1,FOX PREMIUM ACTION (col)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/33356.m3u8
+#EXTINF:-1,FOX PREMIUM ACTION (ᴍᴇxɪᴄᴏ)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55016.m3u8
+#EXTINF:-1,FOX PREMIUM ACTION ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1731.m3u8
+#EXTINF:-1,FOX PREMIUM CINEMA ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1732.m3u8
+#EXTINF:-1,FOX PREMIUM CINEMA ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/33357.m3u8
+#EXTINF:-1,FOX PREMIUM CLASSICS ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1733.m3u8
+#EXTINF:-1,FOX PREMIUM CLASSICS ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/33358.m3u8
+#EXTINF:-1,FOX PREMIUM COMEDY
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1734.m3u8
+#EXTINF:-1,FOX PREMIUM COMEDY ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/33359.m3u8
+#EXTINF:-1,FOX PREMIUM FAMILY
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1735.m3u8
+#EXTINF:-1,FOX PREMIUM FAMILY ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/33360.m3u8
+#EXTINF:-1,FOX PREMIUM MOVIES
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/33361.m3u8
+#EXTINF:-1,FOX PREMIUM MOVIES ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1736.m3u8
+#EXTINF:-1,FOX PREMIUM SERIES 
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1737.m3u8
+#EXTINF:-1,FOX PREMIUM SERIES ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/16177.m3u8
+#EXTINF:-1,Fox Series ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55424.m3u8
+#EXTINF:-1,FOX SOCCER PLUS
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43357.m3u8
+#EXTINF:-1,FOX SPORTS (argentina)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58066.m3u8
+#EXTINF:-1,FOX SPORTS (argentina) ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58065.m3u8
+#EXTINF:-1,FOX SPORTS (brasil)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54329.m3u8
+#EXTINF:-1,FOX SPORTS (méxico)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/32993.m3u8
+#EXTINF:-1,FOX SPORTS 1
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54121.m3u8
+#EXTINF:-1,FOX SPORTS 1 CHILE (ʙ)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55004.m3u8
+#EXTINF:-1,FOX SPORTS 1 CHILE (ᴀ)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/25247.m3u8
+#EXTINF:-1,FOX SPORTS 1 SUR ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/25248.m3u8
+#EXTINF:-1,FOX SPORTS 1 ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/41665.m3u8
+#EXTINF:-1,FOX SPORTS 2 (brasil)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54330.m3u8
+#EXTINF:-1,FOX SPORTS 2 (brasil)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57810.m3u8
+#EXTINF:-1,FOX SPORTS 2 (chile)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58150.m3u8
+#EXTINF:-1,FOX SPORTS 2 SUR ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55005.m3u8
+#EXTINF:-1,FOX SPORTS 2 SUR ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57823.m3u8
+#EXTINF:-1,Fox Sports 2 ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55425.m3u8
+#EXTINF:-1,FOX SPORTS 2 ⁽ᴴᴰ⁾ (argentina)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58095.m3u8
+#EXTINF:-1,FOX SPORTS 2 ⁽ᴴᴰ⁾ (méxico)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/613.m3u8
+#EXTINF:-1,FOX SPORTS 2 ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54123.m3u8
+#EXTINF:-1,FOX SPORTS 2 ⁽ᴹ⁾ (méxico)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55378.m3u8
+#EXTINF:-1,FOX SPORTS 3 (argentina)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/41668.m3u8
+#EXTINF:-1,FOX SPORTS 3 (méxico)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55007.m3u8
+#EXTINF:-1,FOX SPORTS 3 (méxico) ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/18218.m3u8
+#EXTINF:-1,FOX SPORTS 3 SUR ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55006.m3u8
+#EXTINF:-1,Fox Sports 3 ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55426.m3u8
+#EXTINF:-1,FOX SPORTS PREMIUM ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54122.m3u8
+#EXTINF:-1,FOX SPORTS PREMIUM ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/61489.m3u8
+#EXTINF:-1,FOX SPORTS SUR
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58093.m3u8
+#EXTINF:-1,FOX SPORTS SUR 2 
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/18219.m3u8
+#EXTINF:-1,FOX SPORTS ⁽ᴴᴰ⁾ (méxico)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55003.m3u8
+#EXTINF:-1,FS 1 usa
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/14880.m3u8
+#EXTINF:-1,Futurama
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60552.m3u8
+#EXTINF:-1,FUTV
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/33760.m3u8
+#EXTINF:-1,FX
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1739.m3u8
+#EXTINF:-1,FX MOVIES ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15713.m3u8
+#EXTINF:-1,FX ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55427.m3u8
+#EXTINF:-1,FXM 
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1740.m3u8
+#EXTINF:-1,Gallo claudio
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60553.m3u8
+#EXTINF:-1,Gamavision ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55428.m3u8
+#EXTINF:-1,GLITZ ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/790.m3u8
+#EXTINF:-1,GLOBO NEWS
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/27705.m3u8
+#EXTINF:-1,GM: Canal 11
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/53995.m3u8
+#EXTINF:-1,GM: Canal 3
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/53996.m3u8
+#EXTINF:-1,GM: Canal 7
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/53997.m3u8
+#EXTINF:-1,GM: Guatevision 
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/53998.m3u8
+#EXTINF:-1,GOL PERU
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/14049.m3u8
+#EXTINF:-1,GOL PERU ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/25085.m3u8
+#EXTINF:-1,GOL TV (ecuador)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54995.m3u8
+#EXTINF:-1,GOL TV (sólo eventos)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58273.m3u8
+#EXTINF:-1,GOL TV ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54996.m3u8
+#EXTINF:-1,GOLDEN 
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1743.m3u8
+#EXTINF:-1,GOLDEN EDGE
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1741.m3u8
+#EXTINF:-1,GOLDEN PLUS
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1742.m3u8
+#EXTINF:-1,GOLDEN PREMIER 
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10870.m3u8
+#EXTINF:-1,GOLF CHANNEL BBC
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15740.m3u8
+#EXTINF:-1,Gracia TV 
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57779.m3u8
+#EXTINF:-1,Green Egg and Ham (Ing)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60622.m3u8
+#EXTINF:-1,Grupo Increible
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60554.m3u8
+#EXTINF:-1,H2 
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/9958.m3u8
+#EXTINF:-1,H2 ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55429.m3u8
+#EXTINF:-1,H2 ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15537.m3u8
+#EXTINF:-1,Hagalo Usted Mismo ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60514.m3u8
+#EXTINF:-1,Happy Halloween Kids
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60500.m3u8
+#EXTINF:-1,Happy tree friends
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60555.m3u8
+#EXTINF:-1,HBO 2 
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1745.m3u8
+#EXTINF:-1,HBO 2 ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55431.m3u8
+#EXTINF:-1,HBO FAMILY 
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1746.m3u8
+#EXTINF:-1,HBO Family ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55432.m3u8
+#EXTINF:-1,HBO latino
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1744.m3u8
+#EXTINF:-1,HBO latino
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/45651.m3u8
+#EXTINF:-1,HBO MUNDI
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1750.m3u8
+#EXTINF:-1,HBO PLUS
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1747.m3u8
+#EXTINF:-1,HBO POP
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1751.m3u8
+#EXTINF:-1,HBO SIGNATURE 
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1748.m3u8
+#EXTINF:-1,HBO subtitulado
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/33362.m3u8
+#EXTINF:-1,HBO usa
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/33363.m3u8
+#EXTINF:-1,HBO West HD
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54865.m3u8
+#EXTINF:-1,HBO XTREAM
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1749.m3u8
+#EXTINF:-1,HBO XTREME ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43223.m3u8
+#EXTINF:-1,HBO ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55430.m3u8
+#EXTINF:-1,HEY Kids ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60497.m3u8
+#EXTINF:-1,Hip-Hop/R&B
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3537.m3u8
+#EXTINF:-1,HIPERTV
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58116.m3u8
+#EXTINF:-1,HISTORY
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/791.m3u8
+#EXTINF:-1,HISTORY ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15565.m3u8
+#EXTINF:-1,LIGA MX
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58270.m3u8
+#EXTINF:-1,LIGA MX 2
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58271.m3u8
+#EXTINF:-1,MEX : CANAL 66 MEXICALI
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57846.m3u8
+#EXTINF:-1,MEX: ADN 40 
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3855.m3u8
+#EXTINF:-1,MEX: ADN 40*
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/49383.m3u8
+#EXTINF:-1,MEX: AZ CLIC
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3851.m3u8
+#EXTINF:-1,MEX: AZ CORAZON 
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3850.m3u8
+#EXTINF:-1,MEX: AZ UNO 
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3845.m3u8
+#EXTINF:-1,MEX: AZTECA 7
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3852.m3u8
+#EXTINF:-1,MEX: AZTECA 7*
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3848.m3u8
+#EXTINF:-1,MEX: CANAL 44
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57844.m3u8
+#EXTINF:-1,MEX: CANAL 5
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3842.m3u8
+#EXTINF:-1,MEX: CANAL 9 GALA TV 
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3841.m3u8
+#EXTINF:-1,MEX: CANAL ONCE
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3839.m3u8
+#EXTINF:-1,MEX: DE PELICULA PLUS
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3835.m3u8
+#EXTINF:-1,MEX: DEPELICULA 
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3836.m3u8
+#EXTINF:-1,MEX: DISTRITO COMEDIA
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3833.m3u8
+#EXTINF:-1,MEX: FORO TV
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3828.m3u8
+#EXTINF:-1,MEX: GALAVISION 
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3826.m3u8
+#EXTINF:-1,MEX: IMAGEN TV
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3822.m3u8
+#EXTINF:-1,MEX: LAS ESTRELLAS
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3830.m3u8
+#EXTINF:-1,MEX: LAS ESTRELLAS
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3832.m3u8
+#EXTINF:-1,MEX: MILENIO TV
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3821.m3u8
+#EXTINF:-1,MEX: MULTIMEDIOS
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/39295.m3u8
+#EXTINF:-1,MEX: TELEFORMULA
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3819.m3u8
+#EXTINF:-1,MEX: TLENOVELAS 
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3818.m3u8
+#EXTINF:-1,MEX: UNICABLE
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3815.m3u8
+#EXTINF:-1,MOVISTAR DEPORTES
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/655.m3u8
+#EXTINF:-1,MOVISTAR DEPORTES 1
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/26570.m3u8
+#EXTINF:-1,MOVISTAR DEPORTES PERÚ
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58139.m3u8
+#EXTINF:-1,MOVISTAR F1
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15708.m3u8
+#EXTINF:-1,MOVISTAR F1
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/657.m3u8
+#EXTINF:-1,MOVISTAR LA LIGA 
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/659.m3u8
+#EXTINF:-1,MOVISTAR LA LIGA ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58113.m3u8
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/52291.m3u8
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES (m)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/52292.m3u8
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES (ꜰʜᴅ)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/61485.m3u8
+#EXTINF:-1,NATGEO KIDS
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/725.m3u8
+#EXTINF:-1,NATGEO KIDS ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/42426.m3u8
+#EXTINF:-1,NATGEO WILD
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/5413.m3u8
+#EXTINF:-1,NATGEO WILD ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15536.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17336.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/803.m3u8
+#EXTINF:-1,NICK
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/42430.m3u8
+#EXTINF:-1,NICK 2
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/5417.m3u8
+#EXTINF:-1,NICK 2*
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/42427.m3u8
+#EXTINF:-1,Nick Classics
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60498.m3u8
+#EXTINF:-1,NICK JR
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/726.m3u8
+#EXTINF:-1,NICKELODEON
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/727.m3u8
+#EXTINF:-1,NICKTOONS
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/5416.m3u8
+#EXTINF:-1,NICKTOONS*
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/33728.m3u8
+#EXTINF:-1,Starz Cinema FHD
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54873.m3u8
+#EXTINF:-1,Starz Comedy FHD
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54874.m3u8
+#EXTINF:-1,Starz East FHD 
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54875.m3u8
+#EXTINF:-1,Starz Edge FHD
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54876.m3u8
+#EXTINF:-1,Starz Encore Action FHD
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54877.m3u8
+#EXTINF:-1,Starz Encore Classics FHD
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54878.m3u8
+#EXTINF:-1,Starz Encore Family FHD
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54879.m3u8
+#EXTINF:-1,Starz Encore FHD
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54880.m3u8
+#EXTINF:-1,Starz Encore Suspense FHD
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54881.m3u8
+#EXTINF:-1,Starz Encore Western FHD
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54882.m3u8
+#EXTINF:-1,Starz Family FHD
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54883.m3u8
+#EXTINF:-1,Starz In Black FHD
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54884.m3u8
+#EXTINF:-1,Starz Kids & Family FHD
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54885.m3u8
+#EXTINF:-1,Starz West FHD
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54886.m3u8
+#EXTINF:-1,Street Shark
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60604.m3u8
+#EXTINF:-1,STUDIO UNIVERSAL
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1755.m3u8
+#EXTINF:-1,STUDIO UNIVERSAL 
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15714.m3u8
+#EXTINF:-1,SUNDANCE TV ⁽ᴴᴰ⁾ ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1756.m3u8
+#EXTINF:-1,TUDN (MEXICO)
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58094.m3u8
+#EXTINF:-1,TUDN XTRA
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54756.m3u8
+#EXTINF:-1,TUDN ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15883.m3u8
+#EXTINF:-1,TUDN ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15700.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
