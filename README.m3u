@@ -55,1532 +55,708 @@ http://23.237.68.90:25461/live/EVENTO-03.LAMTV/I9YVOX36r2/172.m3u8
 http://198.255.72.122:25461/live/TOTAlPLAYSD-lAMTV/lWZONg2mxW/13.m3u8
 #EXTINF:0 channelId="-1" , AFIZZIONADOS
 http://23.237.68.90:25461/live/EVENTO-03.LAMTV/I9YVOX36r2/172.m3u8
-#EXTINF:-1,USA: ESPN DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/40949.m3u8
-#EXTINF:-1,WIN SPORTS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1035.m3u8
-#EXTINF:-1,WIN SPORTS +
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/18231.m3u8
-#EXTINF:-1,WIN SPORTS ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58098.m3u8
-#EXTINF:-1,WIN SPORTS+
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57459.m3u8
-#EXTINF:-1,WIN SPORTS+ ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57312.m3u8
-#EXTINF:-1,WIN SPORTS+ ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57631.m3u8
-#EXTINF:-1,AFIZZIONADOS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55292.m3u8
-#EXTINF:-1,AFIZZIONADOS ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54335.m3u8
-#EXTINF:-1,ADN TV
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/2270.m3u8
-#EXTINF:-1,ADRENALINA SPORTS ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15921.m3u8
-#EXTINF:-1,AFIZZIONADOS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55292.m3u8
-#EXTINF:-1,AFIZZIONADOS ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54335.m3u8
-#EXTINF:-1,Agreetsuko ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60522.m3u8
-#EXTINF:-1,ALEGRIA TV
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/2266.m3u8
-#EXTINF:-1,Alf
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60523.m3u8
-#EXTINF:-1,ALIENTO VISION
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/29010.m3u8
-#EXTINF:-1,Alternative
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3534.m3u8
-#EXTINF:-1,Amazon Kids ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60492.m3u8
-#EXTINF:-1,AMC
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/42431.m3u8
-#EXTINF:-1,AMC ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/40116.m3u8
-#EXTINF:-1,Ame --
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/39656.m3u8
-#EXTINF:-1,ANIMAL PLANET ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/5406.m3u8
-#EXTINF:-1,ANIMAL PLANET ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1160.m3u8
-#EXTINF:-1,Animaniacs
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60524.m3u8
-#EXTINF:-1,Antena 3 ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55396.m3u8
-#EXTINF:-1,AR: 13 Max HD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54955.m3u8
-#EXTINF:-1,AR: 24/7 NOTICIAS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3723.m3u8
-#EXTINF:-1,AR: A24
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54956.m3u8
-#EXTINF:-1,AR: America FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54957.m3u8
-#EXTINF:-1,AR: AMERICA TV
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/16184.m3u8
-#EXTINF:-1,AR: America TV HD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10871.m3u8
-#EXTINF:-1,AR: C5N
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3731.m3u8
-#EXTINF:-1,AR: C5N SD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54958.m3u8
-#EXTINF:-1,AR: C5N*
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15770.m3u8
-#EXTINF:-1,AR: CANAL 26
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/49384.m3u8
-#EXTINF:-1,AR: CANAL 26 
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3732.m3u8
-#EXTINF:-1,AR: CANAL A24 
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15771.m3u8
-#EXTINF:-1,AR: CANAL A24 *
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3724.m3u8
-#EXTINF:-1,AR: CRONICA TV 
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3733.m3u8
-#EXTINF:-1,AR: EL NUEVE
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3735.m3u8
-#EXTINF:-1,AR: EL TRECE
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3739.m3u8
-#EXTINF:-1,AR: EL TRECE*
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15768.m3u8
-#EXTINF:-1,AR: NET TV (p)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/45678.m3u8
-#EXTINF:-1,AR: TELEFE
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3744.m3u8
-#EXTINF:-1,AR: TELEFE*
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3745.m3u8
-#EXTINF:-1,AR: TELEMAX*
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3746.m3u8
-#EXTINF:-1,AR: TN*
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3747.m3u8
-#EXTINF:-1,AR: TV PUBLICA*
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3752.m3u8
-#EXTINF:-1,AR: TV PUBLICA**
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3753.m3u8
-#EXTINF:-1,AR: VOLVER
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/40886.m3u8
-#EXTINF:-1,Arica TV 
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57767.m3u8
-#EXTINF:-1,ATACAMA TV
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15868.m3u8
-#EXTINF:-1,Atlanta Braves
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57722.m3u8
-#EXTINF:-1,AXN LATINO ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1725.m3u8
-#EXTINF:-1,AXN WHITE ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/39835.m3u8
-#EXTINF:-1,AXN WHITE ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/42433.m3u8
-#EXTINF:-1,AXN ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55397.m3u8
-#EXTINF:-1,AXN ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/42432.m3u8
-#EXTINF:-1,AXN ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/27591.m3u8
-#EXTINF:-1,AyM SPORTS ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54971.m3u8
-#EXTINF:-1,B3IN SP0RTS ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/14776.m3u8
-#EXTINF:-1,B3IN SPORTS (canadá)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58157.m3u8
-#EXTINF:-1,B3IN SPORTS 11 ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55244.m3u8
-#EXTINF:-1,B3IN SPORTS 2
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54757.m3u8
-#EXTINF:-1,B3IN SPORTS 3
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58096.m3u8
-#EXTINF:-1,B3IN SPORTS 4
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58097.m3u8
-#EXTINF:-1,B3IN SPORTS LALIGA (ꜰʜᴅ)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60878.m3u8
-#EXTINF:-1,B3IN SPORTS MAX 7
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/53442.m3u8
-#EXTINF:-1,B3IN SPORTS USA ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43292.m3u8
-#EXTINF:-1,B3IN SPORTS XTRA
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/49360.m3u8
-#EXTINF:-1,B3IN SPORTS Ñ
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/14775.m3u8
-#EXTINF:-1,B3IN SPORTS Ñ ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/16688.m3u8
-#EXTINF:-1,Babar
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60525.m3u8
-#EXTINF:-1,BABY FIRST*
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/42429.m3u8
-#EXTINF:-1,BABY FIRTS 
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/5419.m3u8
-#EXTINF:-1,BABY TV
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/719.m3u8
-#EXTINF:-1,Baltimore Orioles
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57734.m3u8
-#EXTINF:-1,BANDAMAX
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/34685.m3u8
-#EXTINF:-1,bitME
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/27158.m3u8
-#EXTINF:-1,Bob Esponja
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60527.m3u8
-#EXTINF:-1,BOL: ATB
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/11263.m3u8
-#EXTINF:-1,BOL: ATB sd
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/49511.m3u8
-#EXTINF:-1,BOL: BOLIVIA DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/11266.m3u8
-#EXTINF:-1,BOL: BOLIVIA TV
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/11264.m3u8
-#EXTINF:-1,BOL: Bolivia TV Deportes
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54854.m3u8
-#EXTINF:-1,BOL: Bolivision
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54855.m3u8
-#EXTINF:-1,BOL: BOLIVISION TV ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/11262.m3u8
-#EXTINF:-1,BOL: Cadena A
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43269.m3u8
-#EXTINF:-1,BOL: MEGAVISION
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/51465.m3u8
-#EXTINF:-1,BOL: PAT
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43270.m3u8
-#EXTINF:-1,BOL: REC ONLINE
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/39325.m3u8
-#EXTINF:-1,BOL: Red Uno HD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/39324.m3u8
-#EXTINF:-1,BOL: RTP
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/11265.m3u8
-#EXTINF:-1,BOL: Tigo Sports 1 HD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54856.m3u8
-#EXTINF:-1,BOL: Tigo Sports 1 SD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54857.m3u8
-#EXTINF:-1,BOL: Tigo Sports 2 HD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54858.m3u8
-#EXTINF:-1,BOL: Tigo Sports 2 SD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54859.m3u8
-#EXTINF:-1,BOL: Tigo Sports 3 HD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54860.m3u8
-#EXTINF:-1,BOL: Tigo Sports 3 SD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54861.m3u8
-#EXTINF:-1,BOL: TV U
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43268.m3u8
-#EXTINF:-1,BOL: UNITEL
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/14611.m3u8
-#EXTINF:-1,BOL: UNITEL ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43571.m3u8
-#EXTINF:-1,Bonao TV --
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/39657.m3u8
-#EXTINF:-1,BOOMERANG
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/33726.m3u8
-#EXTINF:-1,Boomerang ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55398.m3u8
-#EXTINF:-1,BOOMERANG ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/720.m3u8
-#EXTINF:-1,CAMPEONATO CHILENO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54021.m3u8
-#EXTINF:-1,CAMPEONATO CHILENO ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58267.m3u8
-#EXTINF:-1,CAMPEONATO ECUATORIANO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55194.m3u8
-#EXTINF:-1,CAMPEONATO PARAGUAYO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54022.m3u8
-#EXTINF:-1,CAMPEONATO PARAGUAYO 2
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54327.m3u8
-#EXTINF:-1,CAMPEONATO PERUANO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55377.m3u8
-#EXTINF:-1,CAMPEONATO URUGUAYO 
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54020.m3u8
-#EXTINF:-1,CANAL 11
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/39290.m3u8
-#EXTINF:-1,Canal 123 TV ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60501.m3u8
-#EXTINF:-1,CANAL 2 SAN ANTONIO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15873.m3u8
-#EXTINF:-1,Canal 33 Temuco 
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57777.m3u8
-#EXTINF:-1,Canal 4 RD --
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/39658.m3u8
-#EXTINF:-1,Canal 4 ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55399.m3u8
-#EXTINF:-1,CANAL 5 LINARES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15874.m3u8
-#EXTINF:-1,CANAL ANTOFAGASTA
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15872.m3u8
-#EXTINF:-1,CANAL DE LAS ESTRELLAS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1164.m3u8
-#EXTINF:-1,CANAL DE LAS ESTRELLAS ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/9961.m3u8
-#EXTINF:-1,CANAL DE NOTICIAS 24/7
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/27712.m3u8
-#EXTINF:-1,Canal del Sol --
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/39659.m3u8
-#EXTINF:-1,Canela TV ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55400.m3u8
-#EXTINF:-1,CAPPISSIMA MULTIMEDIAL ARICA
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15871.m3u8
-#EXTINF:-1,Carivision --
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/39660.m3u8
-#EXTINF:-1,CAROLINA TV
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/2277.m3u8
-#EXTINF:-1,CARTOON NETWORK
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1163.m3u8
-#EXTINF:-1,Cartoon Network ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55401.m3u8
-#EXTINF:-1,CARTOON NETWORK*
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15804.m3u8
-#EXTINF:-1,CDF BASICO (ꜰʜᴅ)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/16704.m3u8
-#EXTINF:-1,CDF BASICO ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/14789.m3u8
-#EXTINF:-1,CDF ESTADIO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15878.m3u8
-#EXTINF:-1,CDF HD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/27180.m3u8
-#EXTINF:-1,CDF HD 1080
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/601.m3u8
-#EXTINF:-1,CDF HD 720
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/600.m3u8
-#EXTINF:-1,CDF HD ⁽²⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/16687.m3u8
-#EXTINF:-1,CDF HD ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3069.m3u8
-#EXTINF:-1,CDF PREMIUM ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/25322.m3u8
-#EXTINF:-1,CDM --
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/39661.m3u8
-#EXTINF:-1,CDM Internacional
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57750.m3u8
-#EXTINF:-1,CDO BÁSICO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57714.m3u8
-#EXTINF:-1,CDO PREMIUM 
-https://cdo.04.cl.cdnz.cl/cdoplus/smil:cdn.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,CDO PREMIUM ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15601.m3u8
-#EXTINF:-1,CH: 13 DOCU
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/33491.m3u8
-#EXTINF:-1,CH: 13C
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/16175.m3u8
-#EXTINF:-1,CH: 13C ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/511.m3u8
-#EXTINF:-1,CH: 24 HORAS 
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15540.m3u8
-#EXTINF:-1,CH: 24 HORAS (directo)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/41830.m3u8
-#EXTINF:-1,CH: CANAL 13
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/27155.m3u8
-#EXTINF:-1,CH: CANAL 13 1080
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/513.m3u8
-#EXTINF:-1,CH: CANAL 13 720
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15882.m3u8
-#EXTINF:-1,CH: CANAL 13 ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/25177.m3u8
-#EXTINF:-1,CH: CANAL 13i
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15765.m3u8
-#EXTINF:-1,CH: CANAL 13i ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/49831.m3u8
-#EXTINF:-1,CH: CHILEVISION 1080
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1159.m3u8
-#EXTINF:-1,CH: CHILEVISION 720
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/899.m3u8
-#EXTINF:-1,CH: CHILEVISION ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54997.m3u8
-#EXTINF:-1,CH: CHILEVISION ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/34769.m3u8
-#EXTINF:-1,CH: CNN CHILE
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17722.m3u8
-#EXTINF:-1,CH: CNN CHILE ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/38249.m3u8
-#EXTINF:-1,CH: CNN ESPAÑOL
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15712.m3u8
-#EXTINF:-1,CH: ETC TV
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15928.m3u8
-#EXTINF:-1,CH: ETC TV ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54999.m3u8
-#EXTINF:-1,CH: FM HOT CINE 
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1764.m3u8
-#EXTINF:-1,CH: HAGALO UD MISMO TV
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/33492.m3u8
-#EXTINF:-1,CH: LA RED
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/518.m3u8
-#EXTINF:-1,CH: LA RED ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/53437.m3u8
-#EXTINF:-1,CH: LA RED ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15422.m3u8
-#EXTINF:-1,CH: MEGA 1080 ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17284.m3u8
-#EXTINF:-1,CH: MEGA 720 ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/16742.m3u8
-#EXTINF:-1,CH: MEGA GORMET
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/33490.m3u8
-#EXTINF:-1,CH: MEGA PLUS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15864.m3u8
-#EXTINF:-1,CH: MEGA ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58410.m3u8
-#EXTINF:-1,CH: MEGA ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17304.m3u8
-#EXTINF:-1,CH: MEGANOTICIAS (directo)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58409.m3u8
-#EXTINF:-1,CH: REC TV ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/52671.m3u8
-#EXTINF:-1,CH: RECTV CHILE
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/9865.m3u8
-#EXTINF:-1,CH: T13 MOVIL
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/2269.m3u8
-#EXTINF:-1,CH: TELETRAK
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54388.m3u8
-#EXTINF:-1,CH: TELETRAK ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54998.m3u8
-#EXTINF:-1,CH: TV +
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/2258.m3u8
-#EXTINF:-1,CH: TV + ⁽ᵃ⁾
+#EXTM3U x-tvg-url="http://www.m3u.cl/epg/m3u.xml" tv-test="DO.m3u"
+#EXTINF:-1 tvg-id="109019" tvg-name="TV Cotui" tvg-logo="https://lh3.googleusercontent.com/-9PE6S7LTqW8/XzgUO4h0PtI/AAAAAAAA4SY/TlYksdzuEhcpSc7GRpnDGzO3Vl8umgxLgCK8BGAsYHg/s0/2020-08-15.jpg", TV Cotui
+http://caribeteve.ddns.net:1935/tvcotui/tvcotui/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="109018" tvg-name="Telenovisa 43" tvg-logo="https://lh3.googleusercontent.com/-tLCdv43ZkBI/XzgUt_3YhGI/AAAAAAAA4Sk/WOe41jACpdgEDDLGXMz7qNstxIBohBxFQCK8BGAsYHg/s0/2020-08-15.png", Telenovisa 43
+http://caribeteve.ddns.net:1935/telenovisa43/telenovisa43/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108933" tvg-name="Acento TV" tvg-logo="https://lh3.googleusercontent.com/--Mch8rI4AZw/XzgSWZa6SlI/AAAAAAAA4R0/AW6GE5K1_hAW72Uako_hsH4arrZ9pgCvQCK8BGAsYHg/s0/2020-08-15.png", Acento TV
+http://acentotv01.streamprolive.com/hls/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108934" tvg-name="Amé" tvg-logo="https://lh3.googleusercontent.com/-Wm0tIirwAaI/XzgSgfucd3I/AAAAAAAA4R4/P8FwD68fC00xVm39i-qNZewMWAqG2Be2wCK8BGAsYHg/s0/2020-08-15.jpg", Amé
+http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108985" tvg-name="Bajo Techo TV" tvg-logo="https://lh3.googleusercontent.com/-Zf12E_etz2s/XzgSxNz29WI/AAAAAAAA4SA/Zk-IT4kK35QR3dV8TxsfupU1F3_xt_x3ACK8BGAsYHg/s0/2020-08-15.jpg", Bajo Techo TV
+https://cdn4.hostlagarto.com:8081/bajotechotv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108995" tvg-name="Bonao TV" tvg-logo="https://lh3.googleusercontent.com/-SMZzVkRBPgo/XzgTrVaVKKI/AAAAAAAA4SQ/lSI2HspsiS8UcIAYkCAS5loSKGdfQDZ6ACK8BGAsYHg/s0/2020-08-15.jpg", Bonao TV
+https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108935" tvg-name="Boreal Televisión" tvg-logo="https://lh3.googleusercontent.com/-Q9q-hnFHaIU/XzgVCi0a_rI/AAAAAAAA4S4/mCk6OVexIlkz1tfvcy6qmLXCmrnphw56ACK8BGAsYHg/s0/2020-08-15.jpg", Boreal Televisión
+https://5b38ce71f1f00.streamlock.net/8180/8180/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108970" tvg-name="Canal 4 RD" tvg-logo="https://lh3.googleusercontent.com/-DRCZbw0zXRo/XzgVKWzJ0vI/AAAAAAAA4S8/MN8UboLlqsMR2RY5GjjfsL-VXE5X8Lw-gCK8BGAsYHg/s0/2020-08-15.png", Canal 4 RD
+http://api.new.livestream.com/accounts/27035275/events/8371710/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108971" tvg-name="Canal 25 Santiago" tvg-logo="https://lh3.googleusercontent.com/-HdYA19jX8LY/XzgVTtp6k5I/AAAAAAAA4TA/qN_ANmYjymM6w_8sOBH8rkO_YLINDnmNACK8BGAsYHg/s0/2020-08-15.jpg", Canal 25 Santiago
+https://ss3.domint.net:3122/c25_str/canal25/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108969" tvg-name="Canal del Sol" tvg-logo="https://lh3.googleusercontent.com/-qdfPYFUuuqY/XzgVaAQXo0I/AAAAAAAA4TE/BWlBAo6K5goJKCTC-fxc8wetmF0QtHzjwCK8BGAsYHg/s0/2020-08-15.jpg", Canal del Sol
+http://canaldelsol01.streamprolive.com/hls/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108972" tvg-name="Cibervision " tvg-logo="https://lh3.googleusercontent.com/-WjWVuyJWVMo/XzgVgnbtUBI/AAAAAAAA4TI/3mfIbpL5mBEbzKZVdsGW4gPqEhDdT3uYACK8BGAsYHg/s0/2020-08-15.jpg", Cibervision 
+http://108.175.14.125:1935/tdn/tdn/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108968" tvg-name="Cinevision Canal 19" tvg-logo="https://lh3.googleusercontent.com/-8cq3avHwbSM/XzgVnYNlfOI/AAAAAAAA4TM/gZAH2-w2NlgRL4tDfvCSh0Fq6Fu3od52QCK8BGAsYHg/s0/2020-08-15.jpg", Cinevision Canal 19
+http://cinevision01.streamprolive.com/hls/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108977" tvg-name="Entelevision" tvg-logo="https://lh3.googleusercontent.com/-B-xmeIzShMA/XzgVttyb-XI/AAAAAAAA4TQ/3NYa5It_NjoiP1w4a5l5kIZfQD7s8VPpwCK8BGAsYHg/s0/2020-08-15.jpg", Entelevision
+https://5d4a00b8a0738.streamlock.net/8068/8068/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108988" tvg-name="Farovision" tvg-logo="https://lh3.googleusercontent.com/-uim4E6l-Qno/XzgV0SohEtI/AAAAAAAA4TY/Kyj2EYmEWsgOf-9yObXMrT5G4uXkxdMMgCK8BGAsYHg/s0/2020-08-15.png", Farovision
+https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108960" tvg-name="Fuego TV" tvg-logo="https://lh3.googleusercontent.com/-Yf-U57lYWTA/XzgV6SlCSxI/AAAAAAAA4Tc/Xono2T0plso6ImGpmCNRByn9akdBEoPLQCK8BGAsYHg/s0/2020-08-15.jpg", Fuego TV
+http://184.173.181.2:1935/8020/8020/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108979" tvg-name="GDM" tvg-logo="https://lh3.googleusercontent.com/-Ofjf3c7mMcY/XzgWEMrJzBI/AAAAAAAA4Tg/iitP9E6Zh_o1xom-yLDTDOkURHbvl-lRgCK8BGAsYHg/s0/2020-08-15.png", GDM
+https://cm.hostlagarto.com:4445/gdmstudiotv/gdmstudiotv.myStream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108959" tvg-name="GH Television" tvg-logo="https://lh3.googleusercontent.com/-nb3HIODiLDM/XzgWLtnp3XI/AAAAAAAA4Tk/8UEOEhd2HZw5wBMZT_eNNABGpW9c2w65gCK8BGAsYHg/s0/2020-08-15.jpg", GH Television
+https://ss6.domint.net:3046/gh_str/tv10/chunklist_w1697117333.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108981" tvg-name="Global TV" tvg-logo="https://lh3.googleusercontent.com/-NfN-viDE0RA/XzgWRQJeKPI/AAAAAAAA4To/m3HIIZIFLcI0POVTRKYGSfq1Og4h9GmdQCK8BGAsYHg/s0/2020-08-15.png", Global TV
+https://ss6.domint.net:3016/gtv_str/globalhd/manifest.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108983" tvg-name="Hilando Fino" tvg-logo="https://lh3.googleusercontent.com/-MUJsvP4LUEE/XzgQHZNiNdI/AAAAAAAA4Rc/iiRRQp0BCX00MnMJZsfR2E_bLhyN6gUAACK8BGAsYHg/s0/2020-08-15.png", Hilando Fino
+https://4k-server-mia.2cdn.eu//HilandoFinoTV/ngrp:HilandoFinoTV_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108996" tvg-name="Luna TV" tvg-logo="https://lh3.googleusercontent.com/-gNwkGNBw7kQ/XzgR58ws75I/AAAAAAAA4Ro/RDsdgWvXHrE7Ow_6xDAjXEupxv0X5eIiQCK8BGAsYHg/s0/2020-08-15.png", Luna TV
+https://ss4.domint.net:3018/luna_str/lunatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108958" tvg-name="Megavision" tvg-logo="https://lh3.googleusercontent.com/-jxMdnwq3fxw/XzgSNxgvHSI/AAAAAAAA4Rw/eev6AGnJag8MDN1kt76lQwfraDPAIsnDACK8BGAsYHg/s0/2020-08-15.png", Megavision
+http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w1925216201.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108957" tvg-name="Microvision" tvg-logo="https://lh3.googleusercontent.com/-J9MpGmEaVwk/XzgWd2PEeVI/AAAAAAAA4Ts/gsReFcO99xIi9t25aMDUhMOVFdaj5jBTgCK8BGAsYHg/s0/2020-08-15.jpg", Microvision
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108989" tvg-name="Musavision" tvg-logo="https://lh3.googleusercontent.com/-vqvx9FsfLk0/XzgWl2BgDoI/AAAAAAAA4Tw/j9hiiFJmW9cmkMKjRM4-v9VxR8eQfONawCK8BGAsYHg/s0/2020-08-15.jpg", Musavision
+https://cm.hostlagarto.com:4445/Musavisionhd/Musavisionhd/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108978" tvg-name="Naranja TV" tvg-logo="https://lh3.googleusercontent.com/-lRCFcoGlNF4/XzgXijKU6XI/AAAAAAAA4T8/jZ95cc4_yacMndYvKysNEawevg2BrctvgCK8BGAsYHg/s0/2020-08-15.png", Naranja TV
+https://5790d294af2dc.streamlock.net/8104/8104/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108956" tvg-name="Onda TV" tvg-logo="https://lh3.googleusercontent.com/-tfgvfH5WigA/XzgYP6_PPkI/AAAAAAAA4UM/NK7IQCeGzv8VwW2pjLty7GRAxjU3jhxeACK8BGAsYHg/s0/2020-08-15.png", Onda TV
+http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108955" tvg-name="Orbit TV" tvg-logo="https://lh3.googleusercontent.com/-R-fEjuPsEu0/XzgaNO5ztWI/AAAAAAAA4UY/PmFUug8OPCM0FBqUnW8gI43p_A053ZYUACK8BGAsYHg/s0/2020-08-15.jpg", Orbit TV
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108954" tvg-name="Peravia Vision" tvg-logo="https://lh3.googleusercontent.com/-Ydne9i3prbc/XzgafLSH-9I/AAAAAAAA4Ug/F3PCfWy8pMIqUOjCpr7zZ5EnheliAV46wCK8BGAsYHg/s0/2020-08-15.jpg", Peravia Vision
+http://ss6.domint.net:2002/pvv_str/peravia/chunklist_w715033938.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108953" tvg-name="Ready TV" tvg-logo="https://lh3.googleusercontent.com/-0WEp8Wwui4Q/Xzgal1m0fzI/AAAAAAAA4Uk/rYMFLqx6jsE342dqmqaCzFKNyfygiuIzQCK8BGAsYHg/s0/2020-08-15.png", Ready TV
+http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108994" tvg-name="Resplandor Vision" tvg-logo="https://lh3.googleusercontent.com/-BJI_KYaAIak/XzgbWkghNkI/AAAAAAAA4Us/gi8o6-Dt68wF3dZeRdD_TeFIdjaq77MVgCK8BGAsYHg/s0/2020-08-15.jpg", Resplandor Vision
+https://ss6.domint.net:2996/rtv_str/rvision/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108975" tvg-name="RNN" tvg-logo="https://lh3.googleusercontent.com/-jth7QtCbGzk/XzgbeB2zxhI/AAAAAAAA4Uw/uSoJpwnWpyw_rQfYXhM89c_9lPfHKydvACK8BGAsYHg/s0/2020-08-15.png", RNN
+https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108952" tvg-name="Romana TV" tvg-logo="https://lh3.googleusercontent.com/-ODE5TSYEfC4/Xzgbjk1oJzI/AAAAAAAA4U0/-Fxv0oapcR0wViS7zHK7AnCr8mSOEeqEgCK8BGAsYHg/s0/2020-08-15.jpg", Romana TV
+http://tv.romanatv42.com/hls/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108980" tvg-name="Sport Vision" tvg-logo="https://lh3.googleusercontent.com/-8F5NLNjrFTE/Xzgbrpf27LI/AAAAAAAA4U4/QWfRcHnhy0soWcP-Xpk7pQygEjmLx9QigCK8BGAsYHg/s0/2020-08-15.jpg", Sport Vision
+https://5b59c7a47236a.streamlock.net/sportvision35tv/sportvision35tv/manifest.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108951" tvg-name="Super TV 55" tvg-logo="https://lh3.googleusercontent.com/-uMrGa8Kftec/XzgbxQoDW-I/AAAAAAAA4U8/LAvaew4BM_AxbaM3I3hsHoTs1haxibxZgCK8BGAsYHg/s0/2020-08-15.jpg", Super TV 55
+https://ss8.domint.net:3128/stv_str/tv55/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108974" tvg-name="Teleantillas" tvg-logo="https://lh3.googleusercontent.com/--ZdvDPEZM6U/Xzgb3ZRAe4I/AAAAAAAA4VA/Bv5ESAdmZio3thWjXaoUaLXcPiXTFUuJgCK8BGAsYHg/s0/2020-08-15.jpg", Teleantillas
+https://ss4.domint.net:3040/ta2_str/teleantillas/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108991" tvg-name="Telecanal 12" tvg-logo="https://lh3.googleusercontent.com/-mLk3w8rRy2E/XzgcBFkX40I/AAAAAAAA4VE/Woxy8sdQnTcUkC2ZBbv_6pBvjL6oY2xzACK8BGAsYHg/s0/2020-08-15.jpg", Telecanal 12
+https://cdn4.hostlagarto.com:8081/telecanal12/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108950" tvg-name="Telecanal 28" tvg-logo="https://lh3.googleusercontent.com/-D9rpmxbwhO8/XzgcGOwfAUI/AAAAAAAA4VI/xgju0xICu_cmO620DoxlajfYrXwVPoEDwCK8BGAsYHg/s0/2020-08-15.jpg", Telecanal 28
+http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108949" tvg-name="Telecentro" tvg-logo="https://lh3.googleusercontent.com/-gGENIFw0Vyk/XzgcLtVEh3I/AAAAAAAA4VM/MWcf7Eo1HMYj9jZZqQTiTq-TxzyoZ9h5QCK8BGAsYHg/s0/2020-08-15.png", Telecentro
+http://api.new.livestream.com/accounts/28126860/events/8555433/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108973" tvg-name="Telecibao" tvg-logo="https://lh3.googleusercontent.com/-SNcmUEQMH_8/XzgcTFn6F_I/AAAAAAAA4VQ/uLAvXE8GMFInptHJzAYr3beBjiqc5ABAwCK8BGAsYHg/s0/2020-08-15.jpg", Telecibao
+https://cm.hostlagarto.com:4445/Telecibao/Telecibao/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108948" tvg-name="Telefuturo" tvg-logo="https://lh3.googleusercontent.com/-ACFA13BJhnY/XzgcYgpqcDI/AAAAAAAA4VU/H6AUDfZwoHENINYP6Cw5YkotykUBJdykQCK8BGAsYHg/s0/2020-08-15.png", Telefuturo
+http://ss8.domint.net:2118/tf_str/futu/chunklist_w1249734061.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108947" tvg-name="Telemilenio" tvg-logo="https://lh3.googleusercontent.com/-KHspoxJrbmA/Xzgces4V4PI/AAAAAAAA4VY/1vwbHhjTS5EV8JmV5EXQm2giqFCUaPlBQCK8BGAsYHg/s0/2020-08-15.png", Telemilenio
+http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108946" tvg-name="Telenord 8" tvg-logo="https://lh3.googleusercontent.com/-P4P3Fo23ruc/XzgcmLYJ46I/AAAAAAAA4Vc/0PbZbLJIjckXdsj_Wca-n7D7QS4GCEiYwCK8BGAsYHg/s0/2020-08-15.jpg", Telenord 8
+http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108945" tvg-name="Telenord 10" tvg-logo="https://lh3.googleusercontent.com/-w36Bp5Kua6w/Xzgcs8BkqPI/AAAAAAAA4Vg/delKewJS1gwLtPPQZDSb2q7ZWBwz4mfBACK8BGAsYHg/s0/2020-08-15.png", Telenord 10
+http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108944" tvg-name="Telenord 12" tvg-logo="https://lh3.googleusercontent.com/-H-NVSh7JGf4/XzgczIRMOsI/AAAAAAAA4Vk/y_Lv0icuD_kPVSTqLQ89IpjhZEd3ad1aACK8BGAsYHg/s0/2020-08-15.jpg", Telenord 12
+http://newyorkstreamss2.ddns.net:28987/telenord12/telenord12/chunklist_w602884123.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108943" tvg-name="Teleradio America" tvg-logo="https://lh3.googleusercontent.com/-MgU5_trIDkk/XzgdWzhOtEI/AAAAAAAA4Vs/kAAYe0xTrfUHxuBZpyx_2yVD6xYC3ClAACK8BGAsYHg/s0/2020-08-15.jpg", Teleradio America
+https://ss4.domint.net:3008/tra_str/canal45/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108997" tvg-name="Teleradio Norte" tvg-logo="https://lh3.googleusercontent.com/-T-aOB_KmAl8/XzgdcQW2MhI/AAAAAAAA4Vw/gUo6n9IYqVEfYX75LIxV6SGMThCJ55-WACK8BGAsYHg/s0/2020-08-15.jpg", Teleradio Norte
+https://cdn4.hostlagarto.com:8081/teleradionortetv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108942" tvg-name="Telesistema" tvg-logo="https://lh3.googleusercontent.com/-YMFTyatktS4/XzgdjfP3Z4I/AAAAAAAA4V0/ufSfgaejWhUKTvcQB_47jJqsMtDqCNxIACK8BGAsYHg/s0/2020-08-15.jpg", Telesistema
+http://ss3.domint.net:2114/t11_str/telesistema/chunklist_w44342477.m3u8?fluxustv.m3u8&PlaylistM3UCL
+#EXTINF:-1 tvg-id="108990" tvg-name="Teleunion" tvg-logo="https://lh3.googleusercontent.com/-0tQ6kWVCb1U/XzgdojrTiaI/AAAAAAAA4V4/DDHVWnS1yiMpiYqfJPZN3AEPs2SouEzcwCK8BGAsYHg/s0/2020-08-15.jpg", Teleunion
+http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108986" tvg-name="Teleuniverso Canal 29" tvg-logo="https://lh3.googleusercontent.com/-8jIhN0E1Uv8/XzgduYfG7-I/AAAAAAAA4V8/pPr_hxQGka8sHGUQsbqv-GGRgDQtJeYXgCK8BGAsYHg/s0/2020-08-15.png", Teleuniverso Canal 29
+https://ss5.domint.net:3006/tu_str/universo/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108941" tvg-name="Telever Canal 12" tvg-logo="https://lh3.googleusercontent.com/-TgguizoDhgM/XzgdzxtVNOI/AAAAAAAA4WA/KUdxYGaeaUIVYLvPrS2ET5vx_QxL0-_6gCK8BGAsYHg/s0/2020-08-15.jpg", Telever Canal 12
+http://tengomusica.ddns.net:1935/telever/telever.sdp/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108976" tvg-name="Television A1" tvg-logo="https://lh3.googleusercontent.com/-CdnaYPFPEMM/Xzgd5MdkqMI/AAAAAAAA4WE/8X3UboLmoQYKYLo6pUKIEAXgCNK_ER3HQCK8BGAsYHg/s0/2020-08-15.png", Television A1
+https://ss6.domint.net:2940/a1_str/a1tv/manifest.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108940" tvg-name="Televisión del Este" tvg-logo="https://lh3.googleusercontent.com/-KTkAN2D6aBg/XzgeAkRU0XI/AAAAAAAA4WI/oO5KUB-W-6EMsCALKbOGQmS2EfuDvarUwCK8BGAsYHg/s0/2020-08-15.png", Televisión del Este
+http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8&PlaylistM3UCL
+#EXTINF:-1 tvg-id="108982" tvg-name="TNI 51" tvg-logo="https://lh3.googleusercontent.com/-XrMUdkyPx10/XzgeHRC_4lI/AAAAAAAA4WM/OY0kXlB-fpMkogRS1KhC-pPpqPPyggH6ACK8BGAsYHg/s0/2020-08-15.jpg", TNI 51
+https://ss8.domint.net:3126/tni_str/tni51/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108992" tvg-name="TV Exitos" tvg-logo="https://lh3.googleusercontent.com/-765JJbmZVrw/XzgeMh8uvoI/AAAAAAAA4WQ/zyqMKQn-IQMaaU9kW8bnuRnlQP-n_irrgCK8BGAsYHg/s0/2020-08-15.jpg", TV Exitos
+http://siglo21.dnsalias.com:8080/mylive/tvexitos/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108939" tvg-name="TV Montaña" tvg-logo="https://lh3.googleusercontent.com/-mmWVzDuUeyY/XzgeRgAlzdI/AAAAAAAA4WU/JxhVhnhwZ2UH_5uM4HW6SPgiYKAzYkeaQCK8BGAsYHg/s0/2020-08-15.jpg", TV Montaña
+http://ss6.domint.net:2060/tvm_str/montanatv/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108938" tvg-name="TV Plata" tvg-logo="https://lh3.googleusercontent.com/-P7fhXDShrsg/XzgeXcKTOLI/AAAAAAAA4WY/o1eUo8UIoLQLe7kbztN1lUIoY_C0E8NAQCK8BGAsYHg/s0/2020-08-15.jpg", TV Plata
+https://ss6.domint.net:3104/tvp_str/tvplata/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108937" tvg-name="TVS TV" tvg-logo="https://lh3.googleusercontent.com/-ki8jqcwmGP0/Xzgef3ebeoI/AAAAAAAA4Wc/Ulbicz-Ye8sSPGlzK7DxMOomCLnxa9tOgCK8BGAsYHg/s0/2020-08-15.png", TVS TV
+http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108936" tvg-name="Vallevisión" tvg-logo="https://lh3.googleusercontent.com/-LJDxg-Z8Mtk/XzgeoUw6_aI/AAAAAAAA4Wg/HsIOdj5D9mYncbrV3kpb-1bCkPpSdeQJACK8BGAsYHg/s0/2020-08-15.png", Vallevisión
+http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108987" tvg-name="Vegavision Canal 18" tvg-logo="https://lh3.googleusercontent.com/-OiaHL_6jDjk/Xzgetm_bMaI/AAAAAAAA4Wk/ekPAU9Ve3fUFvdO80M9BPsYuXk06_x1_ACK8BGAsYHg/s0/2020-08-15.png", Vegavision Canal 18
+https://cdn4.hostlagarto.com:8081/canal18hd/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108993" tvg-name="Yunavision" tvg-logo="https://lh3.googleusercontent.com/-RCyl7TloVIY/Xzge0Tn3oMI/AAAAAAAA4Wo/1hYpqkZIm5APhADY1QT5WAL5ZIdW3VhjwCK8BGAsYHg/s0/2020-08-15.jpg", Yunavision
+https://ss4.domint.net:3004/yv_str/yunavision/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108984" tvg-name="Zol 106.5 FM" tvg-logo="https://lh3.googleusercontent.com/-cTKIpT1OMR0/Xzge6R0Hs0I/AAAAAAAA4Ws/kPHRiXfwpjQWR8mpoQ33ChLYOm8HFvvLgCK8BGAsYHg/s0/2020-08-15.jpg", Zol 106.5 FM
+https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8?PlaylistM3UCL
+#EXTM3U x-tvg-url="http://www.m3u.cl/epg/m3u.xml" tv-test="CL.m3u"
+#EXTINF:-1 tvg-id="101700" tvg-name="Rewind TV" tvg-logo="https://lh3.googleusercontent.com/-DNyXu-b4s7U/Xw5ewsB00fI/AAAAAAAA21g/BxwNdcI3djYxvx4JKkpiGWruGj2DwFNkgCK8BGAsYHg/s0/2020-07-14.png", Rewind TV
+https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="101556" tvg-name="TV Educa Chile" tvg-logo="https://lh3.googleusercontent.com/-n21PTyDUHcc/XpaNO2WOf4I/AAAAAAAAx4s/NIGFazcG1c8c5-ZwgGHD4YlTT1Nw4vUBQCK8BGAsYHg/s0/2020-04-14.png", TV Educa Chile
+https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="98881" tvg-name="HiperTV" tvg-logo="https://lh3.googleusercontent.com/-YUlLyA8Pk7Y/X5n9AMtVNNI/AAAAAAAA61E/UkiOjRsCTWMa94h4g35uC424D4E_wU_2gCK8BGAsYHg/s0/2020-10-28.png", HiperTV
+http://inliveserver.com:1935/11010/11010/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="45108" tvg-name=" CDO Play" tvg-logo="https://lh3.googleusercontent.com/-EBTv-wiVlJ0/XmPRkwNUmzI/AAAAAAAAwp0/TtmCkqZp7vkZx-6R9p3Q8Riqtxe3xltyACK8BGAsYHg/s0/2020-03-07.png",  CDO Play
+https://tls.cdnz.cl/cdoplus/smil:cdn.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="115366" tvg-name="Teatro del Lago" tvg-logo="https://lh3.googleusercontent.com/-_WeBzVIBMF8/X6cu2w6_zdI/AAAAAAAA7Fk/gCxEgXlJx1w8pcUgqyK31CIVCHXdp-icQCK8BGAsYHg/s0/2020-11-07.png", Teatro del Lago
+https://mdstrm.com/live-stream-playlist/5eee24e3ed5b6d0761a11a31.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="45112" tvg-name="Zapping Music" tvg-logo="https://lh3.googleusercontent.com/-jDz1h1TVXnI/X5ct0JQUgpI/AAAAAAAA6xE/yNj4027GRJg_bgCUrLv2_3fDiH4mR9VgACK8BGAsYHg/s0/2020-10-26.png", Zapping Music
+https://zapping.04.cl.cdnz.cl/zappingtvmusic/smil:cdn.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="112843" tvg-name="XTV Music" tvg-logo="https://lh3.googleusercontent.com/-AQn8CYeOAK8/X38KO1HXohI/AAAAAAAA6P8/aEkNrz3M0qwWAeklOdf2svEf0HV7bBjyACK8BGAsYHg/s0/2020-10-08.png", XTV Music
+https://tls.cdnz.cl:443/xtvmusic/xtvmusic/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="75709" tvg-name="Retro Plus TV" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="74166" tvg-name="TV POP" tvg-logo="https://lh3.googleusercontent.com/-XpZwlTaVD70/X5jAxBIjQnI/AAAAAAAA6ys/IoG_B-D9vCwSs4nNVTr2tK_hz-rI7VXCgCK8BGAsYHg/s0/2020-10-27.jpg", TV POP
+https://v2.tustreaming.cl/poptv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="103350" tvg-name="Solo Stand Up" tvg-logo="https://lh3.googleusercontent.com/-vs6bQTy4Dns/X30TqJ-CdrI/AAAAAAAA6M4/WUtqB3d4eiEp7oHE44DkOhh5V0NNTDMSACK8BGAsYHg/s0/2020-10-06.png", Solo Stand Up
+https://paneltv.online:1936/8116/8116/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="95520" tvg-name="Mix 24-7" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png", Mix 24-7
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108314" tvg-name="Mix 24-7 Top 100" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png", Mix 24-7 Top 100
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/2.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="111628" tvg-name="Mix 24-7 Tropical" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png", Mix 24-7 Tropical
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/3.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="111629" tvg-name="Mix 24-7 Retro" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png", Mix 24-7 Retro
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/4.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="111630" tvg-name="Mix 24-7 Pop" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png", Mix 24-7 Pop
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/5.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="111631" tvg-name="Mix 24-7 Vintage" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png", Mix 24-7 Vintage
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/6.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="110976" tvg-name="Awka" tvg-logo="https://lh3.googleusercontent.com/-axPzeNdcvq4/X4JBO2dt35I/AAAAAAAA6UM/X-3kz1phNyUa8lUEEnt_0-Nv3OZdOWACwCK8BGAsYHg/s0/2020-10-10.png", Awka
+https://stmv1.questreaming.com/awkasonido/awkasonido/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="78105" tvg-name="Ruidos TV" tvg-logo="https://lh3.googleusercontent.com/-OYgpvMljozw/Xxy-3V91rJI/AAAAAAAA3WI/1Tr5TT2vvDw63C_2ZoSu5mmvTvZV4UDFACK8BGAsYHg/s0/2020-07-25.png", Ruidos TV
+https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="110962" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV Señal 2
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="110679" tvg-name="El Chavo TV" tvg-logo="https://lh3.googleusercontent.com/-5eP6g5sX97U/X0lgCjh-dmI/AAAAAAAA5CQ/VWuz7CEH4Lswd2SPPB9U9RjbmbtMcuP4wCK8BGAsYHg/s0/2020-08-28.png", El Chavo TV
+https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="104452" tvg-name="CSTV" tvg-logo="https://lh3.googleusercontent.com/-FO_MlzlWSL0/XtV_Ce2TltI/AAAAAAAA1XE/7jcBrfL19qwjBOJ4knqOiXQZCni99OwWACK8BGAsYHg/s0/2020-06-01.png", CSTV
+https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="110680" tvg-name="Cloud Server Kids" tvg-logo="https://lh3.googleusercontent.com/-FO_MlzlWSL0/XtV_Ce2TltI/AAAAAAAA1XE/7jcBrfL19qwjBOJ4knqOiXQZCni99OwWACK8BGAsYHg/s0/2020-06-01.png", Cloud Server Kids
+https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="83646" tvg-name="Zee Mundo" tvg-logo="https://lh3.googleusercontent.com/-2pmSiXQcjhg/XbI0Q6gvXQI/AAAAAAAArqY/k_Qak4p83D8p-9bdpIILVGGjBXTTGffKQCK8BGAsYHg/s0/2019-10-24.png", Zee Mundo
+https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="109761" tvg-name="The Retro Channel" tvg-logo="https://lh3.googleusercontent.com/-t2WD0yOsfvg/XzxnxYhCPPI/AAAAAAAA4oY/qwvkZXM7rAUzOACe0-fSRAQ7_8n6xb5wgCK8BGAsYHg/s0/2020-08-18.png", The Retro Channel
+https://5df3045a6b70e.streamlock.net/theretrochannel/stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="98871" tvg-name="EvaStream " tvg-logo="https://lh3.googleusercontent.com/-IrfFlK7mDEo/XyLRqoTyMjI/AAAAAAAA3nc/EV4VHHh-1hcSZjnDsy5PPkA2TR-i5Ad0gCK8BGAsYHg/s0/2020-07-30.png", EvaStream 
+https://5e9199339b303.streamlock.net:8100/bajocerovideo/bajocerovideo/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="101462" tvg-name="Mi TV Televisión Clásica" tvg-logo="https://lh3.googleusercontent.com/-j_2wCJpRlBs/X0QTOy-h68I/AAAAAAAA47k/JLK21FNZEy8o85F8WNJ4QRJwDOwsWvrDQCK8BGAsYHg/s0/2020-08-24.png", Mi TV Televisión Clásica
+http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="109756" tvg-name="Sol TV" tvg-logo="https://lh3.googleusercontent.com/-ylaKrXQpRhc/XzxoSsdrC7I/AAAAAAAA4og/c-5bcL314FgeLmDsQMJHGBVQzuuLrE_oACK8BGAsYHg/s0/2020-08-18.png", Sol TV
+https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/playlist.m3u8?DVR&PlaylistM3UCL
+#EXTINF:-1 tvg-id="109759" tvg-name="Latinos Up! TV" tvg-logo="https://lh3.googleusercontent.com/-E4ZhmiDMypI/XzxnbBAnLcI/AAAAAAAA4oQ/ZAvYXo5pj0QDb-wMX0XmFWJmEnPKg-jbACK8BGAsYHg/s0/2020-08-18.png", Latinos Up! TV
+https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108423" tvg-name="Tele Mas" tvg-logo="https://lh3.googleusercontent.com/-oRoXxEpaRZI/Xx2FjB3C9RI/AAAAAAAA3b0/z0UFVUzwLI4WvZ3DMBvLGwyYCxYoCl3hgCK8BGAsYHg/s0/2020-07-26.png", Tele Mas
+https://www.webmedialive.org:1936/8024/8024/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="101463" tvg-name="WOW TV" tvg-logo="https://lh3.googleusercontent.com/-HpeYE76LC3U/XpNZeGRkVnI/AAAAAAAAx1I/w8gU81KqISsyhBab06b-c82cml45DUQgACK8BGAsYHg/s0/2020-04-12.png", WOW TV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="104433" tvg-name="Telered" tvg-logo="https://lh3.googleusercontent.com/-NCv13SGaRQE/XtRgHXHBOVI/AAAAAAAA1VM/pv6D0L7XqWE_PqRQ4p47m9yUBtMm3mlvACK8BGAsYHg/s0/2020-05-31.png", Telered
+http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="104432" tvg-name="ACS Network" tvg-logo="https://lh3.googleusercontent.com/-ANcpWxG0oe8/XtRfwQhVP_I/AAAAAAAA1VE/Uxs80_Lq6XwoFPVkoNINYQLdBiyob7q0gCK8BGAsYHg/s0/2020-05-31.png", ACS Network
+https://cloudflare.streamgato.us:3283/live/acsnetworklive.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="105943" tvg-name="Telesistema" tvg-logo="https://lh3.googleusercontent.com/-DiXsxeG-J7o/Xtvh7WdzH1I/AAAAAAAA1gs/DKW25Vh-p8AZ34jMpCCli_xGVIbdoCHyACK8BGAsYHg/s0/2020-06-06.png", Telesistema
+http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="101693" tvg-name="Retro TV Palmares" tvg-logo="https://lh3.googleusercontent.com/-69OUFEsZEzE/XuzYkDQB5ZI/AAAAAAAA2A8/TtTckrIloRkQkhv8uNthZzDvFMH-dAkFwCK8BGAsYHg/s0/2020-06-19.png", Retro TV Palmares
+http://tvretropalmares.com:8090/hls/envivo.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="95519" tvg-name="Rec Online" tvg-logo="https://lh3.googleusercontent.com/-BfAOGODBZEc/Xjtifr8ZrYI/AAAAAAAAvr0/nK_E67xjC9gwzgwb_zMBrzS-RAGAAy0DQCK8BGAsYHg/s0/2020-02-05.png", Rec Online
+https://master.tucableip.com/reconline/live/video.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="96701" tvg-name="FMTV-Mundo 1 HD" tvg-logo="https://lh3.googleusercontent.com/-t4L8hNzWCqg/X5DE85fJ91I/AAAAAAAA6nc/obm_y2scE0ULVHohSM5KdnQEkvMjOYEOACK8BGAsYHg/s0/2020-10-21.png", FMTV-Mundo 1 HD
+https://595b85410a151.streamlock.net/8056/8056/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="104767" tvg-name="FMTV2-Movies" tvg-logo="https://lh3.googleusercontent.com/-t4L8hNzWCqg/X5DE85fJ91I/AAAAAAAA6nc/obm_y2scE0ULVHohSM5KdnQEkvMjOYEOACK8BGAsYHg/s0/2020-10-21.png", FMTV2-Movies
+https://stmv.panel.mivideo.pro/fmtvmovies2/fmtvmovies2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="113858" tvg-name="FMTV3-Cine a la carta" tvg-logo="https://lh3.googleusercontent.com/-t4L8hNzWCqg/X5DE85fJ91I/AAAAAAAA6nc/obm_y2scE0ULVHohSM5KdnQEkvMjOYEOACK8BGAsYHg/s0/2020-10-21.png", FMTV3-Cine a la carta
+https://stmv.panel.mivideo.pro/fmtvmundo3/fmtvmundo3/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="115367" tvg-name="FMTV4-Enterprise" tvg-logo="https://lh3.googleusercontent.com/-t4L8hNzWCqg/X5DE85fJ91I/AAAAAAAA6nc/obm_y2scE0ULVHohSM5KdnQEkvMjOYEOACK8BGAsYHg/s0/2020-10-21.png", FMTV4-Enterprise
+https://cdn-luis-8044-1.ciclano.io:1443/luis-8044-1/luis-8044-1/playlist.m3u8?ver=5.5.3&PlaylistM3UCL
+#EXTINF:-1 tvg-id="115368" tvg-name="Infinita TV - Premium" tvg-logo="https://lh3.googleusercontent.com/-gtOJEZDXT74/X6ial-IEvuI/AAAAAAAA7HE/DVodKb8gbr4UYli0KdKGZf9Bfz4WrXqwQCK8BGAsYHg/s0/2020-11-08.png", Infinita TV - Premium
+https://stmv.panel.mivideo.pro/infinitatvpremium/infinitatvpremium/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="115395" tvg-name="AC Vision" tvg-logo="https://lh3.googleusercontent.com/-PcW7rdALGRs/X6mvq9Fen5I/AAAAAAAA7Jg/d2M4m6dlgoQ10S2Oy3j-B_haDgl6-6qOwCK8BGAsYHg/s0/2020-11-09.png", AC Vision
+https://stmv.panel.mivideo.pro/acvisionecuador/acvisionecuador/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="96699" tvg-name="Orbit TV" tvg-logo="https://lh3.googleusercontent.com/-13NMPnGbChA/XkyjXafughI/AAAAAAAAwIE/5GeoQycy3SoMZ91mla3A_jqJqCqTMvz9wCK8BGAsYHg/s0/2020-02-18.png", Orbit TV
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="47417" tvg-name="Locomotion" tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png", Locomotion
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="102655" tvg-name="Dreiko TV" tvg-logo="https://lh3.googleusercontent.com/-xWaIYbcKgvg/XqxwUMJVw3I/AAAAAAAAyhA/m5qZwYnbFxMujB_7Sk2QJz4HhvdNRqyHQCK8BGAsYHg/s0/2020-05-01.png", Dreiko TV
+https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="102623" tvg-name="El 3 de Conce" tvg-logo="https://lh3.googleusercontent.com/--o0_vpNuzz4/XqsNGuGSUEI/AAAAAAAAyck/t0v8luwsOWAEbNMHeaIvlrVCQrYyXLJXwCK8BGAsYHg/s0/2020-04-30.png", El 3 de Conce
+https://panel.livetvvideo.net:1936/8250/8250/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="102651" tvg-name="Pichilemu TV" tvg-logo="https://lh3.googleusercontent.com/-cLe1X-6sOWM/XqtZ-zhsGYI/AAAAAAAAydY/AFIEb1ZL-HEceewpnqr3m9QxC3_3_KzIwCK8BGAsYHg/s0/2020-04-30.png", Pichilemu TV
+http://play.streaminghd.cl:80/roberto886/roberto886/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="102985" tvg-name="Exprezion TV" tvg-logo="https://lh3.googleusercontent.com/-THdaYfFi1xU/X60myXKF8tI/AAAAAAAA7Og/hB3m6DqzN9EvfnoBnjNWKiT9MT6hDSl4QCK8BGAsYHg/s0/2020-11-12.png", Exprezion TV
+https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="109611" tvg-name="Peña Visión TV" tvg-logo="https://lh3.googleusercontent.com/--6Jibb1WJOo/X5i6rpI7pTI/AAAAAAAA6yY/B7rFhNas_bYetkU8w85ob13Ot-GmLUgOwCK8BGAsYHg/s0/2020-10-27.png", Peña Visión TV
+https://tvstreaming.cl:1936/PlanDjTv_15/PlanDjTv_15/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="115431" tvg-name="G Vision" tvg-logo="https://lh3.googleusercontent.com/-8Ea5VntW8MU/X6spmWq7SLI/AAAAAAAA7LE/ruh-WJMJ0rY39THjAhMZhV7L5UbgkNffACK8BGAsYHg/s0/2020-11-10.png", G Vision
+https://tls.cdnz.cl/escgabrielamistral/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="45126" tvg-name="TVN" tvg-logo="https://lh3.googleusercontent.com/-ETprzEeH-JY/XbCxYXbNQUI/AAAAAAAArkw/zQxemFrwNjAbMoyByyr_sesnZ8QKgap-QCK8BGAsYHg/s0/2019-10-23.png", TVN
+http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="101555" tvg-name="TVN 2" tvg-logo="https://lh3.googleusercontent.com/-ETprzEeH-JY/XbCxYXbNQUI/AAAAAAAArkw/zQxemFrwNjAbMoyByyr_sesnZ8QKgap-QCK8BGAsYHg/s0/2019-10-23.png", TVN 2
+https://mdstrm.com/live-stream-playlist/5346f657c1e6f5810b5b9df3.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="45124" tvg-name="Mega" tvg-logo="https://lh3.googleusercontent.com/-xqKe__ypgDY/XnzFn9NLnbI/AAAAAAAAxMU/2Wj9IOC1LaQxtJGRzcVOTrQWxP9z3RgPwCK8BGAsYHg/s0/2020-03-26.png", Mega
+http://mgiptv.magisapk.com/MEGA-HD/tracks-v1a1/mono.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="45122" tvg-name=" CHV" tvg-logo="https://lh3.googleusercontent.com/-8bGAVjbmdQo/Xlxxov1VBvI/AAAAAAAAwhU/ZO0JPjy4MaI7lGElqofGQbkOr52Hk1nUQCK8BGAsYHg/s0/2020-03-01.png",  CHV
+http://unlimited2-cl.dps.live/cnnprensa/cnnprensa.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="96814" tvg-name="Canal 13" tvg-logo="https://lh3.googleusercontent.com/-lTPRVsTnfaY/XlMLxy_VhII/AAAAAAAAwZs/TNUiwtX3VEEFdP26RGGtfie-M7AI01XMgCK8BGAsYHg/s0/2020-02-23.png", Canal 13
+https://cl-canal13-13now-live.ned.media/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="115365" tvg-name="TV+" tvg-logo="https://lh3.googleusercontent.com/-OyqOBTEx-1E/XyA3AZwIgTI/AAAAAAAA3jQ/aDMZaLOx3mQuXBqjDKAF0X7dxExKFzawACK8BGAsYHg/s0/2020-07-28.png", TV+
+https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="45129" tvg-name="TV+ Diferido" tvg-logo="https://lh3.googleusercontent.com/-OyqOBTEx-1E/XyA3AZwIgTI/AAAAAAAA3jQ/aDMZaLOx3mQuXBqjDKAF0X7dxExKFzawACK8BGAsYHg/s0/2020-07-28.png", TV+ Diferido
 https://mdstrm.com/live-stream-playlist/5cb5f2bd50ae45798813ba17.m3u8?PlaylistM3UCL
-#EXTINF:-1,CH: TV CAMARA DE DIPUTADOS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/2691.m3u8
-#EXTINF:-1,CH: TV CHILE
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58411.m3u8
-#EXTINF:-1,CH: TV EDUCA CHILE
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/36817.m3u8
-#EXTINF:-1,CH: TV EDUCA CHILE (directo)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58114.m3u8
-#EXTINF:-1,CH: TV+ 
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/16013.m3u8
-#EXTINF:-1,CH: TVN
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/27156.m3u8
-#EXTINF:-1,CH: TVN ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/520.m3u8
-#EXTINF:-1,CH: TVN ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/27154.m3u8
-#EXTINF:-1,CH: TVN ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/519.m3u8
-#EXTINF:-1,CH: ZONA LATINA ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60879.m3u8
-#EXTINF:-1,Chespirito TV
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60615.m3u8
-#EXTINF:-1,CINE AR ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43018.m3u8
-#EXTINF:-1,Cinecanal ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55402.m3u8
-#EXTINF:-1,CINECANAL ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1726.m3u8
-#EXTINF:-1,CINECANAL ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17334.m3u8
-#EXTINF:-1,CINELATINO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55013.m3u8
-#EXTINF:-1,CINELATINO 2
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55012.m3u8
-#EXTINF:-1,CINELATINO ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/42436.m3u8
-#EXTINF:-1,CINEMA ACCION CLASSICS ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57651.m3u8
-#EXTINF:-1,Cinema Accion Classics ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60468.m3u8
-#EXTINF:-1,Cinema Anime [test]
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60469.m3u8
-#EXTINF:-1,CINEMA CIENCIA FICCION ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57652.m3u8
-#EXTINF:-1,Cinema Ciencia Ficcion ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60470.m3u8
-#EXTINF:-1,Cinema Comedia Este ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60472.m3u8
-#EXTINF:-1,Cinema Comedia ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60471.m3u8
-#EXTINF:-1,CINEMA DC COMICS ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57653.m3u8
-#EXTINF:-1,Cinema DC Comics ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60473.m3u8
-#EXTINF:-1,CINEMA DC UNIVERSE ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57654.m3u8
-#EXTINF:-1,Cinema DC Universe ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60474.m3u8
-#EXTINF:-1,CINEMA DISNEY FAMILY ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57655.m3u8
-#EXTINF:-1,Cinema Disney Family ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60475.m3u8
-#EXTINF:-1,Cinema Disney Pixar ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60476.m3u8
-#EXTINF:-1,CINEMA DREAMWORKS ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57656.m3u8
-#EXTINF:-1,Cinema Dreamworks ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60477.m3u8
-#EXTINF:-1,CINEMA FAMILIA ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57657.m3u8
-#EXTINF:-1,Cinema Familia ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60478.m3u8
-#EXTINF:-1,Cinema Happy Madison ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60479.m3u8
-#EXTINF:-1,CINEMA HAPPY MADISSON ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57658.m3u8
-#EXTINF:-1,Cinema Horror Classics ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60480.m3u8
-#EXTINF:-1,Cinema Horror ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60481.m3u8
-#EXTINF:-1,CINEMA HORRROR ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57659.m3u8
-#EXTINF:-1,CINEMA LEGO MOVIES ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57660.m3u8
-#EXTINF:-1,Cinema Lego Movies ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60482.m3u8
-#EXTINF:-1,CINEMA MARVEL ANIMADO ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57661.m3u8
-#EXTINF:-1,Cinema Marvel Animated ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60483.m3u8
-#EXTINF:-1,Cinema Marvel Studios Este ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60485.m3u8
-#EXTINF:-1,Cinema Marvel Studios Oeste ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60486.m3u8
-#EXTINF:-1,CINEMA MARVEL STUDIOS ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57662.m3u8
-#EXTINF:-1,Cinema Marvel Studios ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60484.m3u8
-#EXTINF:-1,Cinema Navidad ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60487.m3u8
-#EXTINF:-1,Cinemax Action FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54863.m3u8
-#EXTINF:-1,Cinemax ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55403.m3u8
-#EXTINF:-1,CINEMAX ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17335.m3u8
-#EXTINF:-1,CINEMAX ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1727.m3u8
-#EXTINF:-1,Cinevision Canal 19  --
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/39662.m3u8
-#EXTINF:-1,CLARO CINEMA
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/42437.m3u8
-#EXTINF:-1,Claro Música
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57646.m3u8
-#EXTINF:-1,CLARO SPORTS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54755.m3u8
-#EXTINF:-1,CLARO SPORTS ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57824.m3u8
-#EXTINF:-1,Cleveland Indians
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57728.m3u8
-#EXTINF:-1,CNN CHILE*
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/27710.m3u8
-#EXTINF:-1,CNN ESPAÑOL
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/27716.m3u8
-#EXTINF:-1,CNN INTERNACIONAL
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/27708.m3u8
-#EXTINF:-1,CNN INTERNACIONAL ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/27707.m3u8
-#EXTINF:-1,Cocina Abierta ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60503.m3u8
-#EXTINF:-1,Cocina Real ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60505.m3u8
-#EXTINF:-1,COL:  DTV SPORTS 
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43362.m3u8
-#EXTINF:-1,COL: CABLE NOTICIAS 
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/4003.m3u8
-#EXTINF:-1,COL: CABLENOTICIA
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17790.m3u8
-#EXTINF:-1,COL: CANAL CAPITAL
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43359.m3u8
-#EXTINF:-1,COL: CANAL TRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43360.m3u8
-#EXTINF:-1,COL: CANAL UNO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17780.m3u8
-#EXTINF:-1,COL: CANAL UNO 
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3999.m3u8
-#EXTINF:-1,COL: CANTINAZO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43361.m3u8
-#EXTINF:-1,COL: CARACOL
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58371.m3u8
-#EXTINF:-1,COL: CARACOL INTERNACIONAL
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3995.m3u8
-#EXTINF:-1,COL: CARACOL INTERNACIONAL ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17767.m3u8
-#EXTINF:-1,COL: CARACOL ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17698.m3u8
-#EXTINF:-1,COL: CARACOL ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17787.m3u8
-#EXTINF:-1,COL: CITY TV 
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3994.m3u8
-#EXTINF:-1,COL: CITY TV 1
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17772.m3u8
-#EXTINF:-1,COL: COSMOVISION
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3991.m3u8
-#EXTINF:-1,COL: DTV SPORTS 2 
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43363.m3u8
-#EXTINF:-1,COL: EL TRECE 
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3973.m3u8
-#EXTINF:-1,COL: NTN 24
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17789.m3u8
-#EXTINF:-1,COL: NTN24
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3990.m3u8
-#EXTINF:-1,COL: PASIONES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17786.m3u8
-#EXTINF:-1,COL: PASIONES (T)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3989.m3u8
-#EXTINF:-1,COL: RCN
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3986.m3u8
-#EXTINF:-1,COL: RCN (D)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3972.m3u8
-#EXTINF:-1,COL: RCN *
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17759.m3u8
-#EXTINF:-1,COL: RCN INTERNACIONAL 
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17762.m3u8
-#EXTINF:-1,COL: RCN NOTICIAS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17760.m3u8
-#EXTINF:-1,COL: RCN NOVELAS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17761.m3u8
-#EXTINF:-1,COL: RCN NOVELAS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3982.m3u8
-#EXTINF:-1,COL: RCN NUESTRA TELE
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15710.m3u8
-#EXTINF:-1,COL: RCN ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17758.m3u8
-#EXTINF:-1,COL: SEÑAL COLOMBIA
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17781.m3u8
-#EXTINF:-1,COL: TELEAMIGA
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17778.m3u8
-#EXTINF:-1,COL: TELEANTIOQUIA
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17774.m3u8
-#EXTINF:-1,COL: TELEANTIOQUIA **
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3981.m3u8
-#EXTINF:-1,COL: TELECAFE
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17779.m3u8
-#EXTINF:-1,COL: TELECARIBE
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17777.m3u8
-#EXTINF:-1,COL: TELECARIBE 
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3978.m3u8
-#EXTINF:-1,COL: TELEMEDELLIN
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17775.m3u8
-#EXTINF:-1,COL: TELEMEDELLIN 
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3977.m3u8
-#EXTINF:-1,COL: TELEPACIFICO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17776.m3u8
-#EXTINF:-1,COL: TELEPACIFICO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3976.m3u8
-#EXTINF:-1,COL: TV AGRO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17782.m3u8
-#EXTINF:-1,COL: WIN SPORTS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17769.m3u8
-#EXTINF:-1,COL: WIN SPORTS+ 
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17768.m3u8
-#EXTINF:-1,Color Vision --
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/39663.m3u8
-#EXTINF:-1,Colorado Rockies
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57742.m3u8
-#EXTINF:-1,COMEDY CENTRAL
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/18229.m3u8
-#EXTINF:-1,Comedy Central ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55404.m3u8
-#EXTINF:-1,COMEDY CENTRAL ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/18230.m3u8
-#EXTINF:-1,CONCERT CHANNEL
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/780.m3u8
-#EXTINF:-1,CONTIVISION MUSICA
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/2272.m3u8
-#EXTINF:-1,CORONA VIRUS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/27641.m3u8
-#EXTINF:-1,CSTV
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58127.m3u8
-#EXTINF:-1,CTN INTERNACIONAL
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/29006.m3u8
-#EXTINF:-1,CTNI 
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/39286.m3u8
-#EXTINF:-1,Cuentos de la Cripta
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60530.m3u8
-#EXTINF:-1,Dance/EDM
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3530.m3u8
-#EXTINF:-1,DC Hero Super Girls
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60531.m3u8
-#EXTINF:-1,DE PELICULA PLUS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/42434.m3u8
-#EXTINF:-1,DE PELICULA ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1728.m3u8
-#EXTINF:-1,Death Note
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60532.m3u8
-#EXTINF:-1,Delicioso HD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54864.m3u8
-#EXTINF:-1,Detective Conan
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60533.m3u8
-#EXTINF:-1,Detroit Tigers
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57726.m3u8
-#EXTINF:-1,DHE ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55011.m3u8
-#EXTINF:-1,DHE ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55010.m3u8
-#EXTINF:-1,Dinosaurios
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60534.m3u8
-#EXTINF:-1,Directv Sports ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55405.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17326.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/781.m3u8
-#EXTINF:-1,DISCOVERY CIVILIZATION (ꜰʜᴅ)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/5407.m3u8
-#EXTINF:-1,DISCOVERY CIVILIZATION ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17327.m3u8
-#EXTINF:-1,DISCOVERY H&H ⁽ᴬ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/782.m3u8
-#EXTINF:-1,DISCOVERY H&H ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/5408.m3u8
-#EXTINF:-1,Discovery Home & Healt ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55406.m3u8
-#EXTINF:-1,DISCOVERY INVESTIGATION (ꜰʜᴅ) (méxico)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17320.m3u8
-#EXTINF:-1,DISCOVERY INVESTIGATION ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17312.m3u8
-#EXTINF:-1,DISCOVERY KIDS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/721.m3u8
-#EXTINF:-1,Discovery Kids ⁽ˢᵈ⁾  [Dual Audio]
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/59293.m3u8
-#EXTINF:-1,DISCOVERY KIDS ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17719.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17329.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/5409.m3u8
-#EXTINF:-1,DISCOVERY THEATER ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/784.m3u8
-#EXTINF:-1,DISCOVERY TURBO 
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/5410.m3u8
-#EXTINF:-1,Discovery Turbo ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55407.m3u8
-#EXTINF:-1,DISCOVERY TURBO ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1161.m3u8
-#EXTINF:-1,DISCOVERY WORLD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/5412.m3u8
-#EXTINF:-1,DISCOVERY WORLD ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17331.m3u8
-#EXTINF:-1,Disenchantment (Ing)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60621.m3u8
-#EXTINF:-1,DISNEY CHANELL*
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15604.m3u8
-#EXTINF:-1,DISNEY CHANNEL
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/33727.m3u8
-#EXTINF:-1,DISNEY JUNIOR
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/723.m3u8
-#EXTINF:-1,Disney Junior ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55408.m3u8
-#EXTINF:-1,DISNEY JUNIOR*
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/33724.m3u8
-#EXTINF:-1,Disney Live Action ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60489.m3u8
-#EXTINF:-1,DISNEY PRINCESAS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/41864.m3u8
-#EXTINF:-1,DISNEY PRINCESAS*
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/42424.m3u8
-#EXTINF:-1,Disney Princess ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60490.m3u8
-#EXTINF:-1,Disney XD ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55409.m3u8
-#EXTINF:-1,DISNEY XD ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/724.m3u8
-#EXTINF:-1,DISNEY XD ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/33725.m3u8
-#EXTINF:-1,DJ LONCHO TV
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/2276.m3u8
-#EXTINF:-1,Doraemon
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60535.m3u8
-#EXTINF:-1,Doug
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60536.m3u8
-#EXTINF:-1,Dragon Ball
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60537.m3u8
-#EXTINF:-1,Dragon Ball 2
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60538.m3u8
-#EXTINF:-1,Dragon Ball GT
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60539.m3u8
-#EXTINF:-1,Dragon Ball Super 1 Saga la Batalla de los Dioses y la resurreccion de Frezzer
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60540.m3u8
-#EXTINF:-1,Dragon Ball Super 2 Saga Universo 6 y Goku Black
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60541.m3u8
-#EXTINF:-1,Dragon Ball Super 3 Saga de la Supervivencia Universal
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60542.m3u8
-#EXTINF:-1,Dragon Ball Z Movies
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60543.m3u8
-#EXTINF:-1,DTV SPORTS (ecuador)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60863.m3u8
-#EXTINF:-1,DTV SPORTS +
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/41663.m3u8
-#EXTINF:-1,DTV SPORTS + (ꜰʜᴅ)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60951.m3u8
-#EXTINF:-1,DTV SPORTS + ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15881.m3u8
-#EXTINF:-1,DTV SPORTS 1
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/604.m3u8
-#EXTINF:-1,DTV SPORTS 1 (colombia)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/27514.m3u8
-#EXTINF:-1,DTV SPORTS 1 CHILE 1080 ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/605.m3u8
-#EXTINF:-1,DTV SPORTS 1 CHILE 720 ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/53362.m3u8
-#EXTINF:-1,DTV SPORTS 1 ⁽ᴴᴰ⁾ (chile) 
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/61519.m3u8
-#EXTINF:-1,DTV SPORTS 1 ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54128.m3u8
-#EXTINF:-1,DTV SPORTS 2
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/49510.m3u8
-#EXTINF:-1,DTV SPORTS 2  (colombia)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43364.m3u8
-#EXTINF:-1,DTV SPORTS 2 (perú)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57381.m3u8
-#EXTINF:-1,DTV SPORTS 2 ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60950.m3u8
-#EXTINF:-1,DTV SPORTS 2 ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/53363.m3u8
-#EXTINF:-1,DTV SPORTS PLUS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/42472.m3u8
-#EXTINF:-1,Duck Dodgers
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60544.m3u8
-#EXTINF:-1,E!
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/53536.m3u8
-#EXTINF:-1,E! ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/554.m3u8
-#EXTINF:-1,ECU: CANAL UNO (2 ᴍʙ)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/59350.m3u8
-#EXTINF:-1,ECU: Canal Uno (ꜰʜᴅ)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3515.m3u8
-#EXTINF:-1,ECU: CANAL UNO ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/59351.m3u8
-#EXTINF:-1,ECU: CANELA TV (2 ᴍʙ)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/59352.m3u8
-#EXTINF:-1,ECU: CANELA TV ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54987.m3u8
-#EXTINF:-1,ECU: Directv Sports (ꜰʜᴅ)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54988.m3u8
-#EXTINF:-1,ECU: DIRECTV SPORTS ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54990.m3u8
-#EXTINF:-1,ECU: Directv Sports ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54989.m3u8
-#EXTINF:-1,ECU: ECDF (2 ᴍɢ)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/61475.m3u8
-#EXTINF:-1,ECU: ECUADOR TV (ꜰʜᴅ)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54991.m3u8
-#EXTINF:-1,ECU: Ecuador TV ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54992.m3u8
-#EXTINF:-1,ECU: ECUADOR TV ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3509.m3u8
-#EXTINF:-1,ECU: ECUAVISA
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3507.m3u8
-#EXTINF:-1,ECU: ECUAVISA GUAYAQUIL (2 ᴍʙ)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/59355.m3u8
-#EXTINF:-1,ECU: ECUAVISA INTERNACIONAL (ꜰʜᴅ)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/59353.m3u8
-#EXTINF:-1,ECU: ECUAVISA INTERNACIONAL ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/59354.m3u8
-#EXTINF:-1,ECU: ECUAVISA QUITO (2 ᴍʙ)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/59356.m3u8
-#EXTINF:-1,ECU: ECUAVISA QUITO (ꜰʜᴅ)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/59357.m3u8
-#EXTINF:-1,ECU: GAMAVISION ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3504.m3u8
-#EXTINF:-1,ECU: GAMAVISON ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/59358.m3u8
-#EXTINF:-1,ECU: GOL TV
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/39326.m3u8
-#EXTINF:-1,ECU: Gol TV (Solo Eventos)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54994.m3u8
-#EXTINF:-1,ECU: GOLTV
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3500.m3u8
-#EXTINF:-1,ECU: GOLTV 
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3501.m3u8
-#EXTINF:-1,ECU: GOLTV (2 ᴍʙ)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/59359.m3u8
-#EXTINF:-1,ECU: GOLTV (ꜰʜᴅ)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/59362.m3u8
-#EXTINF:-1,ECU: GOLTV ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/59360.m3u8
-#EXTINF:-1,ECU: GOLTV ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/59361.m3u8
-#EXTINF:-1,ECU: OROMAR 
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3497.m3u8
-#EXTINF:-1,ECU: OROMAR ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/59368.m3u8
-#EXTINF:-1,ECU: RTS (ꜰʜᴅ)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3494.m3u8
-#EXTINF:-1,ECU: TC MI CANAL 
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3484.m3u8
-#EXTINF:-1,ECU: TC MI CANAL ⁽ᴴᴰ⁾ 
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3491.m3u8
-#EXTINF:-1,ECU: TELEAMAZONAS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3489.m3u8
-#EXTINF:-1,ECU: TELEAMAZONAS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3490.m3u8
-#EXTINF:-1,ECU: TELEAMAZONAS GUAYAQUIL ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/59363.m3u8
-#EXTINF:-1,ECU: TELEAMAZONAS GUAYAQUIL ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/59364.m3u8
-#EXTINF:-1,ECU: TELEAMAZONAS QUITO ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/59365.m3u8
-#EXTINF:-1,ECU: TELEAMAZONAS QUITO ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/59366.m3u8
-#EXTINF:-1,ECU: TVC ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/59367.m3u8
-#EXTINF:-1,Ecuador TV 2mb
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55410.m3u8
-#EXTINF:-1,Ecuavisa [Gquil] 2mb
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55411.m3u8
-#EXTINF:-1,EL CANAL DEL FÚTBOL , ECDF (2 ᴍɢ)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/61474.m3u8
-#EXTINF:-1,El Chavo
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60614.m3u8
-#EXTINF:-1,ESPN
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54125.m3u8
-#EXTINF:-1,ESPN (brasil)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57807.m3u8
-#EXTINF:-1,ESPN (usa)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57822.m3u8
-#EXTINF:-1,ESPN 1 (méxico)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/32979.m3u8
-#EXTINF:-1,ESPN 1 SUR (ꜰʜᴅ)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/610.m3u8
-#EXTINF:-1,ESPN 1 SUR ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/49402.m3u8
-#EXTINF:-1,ESPN 1 SUR ⁽ᵃ⁾ chile
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58049.m3u8
-#EXTINF:-1,ESPN 2 (argentina)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58092.m3u8
-#EXTINF:-1,ESPN 2 (argentina) ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/53991.m3u8
-#EXTINF:-1,ESPN 2 (brasil)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57809.m3u8
-#EXTINF:-1,ESPN 2 (colombia)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58064.m3u8
-#EXTINF:-1,ESPN 2 (colombia) ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58089.m3u8
-#EXTINF:-1,ESPN 2 (mexico) ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/53649.m3u8
-#EXTINF:-1,ESPN 2 (méxico)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/27553.m3u8
-#EXTINF:-1,ESPN 2 (usa)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57818.m3u8
-#EXTINF:-1,ESPN 2 CHILE 1080
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57325.m3u8
-#EXTINF:-1,ESPN 2 CHILE 720 ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/16686.m3u8
-#EXTINF:-1,ESPN 2 CHILE SD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55413.m3u8
-#EXTINF:-1,ESPN 2 HD Brasil
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54328.m3u8
-#EXTINF:-1,ESPN 2 NORTE
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54306.m3u8
-#EXTINF:-1,ESPN 2 NORTE ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54399.m3u8
-#EXTINF:-1,ESPN 2 NORTE ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/61490.m3u8
-#EXTINF:-1,ESPN 2 SUR
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/14869.m3u8
-#EXTINF:-1,ESPN 2 SUR ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/609.m3u8
-#EXTINF:-1,ESPN 3
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55414.m3u8
-#EXTINF:-1,ESPN 3 (méxico)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15766.m3u8
-#EXTINF:-1,ESPN 3 SUR
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/608.m3u8
-#EXTINF:-1,ESPN 3 SUR ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/26135.m3u8
-#EXTINF:-1,ESPN 3 ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54124.m3u8
-#EXTINF:-1,ESPN DEPORTES ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54126.m3u8
-#EXTINF:-1,ESPN DEPORTES ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/14050.m3u8
-#EXTINF:-1,ESPN EXTRA
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/14085.m3u8
-#EXTINF:-1,ESPN EXTRA ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/41661.m3u8
-#EXTINF:-1,ESPN U ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58061.m3u8
-#EXTINF:-1,ESPN ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55412.m3u8
-#EXTINF:-1,Estacion TV
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57778.m3u8
-#EXTINF:-1,EUROPA EUROPA
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/51475.m3u8
-#EXTINF:-1,EUROSPORT 1
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/25039.m3u8
-#EXTINF:-1,EUROSPORT 2 ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57584.m3u8
-#EXTINF:-1,EWTN
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/59369.m3u8
-#EXTINF:-1,F1  LIVE
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/61460.m3u8
-#EXTINF:-1,Fenomenoide
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60551.m3u8
-#EXTINF:-1,FIGHT NETWORK
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15923.m3u8
-#EXTINF:-1,Film & Arts ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/49468.m3u8
-#EXTINF:-1,FOOD NETWORK
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/53493.m3u8
-#EXTINF:-1,FOOD NETWORK ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/789.m3u8
-#EXTINF:-1,Fox Action ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55415.m3u8
-#EXTINF:-1,FOX CHANNEL
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15925.m3u8
-#EXTINF:-1,FOX CHANNEL (ᴍᴇxɪᴄᴏ)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/53539.m3u8
-#EXTINF:-1,FOX CHANNEL SUR
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1738.m3u8
-#EXTINF:-1,Fox Channel ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55416.m3u8
-#EXTINF:-1,Fox Cinema ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55417.m3u8
-#EXTINF:-1,Fox Classics ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55418.m3u8
-#EXTINF:-1,Fox Family ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55419.m3u8
-#EXTINF:-1,FOX LIFE (ᴍᴇxɪᴄᴏ)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1730.m3u8
-#EXTINF:-1,FOX LIFE (ᴍᴇxɪᴄᴏ) ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/42435.m3u8
-#EXTINF:-1,FOX LIFE HD ⁽ᶜᵒˡᵒᵐᵇⁱᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55015.m3u8
-#EXTINF:-1,Fox Life ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55420.m3u8
-#EXTINF:-1,Fox Movies ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55421.m3u8
-#EXTINF:-1,FOX NEWS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/27718.m3u8
-#EXTINF:-1,FOX PREMIUM ACTION (col)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/33356.m3u8
-#EXTINF:-1,FOX PREMIUM ACTION (ᴍᴇxɪᴄᴏ)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55016.m3u8
-#EXTINF:-1,FOX PREMIUM ACTION ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1731.m3u8
-#EXTINF:-1,FOX PREMIUM CINEMA ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1732.m3u8
-#EXTINF:-1,FOX PREMIUM CINEMA ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/33357.m3u8
-#EXTINF:-1,FOX PREMIUM CLASSICS ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1733.m3u8
-#EXTINF:-1,FOX PREMIUM CLASSICS ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/33358.m3u8
-#EXTINF:-1,FOX PREMIUM COMEDY
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1734.m3u8
-#EXTINF:-1,FOX PREMIUM COMEDY ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/33359.m3u8
-#EXTINF:-1,FOX PREMIUM FAMILY
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1735.m3u8
-#EXTINF:-1,FOX PREMIUM FAMILY ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/33360.m3u8
-#EXTINF:-1,FOX PREMIUM MOVIES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/33361.m3u8
-#EXTINF:-1,FOX PREMIUM MOVIES ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1736.m3u8
-#EXTINF:-1,FOX PREMIUM SERIES 
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1737.m3u8
-#EXTINF:-1,FOX PREMIUM SERIES ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/16177.m3u8
-#EXTINF:-1,Fox Series ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55424.m3u8
-#EXTINF:-1,FOX SOCCER PLUS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43357.m3u8
-#EXTINF:-1,FOX SPORTS (argentina)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58066.m3u8
-#EXTINF:-1,FOX SPORTS (argentina) ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58065.m3u8
-#EXTINF:-1,FOX SPORTS (brasil)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54329.m3u8
-#EXTINF:-1,FOX SPORTS (méxico)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/32993.m3u8
-#EXTINF:-1,FOX SPORTS 1
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54121.m3u8
-#EXTINF:-1,FOX SPORTS 1 CHILE (ʙ)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55004.m3u8
-#EXTINF:-1,FOX SPORTS 1 CHILE (ᴀ)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/25247.m3u8
-#EXTINF:-1,FOX SPORTS 1 SUR ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/25248.m3u8
-#EXTINF:-1,FOX SPORTS 1 ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/41665.m3u8
-#EXTINF:-1,FOX SPORTS 2 (brasil)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54330.m3u8
-#EXTINF:-1,FOX SPORTS 2 (brasil)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57810.m3u8
-#EXTINF:-1,FOX SPORTS 2 (chile)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58150.m3u8
-#EXTINF:-1,FOX SPORTS 2 SUR ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55005.m3u8
-#EXTINF:-1,FOX SPORTS 2 SUR ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57823.m3u8
-#EXTINF:-1,Fox Sports 2 ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55425.m3u8
-#EXTINF:-1,FOX SPORTS 2 ⁽ᴴᴰ⁾ (argentina)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58095.m3u8
-#EXTINF:-1,FOX SPORTS 2 ⁽ᴴᴰ⁾ (méxico)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/613.m3u8
-#EXTINF:-1,FOX SPORTS 2 ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54123.m3u8
-#EXTINF:-1,FOX SPORTS 2 ⁽ᴹ⁾ (méxico)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55378.m3u8
-#EXTINF:-1,FOX SPORTS 3 (argentina)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/41668.m3u8
-#EXTINF:-1,FOX SPORTS 3 (méxico)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55007.m3u8
-#EXTINF:-1,FOX SPORTS 3 (méxico) ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/18218.m3u8
-#EXTINF:-1,FOX SPORTS 3 SUR ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55006.m3u8
-#EXTINF:-1,Fox Sports 3 ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55426.m3u8
-#EXTINF:-1,FOX SPORTS PREMIUM ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54122.m3u8
-#EXTINF:-1,FOX SPORTS PREMIUM ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/61489.m3u8
-#EXTINF:-1,FOX SPORTS SUR
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58093.m3u8
-#EXTINF:-1,FOX SPORTS SUR 2 
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/18219.m3u8
-#EXTINF:-1,FOX SPORTS ⁽ᴴᴰ⁾ (méxico)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55003.m3u8
-#EXTINF:-1,FS 1 usa
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/14880.m3u8
-#EXTINF:-1,Futurama
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60552.m3u8
-#EXTINF:-1,FUTV
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/33760.m3u8
-#EXTINF:-1,FX
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1739.m3u8
-#EXTINF:-1,FX MOVIES ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15713.m3u8
-#EXTINF:-1,FX ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55427.m3u8
-#EXTINF:-1,FXM 
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1740.m3u8
-#EXTINF:-1,Gallo claudio
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60553.m3u8
-#EXTINF:-1,Gamavision ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55428.m3u8
-#EXTINF:-1,GLITZ ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/790.m3u8
-#EXTINF:-1,GLOBO NEWS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/27705.m3u8
-#EXTINF:-1,GM: Canal 11
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/53995.m3u8
-#EXTINF:-1,GM: Canal 3
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/53996.m3u8
-#EXTINF:-1,GM: Canal 7
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/53997.m3u8
-#EXTINF:-1,GM: Guatevision 
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/53998.m3u8
-#EXTINF:-1,GOL PERU
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/14049.m3u8
-#EXTINF:-1,GOL PERU ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/25085.m3u8
-#EXTINF:-1,GOL TV (ecuador)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54995.m3u8
-#EXTINF:-1,GOL TV (sólo eventos)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58273.m3u8
-#EXTINF:-1,GOL TV ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54996.m3u8
-#EXTINF:-1,GOLDEN 
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1743.m3u8
-#EXTINF:-1,GOLDEN EDGE
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1741.m3u8
-#EXTINF:-1,GOLDEN PLUS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1742.m3u8
-#EXTINF:-1,GOLDEN PREMIER 
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/10870.m3u8
-#EXTINF:-1,GOLF CHANNEL BBC
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15740.m3u8
-#EXTINF:-1,Gracia TV 
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57779.m3u8
-#EXTINF:-1,Green Egg and Ham (Ing)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60622.m3u8
-#EXTINF:-1,Grupo Increible
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60554.m3u8
-#EXTINF:-1,H2 
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/9958.m3u8
-#EXTINF:-1,H2 ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55429.m3u8
-#EXTINF:-1,H2 ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15537.m3u8
-#EXTINF:-1,Hagalo Usted Mismo ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60514.m3u8
-#EXTINF:-1,Happy Halloween Kids
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60500.m3u8
-#EXTINF:-1,Happy tree friends
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60555.m3u8
-#EXTINF:-1,HBO 2 
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1745.m3u8
-#EXTINF:-1,HBO 2 ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55431.m3u8
-#EXTINF:-1,HBO FAMILY 
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1746.m3u8
-#EXTINF:-1,HBO Family ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55432.m3u8
-#EXTINF:-1,HBO latino
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1744.m3u8
-#EXTINF:-1,HBO latino
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/45651.m3u8
-#EXTINF:-1,HBO MUNDI
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1750.m3u8
-#EXTINF:-1,HBO PLUS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1747.m3u8
-#EXTINF:-1,HBO POP
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1751.m3u8
-#EXTINF:-1,HBO SIGNATURE 
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1748.m3u8
-#EXTINF:-1,HBO subtitulado
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/33362.m3u8
-#EXTINF:-1,HBO usa
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/33363.m3u8
-#EXTINF:-1,HBO West HD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54865.m3u8
-#EXTINF:-1,HBO XTREAM
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1749.m3u8
-#EXTINF:-1,HBO XTREME ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/43223.m3u8
-#EXTINF:-1,HBO ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55430.m3u8
-#EXTINF:-1,HEY Kids ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60497.m3u8
-#EXTINF:-1,Hip-Hop/R&B
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3537.m3u8
-#EXTINF:-1,HIPERTV
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58116.m3u8
-#EXTINF:-1,HISTORY
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/791.m3u8
-#EXTINF:-1,HISTORY ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15565.m3u8
-#EXTINF:-1,LIGA MX
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58270.m3u8
-#EXTINF:-1,LIGA MX 2
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58271.m3u8
-#EXTINF:-1,MEX : CANAL 66 MEXICALI
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57846.m3u8
-#EXTINF:-1,MEX: ADN 40 
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3855.m3u8
-#EXTINF:-1,MEX: ADN 40*
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/49383.m3u8
-#EXTINF:-1,MEX: AZ CLIC
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3851.m3u8
-#EXTINF:-1,MEX: AZ CORAZON 
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3850.m3u8
-#EXTINF:-1,MEX: AZ UNO 
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3845.m3u8
-#EXTINF:-1,MEX: AZTECA 7
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3852.m3u8
-#EXTINF:-1,MEX: AZTECA 7*
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3848.m3u8
-#EXTINF:-1,MEX: CANAL 44
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/57844.m3u8
-#EXTINF:-1,MEX: CANAL 5
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3842.m3u8
-#EXTINF:-1,MEX: CANAL 9 GALA TV 
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3841.m3u8
-#EXTINF:-1,MEX: CANAL ONCE
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3839.m3u8
-#EXTINF:-1,MEX: DE PELICULA PLUS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3835.m3u8
-#EXTINF:-1,MEX: DEPELICULA 
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3836.m3u8
-#EXTINF:-1,MEX: DISTRITO COMEDIA
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3833.m3u8
-#EXTINF:-1,MEX: FORO TV
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3828.m3u8
-#EXTINF:-1,MEX: GALAVISION 
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3826.m3u8
-#EXTINF:-1,MEX: IMAGEN TV
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3822.m3u8
-#EXTINF:-1,MEX: LAS ESTRELLAS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3830.m3u8
-#EXTINF:-1,MEX: LAS ESTRELLAS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3832.m3u8
-#EXTINF:-1,MEX: MILENIO TV
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3821.m3u8
-#EXTINF:-1,MEX: MULTIMEDIOS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/39295.m3u8
-#EXTINF:-1,MEX: TELEFORMULA
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3819.m3u8
-#EXTINF:-1,MEX: TLENOVELAS 
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3818.m3u8
-#EXTINF:-1,MEX: UNICABLE
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/3815.m3u8
-#EXTINF:-1,MOVISTAR DEPORTES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/655.m3u8
-#EXTINF:-1,MOVISTAR DEPORTES 1
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/26570.m3u8
-#EXTINF:-1,MOVISTAR DEPORTES PERÚ
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58139.m3u8
-#EXTINF:-1,MOVISTAR F1
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15708.m3u8
-#EXTINF:-1,MOVISTAR F1
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/657.m3u8
-#EXTINF:-1,MOVISTAR LA LIGA 
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/659.m3u8
-#EXTINF:-1,MOVISTAR LA LIGA ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58113.m3u8
-#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/52291.m3u8
-#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES (m)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/52292.m3u8
-#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES (ꜰʜᴅ)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/61485.m3u8
-#EXTINF:-1,NATGEO KIDS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/725.m3u8
-#EXTINF:-1,NATGEO KIDS ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/42426.m3u8
-#EXTINF:-1,NATGEO WILD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/5413.m3u8
-#EXTINF:-1,NATGEO WILD ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15536.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/17336.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/803.m3u8
-#EXTINF:-1,NICK
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/42430.m3u8
-#EXTINF:-1,NICK 2
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/5417.m3u8
-#EXTINF:-1,NICK 2*
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/42427.m3u8
-#EXTINF:-1,Nick Classics
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60498.m3u8
-#EXTINF:-1,NICK JR
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/726.m3u8
-#EXTINF:-1,NICKELODEON
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/727.m3u8
-#EXTINF:-1,NICKTOONS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/5416.m3u8
-#EXTINF:-1,NICKTOONS*
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/33728.m3u8
-#EXTINF:-1,Starz Cinema FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54873.m3u8
-#EXTINF:-1,Starz Comedy FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54874.m3u8
-#EXTINF:-1,Starz East FHD 
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54875.m3u8
-#EXTINF:-1,Starz Edge FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54876.m3u8
-#EXTINF:-1,Starz Encore Action FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54877.m3u8
-#EXTINF:-1,Starz Encore Classics FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54878.m3u8
-#EXTINF:-1,Starz Encore Family FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54879.m3u8
-#EXTINF:-1,Starz Encore FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54880.m3u8
-#EXTINF:-1,Starz Encore Suspense FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54881.m3u8
-#EXTINF:-1,Starz Encore Western FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54882.m3u8
-#EXTINF:-1,Starz Family FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54883.m3u8
-#EXTINF:-1,Starz In Black FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54884.m3u8
-#EXTINF:-1,Starz Kids & Family FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54885.m3u8
-#EXTINF:-1,Starz West FHD
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54886.m3u8
-#EXTINF:-1,Street Shark
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60604.m3u8
-#EXTINF:-1,STUDIO UNIVERSAL
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1755.m3u8
-#EXTINF:-1,STUDIO UNIVERSAL 
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15714.m3u8
-#EXTINF:-1,SUNDANCE TV ⁽ᴴᴰ⁾ ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/1756.m3u8
-#EXTINF:-1,TUDN (MEXICO)
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58094.m3u8
-#EXTINF:-1,TUDN XTRA
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54756.m3u8
-#EXTINF:-1,TUDN ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15883.m3u8
-#EXTINF:-1,TUDN ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15700.m3u8
-#EXTINF:-1,CINEMA:  DINAMITA SD*
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/1
-
-#EXTINF:-1,CINEMA:  TCM SD*
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/2
-
-#EXTINF:-1,CINEMA: AMC SD*
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/3
-
-#EXTINF:-1,CINEMA: AZTECA CINEMA
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/4
-
-#EXTINF:-1,CINEMA: CINE CANAL SD*
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/5
-
-#EXTINF:-1,CINEMA: CINE LATINO SD*
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/6
-
-#EXTINF:-1,CINEMA: CINEMAX SD*
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/7
-
-#EXTINF:-1,CINEMA: CLARO CINEMA SD*
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/8
-
-#EXTINF:-1,CINEMA: DE PELICULA PLUS
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/9
-
-#EXTINF:-1,CINEMA: DE PELICULA TP MX
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/10
-
-#EXTINF:-1,CINEMA: FOX ACTION SD*
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/11
-
-#EXTINF:-1,CINEMA: FOX CLASICO SD*
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/14
-
-#EXTINF:-1,CINEMA: FOX COMEDY SD*
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/15
-
-#EXTINF:-1,CINEMA: FOX FAMYLY SD*
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/16
-
-#EXTINF:-1,CINEMA: FOX MOVIES SD*
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/17
-
-#EXTINF:-1,CINEMA: FOX SERIES SD*
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/18
-
-#EXTINF:-1,CINEMA: GOLDEN PREMIER 1
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/19
-
-#EXTINF:-1,CINEMA: GOLDEN SD*
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/20
-
-#EXTINF:-1,CINEMA: HBO 1 SD*
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/21
-
-#EXTINF:-1,CINEMA: HBO 2 SD*
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/22
-
-#EXTINF:-1,CINEMA: HBO Family SD*
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/23
-
-#EXTINF:-1,CINEMA: HBO MUNDI
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/24
-
-#EXTINF:-1,CINEMA: HBO Plus SD*
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/25
-
-#EXTINF:-1,CINEMA: HBO XTREAME SD *
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/26
-
-#EXTINF:-1,CINEMA: MULTICINEMA SD*
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/27
-
-#EXTINF:-1,CINEMA: MULTIPREMIER SD*
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/28
-
-#EXTINF:-1,CINEMA: PARAMOUNT SD*
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/29
-
-#EXTINF:-1,CINEMA: SPACE SD*
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/30
-
-#EXTINF:-1,CINEMA: STUDIO UNIVERSAL SD*
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/31
-
-#EXTINF:-1,CINEMA: SYFY*
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/32
-
-#EXTINF:-1,CINEMA: TNT SD*
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/33
-
-#EXTINF:-1,ENTRE GALAVISION
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/48
-
-#EXTINF:-1,ENTRE: ANTENA3 SD*
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/49
-
-#EXTINF:-1,ENTRE: AZ MUNDO SD*
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/50
-
-#EXTINF:-1,ENTRE: COMEDY CENTRAL HD*
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/51
-
-#EXTINF:-1,ENTRE: DHE SD*
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/52
-
-#EXTINF:-1,ENTRE: DISTRITO COMEDIA TP MX
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/53
-
-#EXTINF:-1,ENTRE: E! SD*
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/54
-
-#EXTINF:-1,ENTRE: EL GOURMET SD*
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/55
-
-#EXTINF:-1,ENTRE: ESTRELLATV
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/65
-
-#EXTINF:-1,ENTRE: FASHION ONE SD*
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/56
-
-#EXTINF:-1,ENTRE: FILM & ARTS SD*
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/57
-
-#EXTINF:-1,ENTRE: FOOD NETWORK TP MX
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/58
-
-#EXTINF:-1,ENTRE: HOLA !TV SD*
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/59
-
-#EXTINF:-1,ENTRE: LIFE TIME SD*
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/60
-
-#EXTINF:-1,ENTRE: MAS CHIC SD*
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/61
-
-#EXTINF:-1,ENTRE: TL NOVELAS TP MX
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/62
-
-#EXTINF:-1,ENTRE: UNICABLE TP MX
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/63
-
-#EXTINF:-1,ENTRETENIMIENTO: FOX LIFE TP MX
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/64
-
-#EXTINF:-1,FOX LIFE
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/66
-
-#EXTINF:-1,SERIE: A&E SD*
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/67
-
-#EXTINF:-1,SERIE: A3SERIES
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/68
-
-#EXTINF:-1,SERIE: AXN SD*
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/69
-
-#EXTINF:-1,SERIE: EURO Channel SD*
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/70
-
-#EXTINF:-1,SERIE: FOX SD *
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/71
-
-#EXTINF:-1,SERIE: FX Movies SD*
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/72
-
-#EXTINF:-1,SERIE: FX SD*
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/73
-
-#EXTINF:-1,SERIE: FXM TP MX
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/74
-
-#EXTINF:-1,SERIE: SONY SD*
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/76
-
-#EXTINF:-1,SERIE: TNT SERIES*
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/77
-
-#EXTINF:-1,SERIE: UNIVERSAL TV SD*
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/78
-
-#EXTINF:-1,SERIES: WARNER SD*
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/79
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="68737" tvg-name="STGO.TV" tvg-logo="https://lh3.googleusercontent.com/-02uPrXnaZuY/Xk_sz_MIaEI/AAAAAAAAwVo/wwJD8vjW0ScrhAp-BVHSElUKIOUN_CqJgCK8BGAsYHg/s0/2020-02-21.png", STGO.TV
+https://stv.janus.cl/playlist/stream.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="45161" tvg-name="UCV" tvg-logo="https://lh3.googleusercontent.com/-EuD3NFEVxqo/XwcVyOUbDHI/AAAAAAAA2mo/ZUkrO1nc7GQPy2ycgo8jROEUH3c9ASw-QCK8BGAsYHg/s0/2020-07-09.png", UCV
+https://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="78412" tvg-name="Campus TV" tvg-logo="https://lh3.googleusercontent.com/-pW3OtBR0N4A/Xl5Y7H0fi7I/AAAAAAAAwjg/gdqG0LJ8DP42Md2rGIh2qHs1vNF7AYopACK8BGAsYHg/s0/2020-03-03.png", Campus TV
+https://unlimited6-cl.dps.live/campustv/campustv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="47415" tvg-name="TVU" tvg-logo="https://www.tvu.cl/_templates/desktop/includes/img/main-logo.png", TVU
+https://unlimited2-cl.dps.live/tvu/tvu.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="79753" tvg-name="Ufrovision" tvg-logo="https://lh3.googleusercontent.com/-fqdCC1PQsjQ/XbC1rzkVu6I/AAAAAAAArmE/eB5FcH8qqZkgXsnzuStsuYTohDPRfNMdQCK8BGAsYHg/s0/2019-10-23.png", Ufrovision
+https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="45163" tvg-name="Universidad Autonoma TV" tvg-logo="https://lh3.googleusercontent.com/-nd4c6QLsydI/XxzDch_etoI/AAAAAAAA3W4/WNqk540iLs4vbpjPezDKD-4xOHbgAu-PwCK8BGAsYHg/s0/2020-07-25.png", Universidad Autonoma TV
+https://unlimited2-cl.dps.live/uatv/uatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="96811" tvg-name="U Los Lagos" tvg-logo="https://lh3.googleusercontent.com/-mt7LVY0X3kE/XlBdyl_hwFI/AAAAAAAAwW0/vqFU9wiyuawEn3E39ERyYaOkVZ3TVterACK8BGAsYHg/s0/2020-02-21.png", U Los Lagos
+http://tv.ulagos.cl/web/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="79755" tvg-name="UMAG TV" tvg-logo="https://lh3.googleusercontent.com/-0NppS8zHXRU/XbC2cN4qlAI/AAAAAAAArmY/g4gYZKyGhHglj_lyBKSaRw-tBMgzO0NmACK8BGAsYHg/s0/2019-10-23.png", UMAG TV
+https://tls.cdnz.cl/tser5/ngrp:live_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="97664" tvg-name="UMAG TV 2" tvg-logo="https://lh3.googleusercontent.com/-0NppS8zHXRU/XbC2cN4qlAI/AAAAAAAArmY/g4gYZKyGhHglj_lyBKSaRw-tBMgzO0NmACK8BGAsYHg/s0/2019-10-23.png", UMAG TV 2
+https://tls.cdnz.cl/umagtv2/smil:umagtv2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="45162" tvg-name="  UesTV " tvg-logo="https://lh3.googleusercontent.com/-C-8OFMBPqBI/XlMcEgjbHQI/AAAAAAAAwaU/ZtZFmeqfdLshRPsr2zqa1MOIunQOyh_TwCK8BGAsYHg/s0/2020-02-23.png",   UesTV 
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="96323" tvg-name="Teletón TV" tvg-logo="https://lh3.googleusercontent.com/-RsMjPwaqZeE/XlMNZlWurnI/AAAAAAAAwZ4/RmHs1fZ6XLEEoLl-i_-v_bFmCaNF9AYCQCK8BGAsYHg/s0/2020-02-23.png", Teletón TV
+https://mdstrm.com/live-stream-playlist/5d6d5f05a2f6f407b0147965.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108262" tvg-name="Chile Channel" tvg-logo="https://lh3.googleusercontent.com/-DVzBnJJGsHM/Xzh-ooBVTnI/AAAAAAAA4dk/Gl6kLefOEM0C6UdyAwM1__ki_GZ7OGYQACK8BGAsYHg/s0/2020-08-15.png", Chile Channel
+https://v2.tustreaming.cl/chilechannel/live1/tracks-v1a1/mono.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="90570" tvg-name="TV Salud" tvg-logo="https://lh3.googleusercontent.com/-Xv_aL34GjFE/XdksOdTnS9I/AAAAAAAAsTs/_WBt4UNy428CuU5dtVeJQZzh4EpQREnDwCK8BGAsYHg/s0/2019-11-23.png", TV Salud
+https://srv3.zcast.com.br/mastermedia/mastermedia/tvsalud.cl.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="95116" tvg-name="Campo Abierto TV" tvg-logo="https://lh3.googleusercontent.com/-4kb9wGicr7M/Xig619FpK6I/AAAAAAAAvXM/M93ox1O9Q1AW9bYyH_YhviBv8C00TPgBwCK8BGAsYHg/s0/2020-01-22.png", Campo Abierto TV
+https://v2.tustreaming.cl/campoabierto/live1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108007" tvg-name="tevex" tvg-logo="https://lh3.googleusercontent.com/-Eh0WWCMtr9M/Xxy_cE4HLOI/AAAAAAAA3WQ/5W01vsrDvjUO6IWL55sx1nyZRUSbpUjWQCK8BGAsYHg/s0/2020-07-25.png", tevex
+https://v2.tustreaming.cl/tevex/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="107558" tvg-name="LosDesterrados.cl" tvg-logo="https://lh3.googleusercontent.com/-CwAYYerNHTc/XwJl3icWQEI/AAAAAAAA2is/G7lDAcKelq0nYbL_sb-X8p3uAHgQ1T9KACK8BGAsYHg/s0/2020-07-05.png", LosDesterrados.cl
+https://5e3483cba9114.streamlock.net/losdesterrados.cl/losdesterrados.cl/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108372" tvg-name="Contexto Ñuble" tvg-logo="https://lh3.googleusercontent.com/-ekKVRenfHM0/XxrgV0mzzxI/AAAAAAAA3RQ/fKXlImk04NA-LHWUeguA3D1U-COqI_dFwCK8BGAsYHg/s0/2020-07-24.png", Contexto Ñuble
+https://mediacpstreamchile.com:1936/contextonuble/contextonuble/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="103795" tvg-name="CEAC TV" tvg-logo="https://lh3.googleusercontent.com/-3zxAz6AAT3s/XnJsVqusKAI/AAAAAAAAxAY/v6dUPsBWkLwEtBnQZrIV4n3xc5nHEiNLgCK8BGAsYHg/s0/2020-03-18.png", CEAC TV
+https://videostreaming.cloudserverlatam.com:443/ceactv/ceactv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="96812" tvg-name="Arab TV" tvg-logo="https://lh3.googleusercontent.com/-cX3hRuQMFnw/XlBes3o55bI/AAAAAAAAwW8/yISIwzWQFGYWXLZzPPyz90qh_FxV2NQhwCK8BGAsYHg/s0/2020-02-21.png", Arab TV
+https://livefocamundo.com:8081/8160/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="45125" tvg-name=" TV Senado" tvg-logo="https://lh3.googleusercontent.com/-b9aE7JpzEH8/XnzHXJpJW1I/AAAAAAAAxMg/AmY8Yj9Wly4usr4ZK_CxmI7qBR8YiExGgCK8BGAsYHg/s0/2020-03-26.png",  TV Senado
+https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="45120" tvg-name=" Cámara de Diputados" tvg-logo="https://lh3.googleusercontent.com/-GVvEdi5plcE/XnzIJzMlt4I/AAAAAAAAxMo/d2-NKtjyZ9soryJyKJyF13H5A9oW1nJ1wCK8BGAsYHg/s0/2020-03-26.png",  Cámara de Diputados
+https://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="93284" tvg-name="Poder Judicial" tvg-logo="https://lh3.googleusercontent.com/-uw4BLVN26UI/Xe47riQP-vI/AAAAAAAAuRc/KUya1P-8lm4IA6STG0Ft5lr3tNsgY0t6gCK8BGAsYHg/s0/2019-12-09.png", Poder Judicial
+http://unlimited1-us.dps.live/poderjudicial1/poderjudicial1.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="84048" tvg-name="TVN 24 Horas" tvg-logo="https://lh3.googleusercontent.com/-BbCIUKB7XJE/XbRLHyJVKcI/AAAAAAAArtU/ipNQiS3rttYIRuK2nKzy_oocBx0x4TOLACK8BGAsYHg/s0/2019-10-26.png", TVN 24 Horas
+https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="45130" tvg-name="TVN 24 Horas 2" tvg-logo="https://lh3.googleusercontent.com/-BbCIUKB7XJE/XbRLHyJVKcI/AAAAAAAArtU/ipNQiS3rttYIRuK2nKzy_oocBx0x4TOLACK8BGAsYHg/s0/2019-10-26.png", TVN 24 Horas 2
+https://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="79045" tvg-name="Meganoticias" tvg-logo="https://lh3.googleusercontent.com/-42YG0jZhyGg/XbC0Ua8FlLI/AAAAAAAArlw/S2qhcWOdFuskqCondIatbmxSfLMvgj9owCK8BGAsYHg/s0/2019-10-23.png", Meganoticias
+http://www.m3u.cl/channel/meganoticias.php?PlaylistM3UCL
+#EXTINF:-1 tvg-id="110911" tvg-name="La Tercera TV" tvg-logo="https://lh3.googleusercontent.com/-8rrVRnD5vYg/X01OokuMgUI/AAAAAAAA5Gw/iqNWVnwC4XcGuGSpHUMr_vlkn1jaUZn9wCK8BGAsYHg/s0/2020-08-31.jpg", La Tercera TV
+https://unlimited2-cl.dps.live/lttv/lttv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="112611" tvg-name="La Tercera TV 2" tvg-logo="https://lh3.googleusercontent.com/-8rrVRnD5vYg/X01OokuMgUI/AAAAAAAA5Gw/iqNWVnwC4XcGuGSpHUMr_vlkn1jaUZn9wCK8BGAsYHg/s0/2020-08-31.jpg", La Tercera TV 2
+https://unlimited10-cl.dps.live/lt3/lt3.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="99563" tvg-name="Arcatel" tvg-logo="https://lh3.googleusercontent.com/-eAhwIXcCpA0/XnoL0QvZpII/AAAAAAAAxIw/2f2YOsAaVq4-OfUKS3cxgcIt213l90u2ACK8BGAsYHg/s0/2020-03-24.png", Arcatel
+https://unlimited10-cl.dps.live/arcatel/arcatel.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="45139" tvg-name="Arica TV" tvg-logo="https://lh3.googleusercontent.com/-8I3ALqJFO8U/Wn9iuwd_2jI/AAAAAAAAgv4/CGgV99apqosaMjAmYAWEYhxh279lzsyQQCK8BGAs/s220/2018-02-10.png", Arica TV
+https://5d1ca66d2d698.streamlock.net:1936/8002/8002/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="79750" tvg-name="Cappissima Multimedial TV" tvg-logo="https://lh3.googleusercontent.com/-uQdRQP7JvuA/XxzEqR_Af-I/AAAAAAAA3XQ/7CuKTSW5TYckPnJr5bxkDTtIYB6zy6lHACK8BGAsYHg/s0/2020-07-25.png", Cappissima Multimedial TV
+http://cl.streaminghd.cl/cappissima/cappissima/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="94188" tvg-name="Puerta Norte" tvg-logo="https://lh3.googleusercontent.com/-HTLI7n2K50M/XhUge0dM_xI/AAAAAAAAvC4/vbnHWF_eheMVlaLxiXkRCDpAboN8_iiNgCK8BGAsYHg/s0/2020-01-07.png", Puerta Norte
+https://593b04c4c5670.streamlock.net/8170/8170/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="45138" tvg-name="Antofagasta TV" tvg-logo="https://lh3.googleusercontent.com/-9ykpPa7MOE0/Wn9ikLOHznI/AAAAAAAAgv0/piIOoaBDZPERcRlBvxF__pCtiJWX-Yi6QCK8BGAs/s200/2018-02-10.png", Antofagasta TV
+https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="45137" tvg-name="AM Canal" tvg-logo="https://lh3.googleusercontent.com/-Z1-m9ZjVCNQ/XbjmzF2pDyI/AAAAAAAAr1M/4B0gHQh9sHAx8H-G2kS3mqgVYuwGSeofwCK8BGAsYHg/s0/2019-10-29.png", AM Canal
+https://v2.tustreaming.cl/amtv/live1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="107650" tvg-name="TVO Tocopilla" tvg-logo="https://lh3.googleusercontent.com/-uSdgqeTgb4o/XxzE8VuETQI/AAAAAAAA3XY/9-D2ks1nTFwcS9od0Ko39vdHoH7YlgVWgCK8BGAsYHg/s0/2020-07-25.png", TVO Tocopilla
+http://srv3.zcast.com.br/cristian5592/cristian5592/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="60296" tvg-name="Holvoet TV" tvg-logo="https://lh3.googleusercontent.com/-f2XD9gK2A7E/XYedPslJTeI/AAAAAAAArC8/ZqPnUu30bjkStrKAAoo5afh331Fi24yDwCK8BGAsYHg/s0/2019-09-22.png", Holvoet TV
+https://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="107160" tvg-name="Atacama Noticias" tvg-logo="https://lh3.googleusercontent.com/-l7XXNQYmGAM/XvDpTB0gG5I/AAAAAAAA2Kk/GvD1qftKvhgJszIAP4CbyNkTdKk5h61gQCK8BGAsYHg/s0/2020-06-22.png", Atacama Noticias
+https://srv1.zcast.com.br/atacamanoticias/atacamanoticias/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="79754" tvg-name="Atacama TV" tvg-logo="https://lh3.googleusercontent.com/-Nu8nCShXmhs/XbC0i2stT9I/AAAAAAAArl0/1sC8Fi5sDqA6o5fNttdPaKtB25tuK4CJQCK8BGAsYHg/s0/2019-10-23.png", Atacama TV
+https://v2.tustreaming.cl/atacamatv/live1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="77106" tvg-name="Enfoque Digital TV" tvg-logo="https://lh3.googleusercontent.com/-d0pBTz15qL8/Xb193gtulII/AAAAAAAAr5k/8FV3q3r3odYDM-vFDLVsFciDJfMHTSfBQCK8BGAsYHg/s0/2019-11-02.png", Enfoque Digital TV
+https://Stmv1.zcastbr.com/edtvchile/edtvchile/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="83961" tvg-name="Canal Costa TV" tvg-logo="https://lh3.googleusercontent.com/-cSAhGvgcp_s/Xp7f5f1I8PI/AAAAAAAAyEs/iD5vq6urbqYFwSjvsn895E7LcTCVg5d1wCK8BGAsYHg/s0/2020-04-21.png", Canal Costa TV
+https://stmv1.zcastbr.com/dvjvonsho/dvjvonsho/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="98988" tvg-name="La Popular TV" tvg-logo="https://lh3.googleusercontent.com/-JXvAv4nY-K8/XnTXs1clGLI/AAAAAAAAxCw/ntmMdCu1UQEXtAHPFrYyW8I1l5bRGiAWwCK8BGAsYHg/s0/2020-03-20.png", La Popular TV
+https://5d1ca66d2d698.streamlock.net:1936/8076/8076/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="45156" tvg-name="ThemaTV" tvg-logo="https://lh3.googleusercontent.com/-p3LlUC__MhE/Wn9ntTT4umI/AAAAAAAAgxA/ahIA2oru5JgDmruisQROdYlLiVOr6-DygCK8BGAs/s230/2018-02-10.png", ThemaTV
+https://unlimited2-cl.dps.live/thema/thema.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108500" tvg-name="América TV Chile" tvg-logo="https://lh3.googleusercontent.com/-dAThrFAhCtE/Xx-hwDQF4gI/AAAAAAAA3ic/BsAasEXfeos0_0c7QAorRga7pt2ZC1yfwCK8BGAsYHg/s0/2020-07-27.png", América TV Chile
+https://srv4.zcast.com.br/erickzambra/erickzambra/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="112579" tvg-name="Nortevision" tvg-logo="https://lh3.googleusercontent.com/-Vjrgm0Rr1PI/X3UTx5J44-I/AAAAAAAA6Fs/DMjCrXkJa2EfBj6VLrLghrPnSE2Gt-YbwCK8BGAsYHg/s0/2020-09-30.png", Nortevision
+https://5d52c82b4a7e3.streamlock.net:1936/nortevision/nortevision/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="45164" tvg-name="Canal VTV Los Andes - San Felipe" tvg-logo="https://lh3.googleusercontent.com/-Z4lnBH9o1Xg/Wn9qH_CN1nI/AAAAAAAAgxo/4OeIVek2OzIIfRaMqxKTs-M-_D9TrgYuACK8BGAs/s230/2018-02-10.png", Canal VTV Los Andes - San Felipe
+https://unlimited10-cl.dps.live/vtv/vtv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="84121" tvg-name="Quinta TV" tvg-logo="https://lh3.googleusercontent.com/-uGNn_Jm4_kw/XbsVFATDWFI/AAAAAAAAr3A/-VX-h7Nfe9ISKQgsZ0-5w_klCDvfH1sgACK8BGAsYHg/s0/2019-10-31.png", Quinta TV
+https://livefocamundo.com:8081/8164/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="83635" tvg-name="Estudio TV" tvg-logo="https://lh3.googleusercontent.com/-jFjYSKBrS0U/XbId-qM-u3I/AAAAAAAAroo/KX1hey-_AA4pviUBwK-kv3mtG_-MPlwVQCK8BGAsYHg/s0/2019-10-24.png", Estudio TV
+https://5d8b8e0ea0b59.streamlock.net/estudio-tv/estudio-tv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="98883" tvg-name="Canal de la Costa" tvg-logo="https://lh3.googleusercontent.com/-5gr2u_fRaYc/XnAV1RTZyYI/AAAAAAAAw-k/m2mQkdOij1MSnHaQ6op9KU4LKsxMhwXnwCK8BGAsYHg/s0/2020-03-16.png", Canal de la Costa
+https://livefocamundo.com:8081/8178/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="79761" tvg-name="Girovisual TV" tvg-logo="https://lh3.googleusercontent.com/-2RSuEqZWo2w/XgS5saEsrFI/AAAAAAAAuyY/C2HvQbI9DNQPbrz9T-ENn1tPGOcn0W6TQCK8BGAsYHg/s0/2019-12-26.png", Girovisual TV
+http://unlimited6-cl.dps.live/girovisual2/girovisual2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="96907" tvg-name="VoxPopuli Chile" tvg-logo="https://lh3.googleusercontent.com/-DbKsidqGy6I/XlKnYHZVp9I/AAAAAAAAwY0/qY5Kav43ib8cqnDSANRGHj9y5CaF7JqtQCK8BGAsYHg/s0/2020-02-23.png", VoxPopuli Chile
+https://unlimited6-cl.dps.live/vox/vox.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="45140" tvg-name="Canal 2 de San Antonio" tvg-logo="https://lh3.googleusercontent.com/-8rzHJZdq8rY/Xb2AX9UW_tI/AAAAAAAAr58/gqkZ21n2nf4rm5Ah-lzNOz5ch6_JVUS5wCK8BGAsYHg/s0/2019-11-02.png", Canal 2 de San Antonio
+http://unlimited6-cl.dps.live/canal2/canal2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108647" tvg-name="TV Costa" tvg-logo="https://lh3.googleusercontent.com/-aaK4qWwBodU/XyH4GJRWtZI/AAAAAAAA3mg/7e6RNVaihh0_29CAPipxy1FWMRFx__ljACK8BGAsYHg/s0/2020-07-29.png", TV Costa
+http://cdn.streamingmedia.cl:1935/live/canalcosta/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="113627" tvg-name="Canal 74 TeVe" tvg-logo="https://lh3.googleusercontent.com/-TYq4HDXXrKg/X1gGWf_2AWI/AAAAAAAA5ZQ/apHThKFoYGM5Yyixt53Afu2I10KkbCdjwCK8BGAsYHg/s0/2020-09-08.png", Canal 74 TeVe
+https://stmv.voxtvhd.com.br/canal74hd/canal74hd/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="84989" tvg-name="Canal 74 TeVe Señal 2" tvg-logo="https://lh3.googleusercontent.com/-TYq4HDXXrKg/X1gGWf_2AWI/AAAAAAAA5ZQ/apHThKFoYGM5Yyixt53Afu2I10KkbCdjwCK8BGAsYHg/s0/2020-09-08.png", Canal 74 TeVe Señal 2
+https://Stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="45128" tvg-name="TVR" tvg-logo="https://lh3.googleusercontent.com/-xyk2_KFlnyQ/WycRffTYWbI/AAAAAAAAj2I/H3wImrej3y8ryyTZOsLtkd8fVB12d5aKQCK8BGAs/s200/2018-06-17.png", TVR
+https://unlimited1-cl.dps.live/tvr/tvr.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="45165" tvg-name="  VTV Viña del Mar " tvg-logo="https://lh3.googleusercontent.com/-Z4lnBH9o1Xg/Wn9qH_CN1nI/AAAAAAAAgxo/4OeIVek2OzIIfRaMqxKTs-M-_D9TrgYuACK8BGAs/s230/2018-02-10.png",   VTV Viña del Mar 
+http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="90569" tvg-name="Tendencias TV" tvg-logo="https://lh3.googleusercontent.com/-1PPmwEYs754/XdkqYLIPJsI/AAAAAAAAsTg/uaxRVoCC7tclYVUIJ91HvzP1zDZszFHZQCK8BGAsYHg/s0/2019-11-23.png", Tendencias TV
+https://v2.tustreaming.cl/tendenciastv/live1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="95117" tvg-name="TU Canal TV Colina" tvg-logo="https://lh3.googleusercontent.com/-J08Zxjh1sxs/Xig7pBsDHWI/AAAAAAAAvXY/M-atDfDj6zIuWnnVdiD42zIo2Jq1NR1UQCK8BGAsYHg/s0/2020-01-22.png", TU Canal TV Colina
+http://hd.chileservidores.cl:8080/colina/colina/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="96318" tvg-name="Buin Somos Todos" tvg-logo="https://lh3.googleusercontent.com/-qHSWQUuG5HU/XkIKFkSMFBI/AAAAAAAAv-o/80_hG25Pe6cfe7Dm3Uc6VDpcMp2Nd3ImwCK8BGAsYHg/s0/2020-02-10.png", Buin Somos Todos
+https://bst.buin.cl/0.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="106417" tvg-name="Canal 57 Melipilla" tvg-logo="https://lh3.googleusercontent.com/-Iq2MrLE3eM0/XxzGMPg7gwI/AAAAAAAA3Xo/nKBFoZf_6EMofMGh31UtMM8XfPK97keFACK8BGAsYHg/s0/2020-07-25.png", Canal 57 Melipilla
+https://593b04c4c5670.streamlock.net:443/8148/8148/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="45159" tvg-name="TVO San Vicente" tvg-logo="https://lh3.googleusercontent.com/-KqVMZYYWTmw/Wn9oUb4r2HI/AAAAAAAAgxM/7PcNcpeHE8w1k5jXjucb5FYO6byb8i5ZACK8BGAs/s116/2018-02-10.png", TVO San Vicente
+http://wow2.cl.digitalproserver.com/tvo/tvovivo/tvo.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="79752" tvg-name="Sextavision" tvg-logo="https://lh3.googleusercontent.com/-jrWnNYMCARg/XxzHhPjtM8I/AAAAAAAA3X0/8TDxNrCDkK8gLpV7HBJhhFqovrjbr3AmwCK8BGAsYHg/s0/2020-07-25.png", Sextavision
+https://590c5dc5c3271.streamlock.net/carlos107/carlos107/playlist.m3u8?DVR&PlaylistM3UCL
+#EXTINF:-1 tvg-id="101853" tvg-name="Telecanal Santa Cruz" tvg-logo="https://lh3.googleusercontent.com/-pPgoQgoAtTQ/Xpt4d9_ftzI/AAAAAAAAx_8/HS0gSRWlXngyTJ7ghBe1cfVlmaawNe4oQCK8BGAsYHg/s0/2020-04-18.png", Telecanal Santa Cruz
+https://unlimited2-cl.dps.live/tcsc/tcsc.smil/tcsc/livestream1/chunks.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="95385" tvg-name="TVR Canal 11" tvg-logo="https://lh3.googleusercontent.com/-D7L3q2KhyFA/XjQLBVPp_xI/AAAAAAAAvhk/YiyvFKiyTV8wmlJ3AKPuWIP-c99ZP3I0QCK8BGAsYHg/s0/2020-01-31.png", TVR Canal 11
+https://unlimited6-cl.dps.live/tvrcurico/tvrcurico.smil/tvrcurico/livestream1/chunks.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="112839" tvg-name="Vivo TV" tvg-logo="https://lh3.googleusercontent.com/-1sqZ7rIlQfU/X30JIKK3h6I/AAAAAAAA6Mg/PXOK4Ogfto8S5Jkbot2bAdHtCctyapzqwCK8BGAsYHg/s0/2020-10-06.jpg", Vivo TV
+https://unlimited10-cl.dps.live/vivotv/vivotv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="103801" tvg-name="Telecanal Talca" tvg-logo="https://lh3.googleusercontent.com/-G00IurB2EiU/XsdJC7RaGJI/AAAAAAAA1D0/b3IywEyDKrgsPzT18tf6cIyKu7N2FhgbACK8BGAsYHg/s0/2020-05-21.png", Telecanal Talca
+https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="81742" tvg-name="TV Maulinos" tvg-logo="https://lh3.googleusercontent.com/-mg7P9EtaYaU/XeV9H7SjXJI/AAAAAAAAuHw/Ql1NZ8DZ51UcwarrrrDLXLE4hLqJMNlbgCK8BGAsYHg/s0/2019-12-02.png", TV Maulinos
+https://590c5dc5c3271.streamlock.net/tvmaulinos354/tvmaulinos354/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="45145" tvg-name="TV 5 Linares" tvg-logo="http://www.tv5.cl/wp-content/uploads/2018/08/TV5-LOGO-2018-FULLB.png", TV 5 Linares
+https://unlimited2-cl.dps.live/tv5/tv5.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="45148" tvg-name="Contivisión" tvg-logo="https://lh3.googleusercontent.com/-wWvPNIeSDSw/Wn9lX-H2FWI/AAAAAAAAgwc/SsfCyM-wBWgDBxA5lU2NNkOOKUCfw_oiQCK8BGAs/s240/2018-02-10.png", Contivisión
+https://unlimited2-cl.dps.live/contivision/contivision.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="79756" tvg-name="UTV San Clemente" tvg-logo="https://lh3.googleusercontent.com/-Q31aIYuswtM/XtfviH86SfI/AAAAAAAA1a4/nO6dwaSufKwyp-I3aKFviAXuEGQTPScswCK8BGAsYHg/s0/2020-06-03.png", UTV San Clemente
+https://v2.tustreaming.cl/utvsc/live1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="94106" tvg-name="Nativa TV" tvg-logo="https://lh3.googleusercontent.com/-cjGfTc-x5mE/XhNpkqYLfYI/AAAAAAAAvA0/H23FY52RLO8sZlK22ADQwnFt51j_RYcHgCK8BGAsYHg/s0/2020-01-06.png", Nativa TV
+https://mediacpstreamchile.com:1936/nativa3/ngrp:nativa3_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="104809" tvg-name="Tele2 Web" tvg-logo="https://lh3.googleusercontent.com/-ma0nk15jqs0/Xte5HlWvxqI/AAAAAAAA1aM/FbCYYz6_ExY547-4KshY_FHdgea6Rr8mACK8BGAsYHg/s0/2020-06-03.png", Tele2 Web
+https://inliveserver.com:1936/11516/11516/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="45142" tvg-name="Canal 21 Chillán" tvg-logo="https://lh3.googleusercontent.com/-zdameN8RkN4/Wn9k02_XleI/AAAAAAAAgwU/o7QWyXJUMuUIqbZ7vPAZ7eOHYmFLIBDNwCK8BGAs/s265/2018-02-10.png", Canal 21 Chillán
+https://tls.cdnz.cl/canal21tv/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="45136" tvg-name="Estacion TV" tvg-logo="https://lh3.googleusercontent.com/-lv8qJFiOnmM/XY5huCSO6VI/AAAAAAAArLA/M13LackrZaICHmHnHZZTHWLxQQdOQCwIACK8BGAsYHg/s0/2019-09-27.png", Estacion TV
+http://unlimited6-cl.dps.live/estaciontv/estaciontv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="98981" tvg-name="ClickTv" tvg-logo="https://lh3.googleusercontent.com/-0tmtb8Flbcg/XmJcmbcB-4I/AAAAAAAAwnM/Br1f1IIzlRYXm39HwrzXBU3SmMHktsgqQCK8BGAsYHg/s0/2020-03-06.png", ClickTv
+http://v2.tustreaming.cl/clicktv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="102019" tvg-name="Restaurando Vidas TV" tvg-logo="https://lh3.googleusercontent.com/-dCmVrPpak9Q/XqDkraarkHI/AAAAAAAAyIU/c1aIH-hl3XULRj8Dltqx91-6n8eGEE6fACK8BGAsYHg/s0/2020-04-22.png", Restaurando Vidas TV
+http://v2.tustreaming.cl/restaurandovidastv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="45146" tvg-name="Canal 9 Bío Bí­o TV" tvg-logo="https://lh3.googleusercontent.com/-opZ6mP8G3Fo/Wn9lBEeoQ4I/AAAAAAAAgwY/cKvIaCeqHZEwdTQ-pJPh7oCDIU2q-fECwCK8BGAs/s220/2018-02-10.png", Canal 9 Bío Bí­o TV
+https://unlimited10-cl.dps.live/c9/c9.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="47414" tvg-name="TV8" tvg-logo="https://lh3.googleusercontent.com/-snwIA-MbUYs/W15lFEEE7TI/AAAAAAAAkqA/75Rrun41uOMufo_zTiUBpJu4icQcjpSOwCK8BGAs/s317/2018-07-29.png", TV8
+https://593b04c4c5670.streamlock.net/8134/8134/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="79763" tvg-name="TV4" tvg-logo="https://lh3.googleusercontent.com/-y7TDgBUKCMI/XxzII32W3zI/AAAAAAAA3X8/hsnRb9iiH84srb7tOHQrBhKze2dWTBVuQCK8BGAsYHg/s0/2020-07-25.png", TV4
+http://evo.eltelon.com:1935/live/tv4-television/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="79762" tvg-name="Teleangol Radio" tvg-logo="https://lh3.googleusercontent.com/-zDgbgkPTFLA/XbCy7Dg-33I/AAAAAAAArlQ/712PcpxHNmAKjz1k4Arp_iVvpJ-qC_WxQCK8BGAsYHg/s0/2019-10-23.png", Teleangol Radio
+http://unlimited10-cl.dps.live/teleangolradio/teleangolradio.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="62025" tvg-name="LTV canal" tvg-logo="https://lh3.googleusercontent.com/-Lm1PxwMT-Zc/X0v29tzKwLI/AAAAAAAA5Es/MjQEVIxYNhovyHt3mpzI91Gnb-YJj0FoQCK8BGAsYHg/s0/2020-08-30.png", LTV canal
+https://medios.sirtel.cl/live/stream/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="79764" tvg-name="Pucon TV" tvg-logo="https://lh3.googleusercontent.com/-r4ejsHWoXtE/XYb7QVbZA4I/AAAAAAAArCw/XjvcDEIjGlAZnTFSCURiZYONDlWPs4GhwCK8BGAsYHg/s0/2019-09-21.png", Pucon TV
+http://unlimited2-cl.dps.live/pucontv/pucontv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="84122" tvg-name="Temuco TV" tvg-logo="https://lh3.googleusercontent.com/-jZY-ta22ZGM/XbsWVpiM-mI/AAAAAAAAr3I/VxTNs1fPD9IjG6UGytY4W3nY0HwgO4hjQCK8BGAsYHg/s0/2019-10-31.png", Temuco TV
+https://5d1ca66d2d698.streamlock.net:1936/8038/8038/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="96702" tvg-name="TecTV" tvg-logo="https://lh3.googleusercontent.com/-25N61RT1aYg/XkymulbB_NI/AAAAAAAAwIk/CTy8bQmk5IkhF1wVO0B-b2Vz3Qp17u6NACK8BGAsYHg/s0/2020-02-18.png", TecTV
+http://190.107.176.55:1935/live/tec-tv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="45151" tvg-name="T-Vinet" tvg-logo="https://lh3.googleusercontent.com/-EtM2JBuVazM/XxzIhLJW5PI/AAAAAAAA3YE/zmlykaL06y4tNI5JbuLPm-I1BSYsWCZYACK8BGAsYHg/s0/2020-07-25.png", T-Vinet
+http://wow2.cl.digitalproserver.com/inet2/inet2vivo/inet2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="97666" tvg-name="Canal Latino 54" tvg-logo="https://lh3.googleusercontent.com/-gBbkRnIisag/XmPPRUnANTI/AAAAAAAAwpc/01jp-ZrMDeYwbf4ahDeKu7kayyMQ_VuUgCK8BGAsYHg/s0/2020-03-07.png", Canal Latino 54
+http://190.3.169.119:8080/latina/latina/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="97675" tvg-name="Osorno TV+" tvg-logo="https://lh3.googleusercontent.com/-tFNIzbzaa-w/XxzI1GfAaZI/AAAAAAAA3YM/9QCPBTiAp7E6V8u9cSZAyt0IdlWbexo2wCK8BGAsYHg/s0/2020-07-25.png", Osorno TV+
+https://593b04c4c5670.streamlock.net/8108/8108/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="79765" tvg-name="Decima TV" tvg-logo="https://lh3.googleusercontent.com/-3q8oUK7uUUo/XbCzDBxA1OI/AAAAAAAArlU/FPIAOQc92_kSKByiVYmSU0USaROnneutgCK8BGAsYHg/s0/2019-10-23.png", Decima TV
+http://unlimited10-cl.dps.live/decimatv/decimatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="45141" tvg-name="Canal 2 Quellón" tvg-logo="https://lh3.googleusercontent.com/-h8o2u7q5Uy0/XbC17VIqwsI/AAAAAAAArmI/K43pwbbfr8kOdMyWd5JqIA14olHsldGfwCK8BGAsYHg/s0/2019-10-23.png", Canal 2 Quellón
+https://unlimited1-cl.dps.live/tvquellon/tvquellon.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="109061" tvg-name="Vision TV" tvg-logo="https://lh3.googleusercontent.com/-kA-YUEjBEoc/XygP_iR0ZzI/AAAAAAAA3sI/mMsFytWSPV4dziqhZQtA6X0GmhEIrmrpQCK8BGAsYHg/s0/2020-08-03.png", Vision TV
+https://novo.bitstreaming.info:1936/visiontv/visiontv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="81736" tvg-name="Canal Survision Alerce" tvg-logo="https://lh3.googleusercontent.com/-Kiv5Ktv3BEo/Xb1-X8u-CxI/AAAAAAAAr5s/GhIbG_a7q6AgLXn-a8YDhoGIw6SlZBEOACK8BGAsYHg/s0/2019-11-02.png", Canal Survision Alerce
+http://170.79.102.254:1935/pruebacamara/Survision_tv_alerce/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="76271" tvg-name="Canal 10 ARTV" tvg-logo="https://lh3.googleusercontent.com/-NiEKmZyV6M4/X5jAAgzGznI/AAAAAAAA6yk/x73ELpUxWNIxADiBYi-IRUvTZcM_8EjigCK8BGAsYHg/s0/2020-10-27.png", Canal 10 ARTV
+https://panel.livetvvideo.net:1936/8040/8040/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="79747" tvg-name="Canal 5 Puerto Montt" tvg-logo="https://lh3.googleusercontent.com/-szH-Ks13BEM/XxzJjjfkGMI/AAAAAAAA3Yg/9NJcDqFC9hcJL9ZUeBaaC8eDcAi1W-k7ACK8BGAsYHg/s0/2020-07-25.png", Canal 5 Puerto Montt
+https://srv2.zcast.com.br/canal5tv/canal5tv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="79749" tvg-name="Canal Chilote" tvg-logo="https://lh3.googleusercontent.com/-PSTGhMmBibc/XxzJI-gLUqI/AAAAAAAA3YU/mEA7WQhC_OAGP30eyfR2OlLBrd6Wy19OQCK8BGAsYHg/s0/2020-07-25.png", Canal Chilote
+http://hd.chileservidores.cl:8080/reseller/chiloe2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="100379" tvg-name="Chiloe Red 25" tvg-logo="https://lh3.googleusercontent.com/-taF7STTebY8/XxzJzTcNobI/AAAAAAAA3Yk/Z_EEZ_hbkK8G6V93Rp9x_q6qa925hTqbACK8BGAsYHg/s0/2020-07-25.png", Chiloe Red 25
+https://v2.tustreaming.cl/chiloered/live1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="79759" tvg-name="Santa Maria TV" tvg-logo="https://lh3.googleusercontent.com/-u0E4RY62ySI/XbC2IU7YHXI/AAAAAAAArmQ/2mDq3cPseesa8lsFWQB8TPWlwAggTb3HQCK8BGAsYHg/s0/2019-10-23.png", Santa Maria TV
+https://unlimited2-cl.dps.live/smtv/smtv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="79766" tvg-name="Rocco TV 4" tvg-logo="https://lh3.googleusercontent.com/-5jEbbcsU_ik/XYkOp0auiYI/AAAAAAAArFI/FZ5rSg86P3UYvIygsK6xhWt2xrO37mAsQCK8BGAsYHg/s0/2019-09-23.png", Rocco TV 4
+http://evo.eltelon.com:1935/live/rocco-tv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="79751" tvg-name="Canal 11 TV Aysen" tvg-logo="https://lh3.googleusercontent.com/-jhufNazsn38/Xb2B7rEk2vI/AAAAAAAAr6M/anfhpZiZTRwmlOg5D1QR74w_ZlXbN7T5QCK8BGAsYHg/s0/2019-11-02.png", Canal 11 TV Aysen
+https://v2.tustreaming.cl/canal11aysen/live1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="84585" tvg-name="Soberania Radio" tvg-logo="https://lh3.googleusercontent.com/-pf03Ni2mlHM/XkCIc5Dw7QI/AAAAAAAAv7s/Ppiq_UWrkTw5zvckCGNM5NV6m91ndRZ8wCK8BGAsYHg/s0/2020-02-09.png", Soberania Radio
+https://tls.cdnz.cl/iflexus/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="45152" tvg-name="ITV Patagonia" tvg-logo="https://lh3.googleusercontent.com/-uSEbJ_o0QlY/Wn9mgCZRMnI/AAAAAAAAgww/FemZGM5N_GQI7T4IgYhq3zTDPbhl_tfpQCK8BGAs/s302/2018-02-10.png", ITV Patagonia
+https://unlimited2-cl.dps.live/itv/itv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="107712" tvg-name="Canal Sur Patagonia" tvg-logo="https://lh3.googleusercontent.com/-SMZdtDq6Dw0/XxzKA9R0abI/AAAAAAAA3Ys/R8wSeZoKBNU4LyZnAXKU_DR1mGnzo1L4wCK8BGAsYHg/s0/2020-07-25.png", Canal Sur Patagonia
+https://v2.tustreaming.cl/canalsurpatagonia/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="45154" tvg-name="PinguinoTV" tvg-logo="https://lh3.googleusercontent.com/-TmPM1gqdUS8/Wn9m_65JtNI/AAAAAAAAgw4/Kr6ucgq8g7wJsJ6oiIHaSrEA3R5A6I7ggCK8BGAs/s132/2018-02-10.png", PinguinoTV
+http://167.114.133.205:1935/live/pinguinotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="81741" tvg-name="TV Chile" tvg-logo="https://lh3.googleusercontent.com/-tUAc1plWtjg/Xa0CQyx4E_I/AAAAAAAArgs/ET8I9WYNPSA3R5FoRn54Ok6IGA9-5ItaACK8BGAsYHg/s0/2019-10-20.png", TV Chile
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="96282" tvg-name="TV Publica" tvg-logo="https://lh3.googleusercontent.com/-0K_G9JiAw-I/XkCUfNx8kmI/AAAAAAAAv8Y/eK0_8koGnZYLy58qtmUqW26VOZjRqqV8gCK8BGAsYHg/s0/2020-02-09.png", TV Publica
+https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="102483" tvg-name="Net TV" tvg-logo="https://lh3.googleusercontent.com/-NM-pmtTnvh0/XpNaN_29WCI/AAAAAAAAx1Q/VKhqWlMKOBAP6YkJdg7LV4_O44xn8gdwACK8BGAsYHg/s0/2020-04-12.png", Net TV
+https://unlimited2-cl.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="105377" tvg-name="UCL Televisión LATAM" tvg-logo="https://lh3.googleusercontent.com/-A_RaYdHsdSU/XxzKXkCODJI/AAAAAAAA3Y0/elHa2TXc-z8HpetZx_GzDK0vaepcN4xLACK8BGAsYHg/s0/2020-07-25.png", UCL Televisión LATAM
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="102481" tvg-name="Canal Capital" tvg-logo="https://lh3.googleusercontent.com/-Emi_jrNT71c/XqeMwoB2P-I/AAAAAAAAyS4/pUS5P-UYKsoW5xFT9RQjmCl7ONAL0oG4wCK8BGAsYHg/s0/2020-04-27.png", Canal Capital
+https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="83648" tvg-name="Canal IPE" tvg-logo="https://lh3.googleusercontent.com/-oIEzY0G7pYY/XbI3QjoY6OI/AAAAAAAArqw/caCNpRl6FRoMHn1l0F-Tc9HmhrZRtxgggCK8BGAsYHg/s0/2019-10-24.png", Canal IPE
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="113859" tvg-name="RT" tvg-logo="https://lh3.googleusercontent.com/-lFxeunh5PmY/X5F4yyCtQ1I/AAAAAAAA6os/89eVaEZroogQRsDPzDjJ6lo8TUJYJsmoACK8BGAsYHg/s0/2020-10-22.png", RT
+https://rt-esp.secure.footprint.net/1102.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="83637" tvg-name="Telesur" tvg-logo="https://lh3.googleusercontent.com/-CAaBUIZOgpc/XbInLO0y7XI/AAAAAAAAro8/uyF1cG5j5XcZHIDofhFJT2q00gjKsTl0wCK8BGAsYHg/s0/2019-10-24.png", Telesur
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="110685" tvg-name="Telesur English" tvg-logo="https://lh3.googleusercontent.com/-CAaBUIZOgpc/XbInLO0y7XI/AAAAAAAAro8/uyF1cG5j5XcZHIDofhFJT2q00gjKsTl0wCK8BGAsYHg/s0/2019-10-24.png", Telesur English
+https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="112080" tvg-name="TVGE Internacional" tvg-logo="https://lh3.googleusercontent.com/-57laskf-4G8/X2qKCk1vgUI/AAAAAAAA5zI/r8PwmZ5FpbAFSDxs-nMT0L7XeORa6VUWQCK8BGAsYHg/s0/2020-09-22.png", TVGE Internacional
+http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="83647" tvg-name="TV Marti" tvg-logo="https://lh3.googleusercontent.com/-wLqvSBG3ypA/XbI136RmymI/AAAAAAAArqk/SfWDO2VbXmYneaUPCbHk_4Y5Fm9aY1sNACK8BGAsYHg/s0/2019-10-24.png", TV Marti
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="101997" tvg-name="Cubavisión" tvg-logo="https://lh3.googleusercontent.com/-nT-Q98F4FeQ/Xp8MhhgpZNI/AAAAAAAAyFM/p0M3gJVu9hQskeY4D1DMdAHyiaV22pjsQCK8BGAsYHg/s0/2020-04-21.png", Cubavisión
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="106810" tvg-name="CBS News" tvg-logo="https://lh3.googleusercontent.com/-7Oed2S5Ee9w/XxzKnAYw4II/AAAAAAAA3Y4/_2SonQ-u60grRFzqT4h4bp3WYXEhwg92ACK8BGAsYHg/s0/2020-07-25.png", CBS News
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="106811" tvg-name="Weather Channel" tvg-logo="https://lh3.googleusercontent.com/-_ETKw8ibJXY/XxotXQXIyYI/AAAAAAAA3O8/0cUfEBshJ00ALc-Or2R3UhrKlq6_5LJygCK8BGAsYHg/s0/2020-07-23.png", Weather Channel
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="83643" tvg-name="Arirang" tvg-logo="https://lh3.googleusercontent.com/-EjspQDMJTv8/XbIv0DmeI5I/AAAAAAAArp4/sxviem-Fy9skCw30jz2aykgMXeffZqW_wCK8BGAsYHg/s0/2019-10-24.png", Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="110617" tvg-name="NHK World" tvg-logo="https://lh3.googleusercontent.com/-x-S-MRU-WnA/X0Wm577k6mI/AAAAAAAA488/XNXHzIGbuIQOZILV5iMyhUtqchxQ7JRGQCK8BGAsYHg/s0/2020-08-25.png", NHK World
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="110618" tvg-name="CGNTV Japan" tvg-logo="https://lh3.googleusercontent.com/-8hlrp2wlRUQ/X0Wne5IOlsI/AAAAAAAA49E/EtbwfTTFSYMZSkHL02HpR93MzyvS9ppPwCK8BGAsYHg/s0/2020-08-25.png", CGNTV Japan
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="83638" tvg-name="CGTN Español" tvg-logo="https://lh3.googleusercontent.com/-5Bst2FjJUOo/XbIpHQZPzvI/AAAAAAAArpI/tLHDuXno6jYWed5i08VruJbrM4M8MiiigCK8BGAsYHg/s0/2019-10-24.png", CGTN Español
+https://live.cgtn.com/cctv-e.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="110678" tvg-name="Arte TV Korea" tvg-logo="https://lh3.googleusercontent.com/-p4jHQN_0AqQ/X0le-ECUvdI/AAAAAAAA5CI/x2YeNDhN1fYxYJ4sanLAb5MGhtDc4ZGvgCK8BGAsYHg/s0/2020-08-28.png", Arte TV Korea
+http://etomatomobile.hscdn.com/artemobile/livestream/playlist﻿.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="113085" tvg-name="KCTV Corea del Norte" tvg-logo="https://lh3.googleusercontent.com/-8IpmbgEzups/X4Yu4uVe5qI/AAAAAAAA6Yw/Kye7DILzMEE1iWTRAztURzgLpK9FafwlwCK8BGAsYHg/s0/2020-10-13.png", KCTV Corea del Norte
+https://tv.nknews.org/tvhls/stream.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="83641" tvg-name="DW Español" tvg-logo="https://lh3.googleusercontent.com/--AW1Ecwc3mA/XkCKi0vJyKI/AAAAAAAAv8A/EEsjeBXIHI84UAgvUar2SUVbxJv69E9GACK8BGAsYHg/s0/2020-02-09.png", DW Español
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="83636" tvg-name="ETB" tvg-logo="https://lh3.googleusercontent.com/-zDoomAn0TMw/XbImW6K389I/AAAAAAAAro0/cwMaz2E9x70_mtd-B9uW_cA6oSLzu4QWwCK8BGAsYHg/s0/2019-10-24.png", ETB
+http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="83645" tvg-name="RTVE1" tvg-logo="https://lh3.googleusercontent.com/-WHCrwstKD9c/XbIxg9DuowI/AAAAAAAArqM/nORzL7ZQ24k3msMs6B89nU2V2eG8RO2NQCK8BGAsYHg/s0/2019-10-24.png", RTVE1
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="83644" tvg-name="RTVE24" tvg-logo="https://lh3.googleusercontent.com/-1mw4WtbxGU8/XbIwxC6NMPI/AAAAAAAArqE/dp61Cx1kuwsSWLwXijprIMQLXG-kWexqACK8BGAsYHg/s0/2019-10-24.png", RTVE24
+https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="96666" tvg-name="TV Galicia America" tvg-logo="https://lh3.googleusercontent.com/-NNimM6BK6ZQ/XkszwS7D6uI/AAAAAAAAwGw/zaSdPQcEOrk7IkrJiRFWvpqbLOHmMhNtwCK8BGAsYHg/s0/2020-02-17.png", TV Galicia America
+http://america-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="83639" tvg-name="France 24" tvg-logo="https://lh3.googleusercontent.com/-CcQlQ7U7EVI/XbIqQWbGCBI/AAAAAAAArpQ/CyEn-4Mk9xEHuDVVhDBB-vQumKMTSkrUwCK8BGAsYHg/s0/2019-10-24.png", France 24
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="96261" tvg-name="DW Deutsch" tvg-logo="https://lh3.googleusercontent.com/-S2ARYt1ZIII/XkCKagNL1pI/AAAAAAAAv78/y833ikE79sIEuG1IuDcfh2xzZ4HhPHJjQCK8BGAsYHg/s0/2020-02-09.png", DW Deutsch
+https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="97669" tvg-name="CDO" tvg-logo="https://lh3.googleusercontent.com/-EBTv-wiVlJ0/XmPRkwNUmzI/AAAAAAAAwp0/TtmCkqZp7vkZx-6R9p3Q8Riqtxe3xltyACK8BGAsYHg/s0/2020-03-07.png", CDO
+https://tls.cdnz.cl/cdofree/smil:cdn.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="90632" tvg-name="Garage TV" tvg-logo="https://lh3.googleusercontent.com/-N5L2PomAq-4/XdricY3wKXI/AAAAAAAAsUQ/3JbLP9zSc2IzklgEOxQHpw7zz8A62i4RwCK8BGAsYHg/s0/2019-11-24.png", Garage TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="84845" tvg-name="TV Turf Movil" tvg-logo="https://lh3.googleusercontent.com/-4gdqGn04Bng/Xb9WF2WzB6I/AAAAAAAAr7A/tbeDeaQTuuMuHOka_gYv4trQHwAyzqKPQCK8BGAsYHg/s0/2019-11-03.png", TV Turf Movil
+https://janus.tvturf.cl/playlist/stream.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="79757" tvg-name="Valparaiso Sporting" tvg-logo="https://lh3.googleusercontent.com/-HLkq9KDNolI/XxzLq65I2KI/AAAAAAAA3ZI/Vx5DVILxWmoGc5_PJ01NSoc2wVODn-FqACK8BGAsYHg/s0/2020-07-25.png", Valparaiso Sporting
+https://unlimited10-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="45106" tvg-name="Teletrak" tvg-logo="https://lh3.googleusercontent.com/-H203VH0Qnr0/XxzMCs6SOmI/AAAAAAAA3ZQ/S5ojmvOjSQERDOMBWTNQRoN_tqvAZGMBQCK8BGAsYHg/s0/2020-07-25.png", Teletrak
+https://unlimited10-cl.dps.live/teletrak/teletrak.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="106260" tvg-name="Urban TV" tvg-logo="https://lh3.googleusercontent.com/-Xx4DcggZ0tw/X48XMFPv4jI/AAAAAAAA6lY/eTAQj1-UnWUbuTMAHTCiwz9SCJoAlGkTACK8BGAsYHg/s0/2020-10-20.png", Urban TV
+https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="109683" tvg-name="Conecta TV" tvg-logo="https://lh3.googleusercontent.com/-1OS8OxMcn0I/XzmCbfsP71I/AAAAAAAA4hQ/FAENkONIqpU9vS0mReGgunUTSJ-he5hPQCK8BGAsYHg/s0/2020-08-16.png", Conecta TV
+http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="112566" tvg-name="Corazon Llanero" tvg-logo="https://lh3.googleusercontent.com/-XR46wyY1FZc/XjomdF00q2I/AAAAAAAAvlY/RR7N6BVs2fQVrkRxUvldT5NN7KN5QGDDACK8BGAsYHg/s0/2020-02-04.png", Corazon Llanero
+http://95.216.150.122:1935/corazonllanerotvweb/corazonllanerotvweb/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="115097" tvg-name="TV Exitos" tvg-logo="http://www.m3u.cl/logo/108992_TV_Exitos.jpg", TV Exitos
+http://siglo21.dnsalias.com:8080/mylive/tvexitos/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="111181" tvg-name="Voice Over Radio TV" tvg-logo="https://lh3.googleusercontent.com/-4Fp5UvcQSPk/X1fnHQ7Ce1I/AAAAAAAA5Yw/Tm0LZzdlN140n8D1br9aSQbhMvBD5lDzwCK8BGAsYHg/s0/2020-09-08.png", Voice Over Radio TV
+https://5c21f7ec1999d.streamlock.net:443/voiceoverradiotv/voiceoverradiotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="97300" tvg-name="On Radio Kpop" tvg-logo="https://lh3.googleusercontent.com/-MfYGt6f-FNQ/XmWIp_jDYpI/AAAAAAAAwsg/7Yn3jbMYdRIJWMFC3S1YbS2hQT3XBMiOgCK8BGAsYHg/s0/2020-03-08.png", On Radio Kpop
+https://tls.cdnz.cl/onradio4/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="104101" tvg-name="Retro Music Television" tvg-logo="https://lh3.googleusercontent.com/-z4SQcFR0bIs/Xs_MlInCKMI/AAAAAAAA1QM/T2RR2owl_CYpymBiQ8lOi1ykYZVAwI6NACK8BGAsYHg/s0/2020-05-28.png", Retro Music Television
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="112615" tvg-name="Video Tour Channel" tvg-logo="https://lh3.googleusercontent.com/-QUz4UviUPiE/X3YnewzIm7I/AAAAAAAA6Ho/xpUvyAvSX6Qj0Lvl8qhuZnDdz9VPZWy4QCK8BGAsYHg/s0/2020-10-01.png", Video Tour Channel
+http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="109959" tvg-name="m2o TV" tvg-logo="https://lh3.googleusercontent.com/-8k2_MMN4_Bc/X0Khp3P6tWI/AAAAAAAA46E/RE_IEG7uAo4WhxuJy71et8N5L1BRugBLgCK8BGAsYHg/s0/2020-08-23.png", m2o TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="96319" tvg-name="DJ Crazy Jam" tvg-logo="https://lh3.googleusercontent.com/-67BYQMKbnrw/X30NvotuJbI/AAAAAAAA6Ms/Lk5wiHkwd8k4wu7vf8wUEk47EuT2O6LzgCK8BGAsYHg/s0/2020-10-06.jpg", DJ Crazy Jam
+https://593b04c4c5670.streamlock.net/8082/8082/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="109956" tvg-name="Music Top" tvg-logo="https://lh3.googleusercontent.com/-6Em4fzTLMuU/XjtHLf96jvI/AAAAAAAAvqU/q3DfxbUdSiMDRDB1VBh_3hu3WDK_Nr-egCK8BGAsYHg/s0/2020-02-05.png", Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="103357" tvg-name="TuTv Quillota" tvg-logo="https://lh3.googleusercontent.com/-WD49JzHZ9cM/Xrsv-mIjUjI/AAAAAAAA0rs/g_Pgm6hQvNIbp8aHuvQ3H7kEkiu3-M4zQCK8BGAsYHg/s0/2020-05-12.png", TuTv Quillota
+https://tvstreaming.cl:1936/tutv/tutv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="112085" tvg-name="RCKStudio" tvg-logo="https://lh3.googleusercontent.com/-k220wrO7Pks/X2tCElFr0xI/AAAAAAAA50E/JjO-VenWP_cETYy8Se1-2pxO3-vMYU5nACK8BGAsYHg/s0/2020-09-23.png", RCKStudio
+https://rckstudio.duckdns.org/hls/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="45111" tvg-name=" Carolina TV" tvg-logo="https://lh3.googleusercontent.com/-3hmTnW9e-Y4/XbDAlKKxKtI/AAAAAAAArnA/OkLJM2f1T0ktieMaceuBzVPOADwGIf1jACK8BGAsYHg/s0/2019-10-23.png",  Carolina TV
+http://unlimited1-cl.dps.live/carolinatv/carolinatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="100762" tvg-name="Natural TV" tvg-logo="https://lh3.googleusercontent.com/-mHhSrfB607c/Xofchq4pWAI/AAAAAAAAxd8/1PbG6O1b6ZU6d_G1AImfuPfCMgxVk9eeACK8BGAsYHg/s0/2020-04-03.png", Natural TV
+http://srv1.zcast.com.br/miguel/miguel/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="67425" tvg-name="DJ Loncho TV" tvg-logo="https://lh3.googleusercontent.com/-VPBp6Vk47T4/XnzDahiuJCI/AAAAAAAAxMI/BkejtQRObwcVvsIvYbdi3Yf5UOizKSRoQCK8BGAsYHg/s0/2020-03-26.png", DJ Loncho TV
+https://srv2.zcast.com.br/djlonchotv/djlonchotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="98217" tvg-name="Ibiza Global TV" tvg-logo="https://lh3.googleusercontent.com/-7rDHdedeWvo/Xmr-CC8Pa2I/AAAAAAAAwyI/X8CvdyCJtdQZutdQi2clULPfWJH0c8S3QCK8BGAsYHg/s0/2020-03-12.png", Ibiza Global TV
+https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="45103" tvg-name="Contivisión Musica" tvg-logo="https://lh3.googleusercontent.com/-wWvPNIeSDSw/Wn9lX-H2FWI/AAAAAAAAgwc/SsfCyM-wBWgDBxA5lU2NNkOOKUCfw_oiQCK8BGAs/s240/2018-02-10.png", Contivisión Musica
+http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivo/contivisionmusica.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="45116" tvg-name=" Portal FoxMix" tvg-logo="https://lh3.googleusercontent.com/-k9n3tedhqBs/XbC_-FblJSI/AAAAAAAArm4/pMPtuBhhdtoL_yFWs5dt23dHFTHHCv8hgCK8BGAsYHg/s0/2019-10-23.png",  Portal FoxMix
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="80111" tvg-name="Alegria TV" tvg-logo="https://lh3.googleusercontent.com/-IDCwMaJRdnM/Xb11MVTbE-I/AAAAAAAAr4s/PbNF6ie1AIothtCRKeVvdVC6S5hO6a3xACK8BGAsYHg/s0/2019-11-02.png", Alegria TV
+https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="80098" tvg-name="Maxima FM" tvg-logo="https://lh3.googleusercontent.com/-RF13xAQ97o0/XxzMzRqfnBI/AAAAAAAA3Zc/xet9CCbU7H8WEPRQGCXEPpiBxM5RUK6EwCK8BGAsYHg/s0/2020-07-25.png", Maxima FM
+http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="47360" tvg-name="TV vconline.cl" tvg-logo="https://lh3.googleusercontent.com/-F0CYLyk3J_M/XxzNduxMoVI/AAAAAAAA3Zk/3S772u4F4jER7F0bULY-hlG7Nn9bbGa7gCK8BGAsYHg/s0/2020-07-25.png", TV vconline.cl
+https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="96280" tvg-name="TOP Latino TV" tvg-logo="https://lh3.googleusercontent.com/-2Pr5sAUtsTA/XkCTD7gYTyI/AAAAAAAAv8M/B9-Cs05PoO4uTYRUW4INkQhkH1NkuQQWACK8BGAsYHg/s0/2020-02-09.png", TOP Latino TV
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="96700" tvg-name="Telemusica" tvg-logo="https://lh3.googleusercontent.com/-i9WwagfKEd0/Xkyj43nNFOI/AAAAAAAAwIM/KdtEMa1z7fIoleKmbrXFEU3N9ASWoq5IwCK8BGAsYHg/s0/2020-02-18.png", Telemusica
+https://5f2eaf2aa4061.streamlock.net/live/smil:telemusica_web.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108073" tvg-name="Otto FM TV" tvg-logo="https://lh3.googleusercontent.com/-nFl9lK40WOY/XxJfkaBhdpI/AAAAAAAA27Q/ALnRr0geIGMMfGQZBKfjNMHw5WYCn5vMwCK8BGAsYHg/s0/2020-07-17.png", Otto FM TV
+http://217.182.192.240:8080/hls/ottofmtv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="109802" tvg-name="Canal 38" tvg-logo="https://lh3.googleusercontent.com/-JsoqJma_UaI/Xz5177aFy8I/AAAAAAAA4r8/2mN9M0HRshQfHf1Y1bH_ul9q22z36M41gCK8BGAsYHg/s0/2020-08-20.png", Canal 38
+https://rtmp.info/canal38/envivo/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="109955" tvg-name="Best Cable Music" tvg-logo="https://lh3.googleusercontent.com/-5_iLG_7dCR4/XzxsvrIsFsI/AAAAAAAA4po/GH4DSrK2H5YVOskucpzMxMZeU417wwVvQCK8BGAsYHg/s0/2020-08-18.jpg", Best Cable Music
+https://live.siete.us:1991/bestcablemusic/bestcablemusic/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="109952" tvg-name="Karibeña TV" tvg-logo="https://lh3.googleusercontent.com/-3WtV-Ee6f4g/XzxuRNf0V2I/AAAAAAAA4p4/0FT0EgwqeLEXbJe0vEdCcTO5mhzkmq5qwCK8BGAsYHg/s0/2020-08-18.jpg", Karibeña TV
+https://cu.onliv3.com/livevd/user1.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="109954" tvg-name="+Cumbia" tvg-logo="https://lh3.googleusercontent.com/-ZJanuKXyOcE/XzxsUNGtJ_I/AAAAAAAA4pc/5GU3Dq6vXiEbaMuBLpf_vt_xGy7TSysMQCK8BGAsYHg/s0/2020-08-18.png", +Cumbia
+https://live.siete.us:1991/mascumbiatvonline/mascumbiatvonline/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="109953" tvg-name="Hatun TV" tvg-logo="https://lh3.googleusercontent.com/-U_hD9IeM-Yg/Xzxsc022kjI/AAAAAAAA4pg/RUNXBNPIglE-sOapeC2XUMQAc6LE9_hOQCK8BGAsYHg/s0/2020-08-18.jpg", Hatun TV
+https://live.siete.us:1991/bestcablehatuntv/bestcablehatuntv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="109950" tvg-name="Top TV" tvg-logo="https://lh3.googleusercontent.com/-UXc734ztZfU/X0KOOvmuZAI/AAAAAAAA440/6ngQMIIe7Ukh8ugZlXJwxSnlbiiVz-bZQCK8BGAsYHg/s0/2020-08-23.png", Top TV
+https://5d23bdca513db.streamlock.net/8006/8006/playlist-480p.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="98929" tvg-name="RadioTV.pro" tvg-logo="https://lh3.googleusercontent.com/-wwOQH4WvSZI/X5jEE-BBCmI/AAAAAAAA6y4/RgkfOZHscEIH9ceLQR6UPtuXQQUw0FXCACK8BGAsYHg/s0/2020-10-27.png", RadioTV.pro
+https://paneltv.online:1936/radiotv/radiotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="97299" tvg-name="On Radio Chile" tvg-logo="https://lh3.googleusercontent.com/-tWify_nqCRw/XlwOcKK-yiI/AAAAAAAAwg0/mYcxi6LPzmYoZVTyTAOF0VFqInihTPbhgCK8BGAsYHg/s0/2020-03-01.png", On Radio Chile
+https://tls.cdnz.cl/onradio3/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="115254" tvg-name="Radio Energia" tvg-logo="https://lh3.googleusercontent.com/-7KylRnvzxl0/X6WDn70-1OI/AAAAAAAA7Dc/--2pObd5cRUei452U1CCKqvu3W0KvnyuQCK8BGAsYHg/s0/2020-11-06.png", Radio Energia
+https://mediacp.mistreamingtv.uno:19360/8004/8004.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="94803" tvg-name=" Zona Play Radio" tvg-logo="https://lh3.googleusercontent.com/-nYwjW5gyOHs/Xm_wyxoQZ8I/AAAAAAAAw-M/UivKYmyy1tMPqn_zDoQtMGFrmivibOCLgCK8BGAsYHg/s0/2020-03-16.jpg",  Zona Play Radio
+https://srv1.zcast.com.br/zonaplay/zonaplay/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="96787" tvg-name="Radio Riquelme TV" tvg-logo="https://lh3.googleusercontent.com/-9SfGuraAHuU/Xk_J7YNqMXI/AAAAAAAAwVQ/5i7IeTaC6zcSf66KUD7dVyM1SkNdXtNnACK8BGAsYHg/s0/2020-02-21.png", Radio Riquelme TV
+https://cdn3.streamchileno.cl:5443/LiveApp/streams/773520675003392550416459.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="113084" tvg-name="Interactiva FM" tvg-logo="https://lh3.googleusercontent.com/-QI0Y25E7D14/X4YuErUkgLI/AAAAAAAA6Yo/WZwniEwC_RwZWkwXPGKRXxRueEu4ekjUQCK8BGAsYHg/s0/2020-10-13.jpg", Interactiva FM
+https://live.tvcontrolcp.com:1936/interactiva/interactiva/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="97674" tvg-name="Radio X" tvg-logo="https://lh3.googleusercontent.com/-Og_BzHRC87Y/XmV97grMBPI/AAAAAAAAwro/iNVPM5Y_uYEjJ54KO0xIZCliowskz57SACK8BGAsYHg/s0/2020-03-08.png", Radio X
+https://v2.tustreaming.cl/radiox/live1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="100523" tvg-name="Radio Zeta" tvg-logo="https://lh3.googleusercontent.com/-Zkxwnf-bgX4/XoPOd4kOr7I/AAAAAAAAxX0/EWBlznUnmekBRjTn7B8n3ocfGe8bkITsQCK8BGAsYHg/s0/2020-03-31.png", Radio Zeta
+https://unlimited6-cl.dps.live/radioztv/radioztv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="107554" tvg-name="Radio Extasis" tvg-logo="https://lh3.googleusercontent.com/-iF7CoOLdHT8/XwI4BfZE2SI/AAAAAAAA2iQ/rhW95d7DrjMBvNpeuf4FdIlyZ-vNIh4tgCK8BGAsYHg/s0/2020-07-05.png", Radio Extasis
+https://593b04c4c5670.streamlock.net:443/8158/8158/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="98873" tvg-name="Radio Actitud" tvg-logo="https://lh3.googleusercontent.com/-KZ5hF_e71jY/Xm70Txo7USI/AAAAAAAAw8I/Y6DKIiTDd7YJUOLYn2hO9gjvroZD4T5MACK8BGAsYHg/s0/2020-03-15.png", Radio Actitud
+https://593b04c4c5670.streamlock.net/8020/8020/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="98219" tvg-name="Radio Más" tvg-logo="https://lh3.googleusercontent.com/-1MimLN5b_Os/XmsDzj71aqI/AAAAAAAAwys/1bqv2qCTmUkN9qA1qaIZfWLihfGZ6jdOgCK8BGAsYHg/s512/2020-03-12.png", Radio Más
+http://unlimited1-cl.dps.live/radiomas/radiomas.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="101231" tvg-name="ChocolateFM" tvg-logo="https://lh3.googleusercontent.com/-Cv39r3czF0w/XovwZlRIgyI/AAAAAAAAxhI/u9IUH1nGlX4XEJA-Pqc2wGXfJJrbjejgwCK8BGAsYHg/s0/2020-04-06.png", ChocolateFM
+https://paneltv.online:1936/8022/8022/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="98218" tvg-name="CCP Radio" tvg-logo="https://lh3.googleusercontent.com/-t_TztnOyFVE/XmsBBeYivqI/AAAAAAAAwyY/AiGUMO20vMcW9z6ipuNOk_WkgY_za1KrgCK8BGAsYHg/s512/2020-03-12.png", CCP Radio
+http://hd.chileservidores.cl:8080/ccpradio/ccpradio/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="98186" tvg-name="Radio Touch" tvg-logo="https://lh3.googleusercontent.com/-qotpEBjN3o0/Xmr5PYL7uPI/AAAAAAAAwx8/FwJJfi_LQjUoISTRZ0JhU4es2qWXDJeCACK8BGAsYHg/s0/2020-03-12.png", Radio Touch
+https://593b04c4c5670.streamlock.net:443/8042/8042/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="98872" tvg-name="Mi Radio TV" tvg-logo="https://lh3.googleusercontent.com/-7XLo-eid_jI/Xm9iFNKwCYI/AAAAAAAAw8Y/TWJlVG10Ofc-nX2cNdUPKn7quq7hKWKBACK8BGAsYHg/s0/2020-03-16.png", Mi Radio TV
+https://v2.tustreaming.cl/miradiotv/live1/tracks-v1a1/mono.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="100528" tvg-name="FM Pulso" tvg-logo="https://lh3.googleusercontent.com/-PnlftgFahF0/XoThpbgVNeI/AAAAAAAAxZw/YFbXaFZUUikkGSKbQjxlOyxVMmJQBQMFACK8BGAsYHg/s0/2020-04-01.png", FM Pulso
+https://panel.tvstream.cl:1936/8004/8004/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="97672" tvg-name="Radio Fantasia TV" tvg-logo="https://lh3.googleusercontent.com/-7Uf_S_1oEU8/XmV_Zz3S5cI/AAAAAAAAwsA/yYku6NdZFTk7c0a9AtwAOJBoh3a2UMnqQCK8BGAsYHg/s0/2020-03-08.png", Radio Fantasia TV
+https://srv.panelcast.net/radiofantasiatv/radiofantasiatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="102073" tvg-name="El Sembrador" tvg-logo="https://lh3.googleusercontent.com/-ZXxa89JuEy4/XqSv0ZHfhRI/AAAAAAAAyMI/Vm77URwVLucvQErUaM6LFb_GlH-1_hdUwCK8BGAsYHg/s0/2020-04-25.png", El Sembrador
+https://5d1ca66d2d698.streamlock.net:1936/8064/8064/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108298" tvg-name="Radio Corporacion" tvg-logo="https://lh3.googleusercontent.com/-1DD2_7O4EHg/XxY_co4iSZI/AAAAAAAA3IE/gq53olI6DCg8bM1I5sSHyUjhUNyLFm6egCK8BGAsYHg/s0/2020-07-20.png", Radio Corporacion
+https://v2.tustreaming.cl/corporacion/s1-500k/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="102656" tvg-name="Red Fueguina Radio" tvg-logo="https://lh3.googleusercontent.com/-AX14DpZylvw/Xqx1dYnBM7I/AAAAAAAAyhM/FKTxf_9d9hEY1okFtMwivpO3IIy9KAAcgCK8BGAsYHg/s0/2020-05-01.png", Red Fueguina Radio
+https://inliveserver.com:1936/11012/11012/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="100529" tvg-name="Radio Ritmo FM" tvg-logo="https://lh3.googleusercontent.com/-RB_Xl94irI4/XoTjte43NRI/AAAAAAAAxZ8/NMAAhYaLWj4rVQ8gDoHlEvGkpOD_3jt3gCK8BGAsYHg/s0/2020-04-01.png", Radio Ritmo FM
+https://5d1ca66d2d698.streamlock.net:1936/8032/8032/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="100527" tvg-name="Radio Universal" tvg-logo="https://lh3.googleusercontent.com/-0g6kTjRKq_8/XoTI5Gn3jjI/AAAAAAAAxZk/9EsSrTOl0eMlKWP9oRzwZK8lQ9mt8PSBwCK8BGAsYHg/s0/2020-04-01.png", Radio Universal
+https://hd.chileservidores.cl:1936/universal/universal/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="100524" tvg-name="Radio Fiessta" tvg-logo="https://lh3.googleusercontent.com/-geXQ8sv9psc/XoPRmsgB8zI/AAAAAAAAxYA/XW6P5dLJn1wAaa3IZFhc5NBjBIr-OAbqgCK8BGAsYHg/s0/2020-03-31.png", Radio Fiessta
+https://unlimited10-cl.dps.live/fiesstatv/fiesstatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="100525" tvg-name="Orocoipo" tvg-logo="https://lh3.googleusercontent.com/-Oj60X_Fdylk/XoPge96i7aI/AAAAAAAAxYQ/zkPc_7Zajj04xQelUuWrShb7K68FDuVBgCK8BGAsYHg/s0/2020-03-31.png", Orocoipo
+https://593b04c4c5670.streamlock.net:443/8076/8076/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="100526" tvg-name="Radio Sabor Tropical" tvg-logo="https://lh3.googleusercontent.com/-DVca8ADNsmg/XoPjmXbXCFI/AAAAAAAAxYc/UON93k0nR-o7HzAiVzx7GJWO43TcOcVtQCK8BGAsYHg/s0/2020-03-31.png", Radio Sabor Tropical
+https://streamyes.alsolnet.com/radiosaborcl/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="91378" tvg-name="Radio Polar" tvg-logo="https://lh3.googleusercontent.com/-0lo4K9VQKZ0/XxzOfNfjHHI/AAAAAAAA3Z0/KQnvNnTVmNs4HuyOuUeM3pGipNsbS7LhwCK8BGAsYHg/s0/2020-07-25.png", Radio Polar
+http://video.mediostream.cl/radiopolar/live1/rewind-999999.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="95360" tvg-name="Beat TV" tvg-logo="https://lh3.googleusercontent.com/-fMV8GEtxrKU/XjHFU3j0UwI/AAAAAAAAvfQ/XSHqM9gV-JE3ooLT5xm4dBFrwKJ9EhZWwCK8BGAsYHg/s0/2020-01-29.png", Beat TV
+https://inliveserver.com:1936/10520/10520/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="98866" tvg-name="Radio Cosmos" tvg-logo="https://lh3.googleusercontent.com/-ic1t3OSwr1s/Xm4uK5OtvEI/AAAAAAAAw7M/thvv3_Tq2scaN8rICOFNwjRXmh0R-PDLACK8BGAsYHg/s0/2020-03-15.png", Radio Cosmos
+http://v2.tustreaming.cl:80/cosmostv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="79801" tvg-name="AncoaTV" tvg-logo="https://lh3.googleusercontent.com/-UNQrfvg82Bc/XxzO1jKt13I/AAAAAAAA3Z8/hDebLt6JXZE3_q9RbQQxeMxbdglHUi75ACK8BGAsYHg/s0/2020-07-25.png", AncoaTV
+http://v2.tustreaming.cl:80/radioancoa/live1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="97670" tvg-name="Radio Hoy" tvg-logo="https://lh3.googleusercontent.com/-vFBzx3OHjvA/XmPSjVW5sMI/AAAAAAAAwp8/W0kgWc-NYfUkFdX3SZICQX3njfoFJP72QCK8BGAsYHg/s0/2020-03-07.png", Radio Hoy
+https://593b04c4c5670.streamlock.net:443/8104/8104/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="97667" tvg-name="Preludio TV" tvg-logo="https://lh3.googleusercontent.com/-dwHIA3qDBnE/XmPQVNGWG8I/AAAAAAAAwpk/lEVnfzQ8b1s7gjkedNxdk8G-foIlYgOAACK8BGAsYHg/s0/2020-03-07.png", Preludio TV
+https://5d1ca66d2d698.streamlock.net:1936/8068/8068/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="97668" tvg-name="Radio Las Nieves" tvg-logo="https://lh3.googleusercontent.com/-yAzYXd230b8/XmPQwQY849I/AAAAAAAAwps/fu7GMDaULwEgJYarzmR1Vo5w_BRoPg2eACK8BGAsYHg/s0/2020-03-07.png", Radio Las Nieves
+https://v2.tustreaming.cl/rln/live1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="97671" tvg-name="Radio Chiloe" tvg-logo="https://lh3.googleusercontent.com/-exchdEZ4lAg/XmWArTXQnFI/AAAAAAAAwsI/fo3sD3494lY54nz8wHjEykbwf0tVz0MkQCK8BGAsYHg/s0/2020-03-08.png", Radio Chiloe
+https://5e9199339b303.streamlock.net:8100/reseller/chiloe1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="95361" tvg-name="Radio Camila TV" tvg-logo="https://lh3.googleusercontent.com/-82UBf4qHY0Q/XjHJ9TJue-I/AAAAAAAAvfc/Y474O6NtMJYl1gpuUJ1sJyFh8i9afnYlACK8BGAsYHg/s0/2020-01-29.png", Radio Camila TV
+https://593b04c4c5670.streamlock.net/8142/8142/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="96698" tvg-name="InterRadio TV" tvg-logo="https://lh3.googleusercontent.com/-saCz_yr38Uk/Xkyi5LSia7I/AAAAAAAAwH8/Bogw9jFmg_g3r85_Bo7gvOLhUFuFtgUcACK8BGAsYHg/s0/2020-02-18.png", InterRadio TV
+https://v2.tustreaming.cl/interradiotv/tracks-v1a1/mono.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="96696" tvg-name="Radio Genial TV" tvg-logo="https://lh3.googleusercontent.com/-tgkESVUJWRI/XkyfsBVW_mI/AAAAAAAAwHw/xsYoralOutAlHw-iMJC9nl1hdd6vKqznQCK8BGAsYHg/s0/2020-02-18.png", Radio Genial TV
+https://v2.tustreaming.cl/genialtv/live1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="97673" tvg-name="Radio Presidente Ibañez" tvg-logo="https://lh3.googleusercontent.com/-t2rtTbIA3oc/XmV-7wrFWHI/AAAAAAAAwr0/VH4k91ijqr4MbkR-DlS4n7o0HvCnjQfZACK8BGAsYHg/s0/2020-03-08.png", Radio Presidente Ibañez
+https://ibanez.servercl.com/hls/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="91376" tvg-name="AE Radio" tvg-logo="https://lh3.googleusercontent.com/-twclRtQ5RBI/XxzPdbUvuBI/AAAAAAAA3aI/XllkTl9M6Ewjcohf1ijtWXaF6drDnIZYACK8BGAsYHg/s0/2020-07-25.png", AE Radio
+https://tls.cdnz.cl/aeradio/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="92611" tvg-name="Pura Noticia" tvg-logo="https://lh3.googleusercontent.com/-byzaiVj7LaA/XdyKPYtxdwI/AAAAAAAAsWo/80eR-amTNBsnAUPBFCPgHuL_hychB-b3wCK8BGAsYHg/s0/2019-11-25.png", Pura Noticia
+https://mediaserver5.janus.cl/puranoticia/en-vivo/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="96703" tvg-name="Interamericana TV" tvg-logo="https://lh3.googleusercontent.com/-4vm2B0L4t9Q/XkyoUZMcGbI/AAAAAAAAwIw/oRDnVQptJaEH_gQ9Cez9MWp6ArEbkivJQCK8BGAsYHg/s0/2020-02-18.png", Interamericana TV
+http://unlimited6-cl.dps.live/interamericanatv/interamericanatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="95388" tvg-name="Radio Favorita" tvg-logo="https://lh3.googleusercontent.com/-q3XnvDfKVpc/Xkba4X57uaI/AAAAAAAAwDI/8sCjKKC3QJ4WoPLBcOxgFmG0dic0ffPuQCK8BGAsYHg/s0/2020-02-14.png", Radio Favorita
+https://streamyes.alsolnet.com/radiofavoritatv/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="95391" tvg-name="Radio Rancagua" tvg-logo="https://lh3.googleusercontent.com/-Z5RpepVd4T0/XkbaXURXxAI/AAAAAAAAwC4/SEU5uIM2uzUQQznq-Pgvi-uCe_fStzypwCK8BGAsYHg/s0/2020-02-14.png", Radio Rancagua
+https://5d1ca66d2d698.streamlock.net:1936/8056/8056/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="96706" tvg-name="El Conquistador TV" tvg-logo="https://lh3.googleusercontent.com/-sbaPyioWXEc/XxzPyjqm-UI/AAAAAAAA3aQ/uxQH1SZBD4k0o1g7MQPhYsBf6Mo4cjkOQCK8BGAsYHg/s0/2020-07-25.png", El Conquistador TV
+http://v3.tustreaming.cl/conquistadorcc/live1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="96320" tvg-name="Radio Portales" tvg-logo="https://lh3.googleusercontent.com/-eIr2RmGVfeg/XkbYVLkwo3I/AAAAAAAAwCs/F1Q11XV_JvgjR-wvfgNhKrGUmE7OldbqACK8BGAsYHg/s0/2020-02-14.png", Radio Portales
+https://stream2.polarhost.cl/show/portales2.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="96788" tvg-name="Radio Via Libre" tvg-logo="https://lh3.googleusercontent.com/-BZ4QVXPlxJU/Xk_PdNVd3KI/AAAAAAAAwVc/js3gvjxbBPoXr0EmRyQxl6MWeiYX6x7_gCK8BGAsYHg/s0/2020-02-21.png", Radio Via Libre
+https://panel.livetvvideo.net:1936/8006/8006/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="74165" tvg-name="Bio Bio TV" tvg-logo="https://lh3.googleusercontent.com/-QHD8_RoRqOU/XxzQUiC2S5I/AAAAAAAA3aY/YM3LJbqZLxot1bbgqWLRVD-QnoFWYaxCgCK8BGAsYHg/s0/2020-07-25.png", Bio Bio TV
+https://unlimited1-cl.dps.live/bbtv/bbtv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="91382" tvg-name=" Radio Cooperativa" tvg-logo="https://lh3.googleusercontent.com/-z-9QvjvHZ5A/Xdsg1tqv4jI/AAAAAAAAsUw/f9g3MnniEdAxcMWqEsWK6vuikDlDz25iACK8BGAsYHg/s0/2019-11-24.png",  Radio Cooperativa
+https://unlimited1-cl.dps.live/coopetv/coopetv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="91381" tvg-name="Radio Agricultura" tvg-logo="https://lh3.googleusercontent.com/-nMa_IsPVRQ0/Xdsii8vjPBI/AAAAAAAAsVI/py8vvCsRNGIuvDA62hxD62S6L29wmGOzACK8BGAsYHg/s0/2019-11-24.png", Radio Agricultura
+https://unlimited6-cl.dps.live/921tv/921tv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="45134" tvg-name="  ADN " tvg-logo="https://lh3.googleusercontent.com/-H20emk-_gGE/Xb2CvlkCsVI/AAAAAAAAr6c/MvhdPSgNp4I1Q9QAGlqEvJp4QRnyorpkgCK8BGAsYHg/s0/2019-11-02.png",   ADN 
+https://unlimited6-cl.dps.live/adntv/adntv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="83832" tvg-name="Pauta" tvg-logo="https://lh3.googleusercontent.com/-DB74taQncQw/XbSnai__c5I/AAAAAAAArt0/jqsOckrCWRMdlGZoE1ecSjJrHivTgt_fQCK8BGAsYHg/s0/2019-10-26.png", Pauta
+https://video-ply.pauta.cl/playlist/stream.m3u8?s=pauta-hd&PlaylistM3UCL
+#EXTINF:-1 tvg-id="91380" tvg-name="Radio Infinita" tvg-logo="https://lh3.googleusercontent.com/-TqRUvUttrA4/XdsjGIZU7gI/AAAAAAAAsVQ/iY1WIvJVyacBpEPk9xeM--USHFbyTkAQQCK8BGAsYHg/s0/2019-11-24.png", Radio Infinita
+http://unlimited2-cl.dps.live/infinitatv/infinitatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="45135" tvg-name=" Futuro TV" tvg-logo="https://lh3.googleusercontent.com/-Yg6X4T5JVDU/WoBORinr3kI/AAAAAAAAgyU/PoCyGXScfC0DPGIMp1SjuLFrvs3gPamwwCK8BGAs/s132/2018-02-11.png",  Futuro TV
+https://unlimited10-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="91379" tvg-name="Radio Romantica" tvg-logo="https://lh3.googleusercontent.com/-Bwhtvo1VyjY/XdsjcQcebDI/AAAAAAAAsVY/5bpcI_QjF2A3tgfcEaR_Y5sm9wzqul4zACK8BGAsYHg/s0/2019-11-24.png", Radio Romantica
+https://unlimited6-cl.dps.live/romanticatv/romanticatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="91383" tvg-name="Radio Candela" tvg-logo="https://lh3.googleusercontent.com/-IhfEcAvAbhQ/XlMvsYZuY2I/AAAAAAAAwbM/22HavWefBiokppiuKkTs6PWuiXO-haPQQCK8BGAsYHg/s0/2020-02-23.png", Radio Candela
+https://unlimited6-cl.dps.live/candelatv/candelatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="95387" tvg-name="Pudahuel FM" tvg-logo="https://lh3.googleusercontent.com/-j_3t6HSVxa8/XkbbBzVir0I/AAAAAAAAwDM/kVHViPIlEDs5ntK8W5yfVgaym95puVsLACK8BGAsYHg/s0/2020-02-14.png", Pudahuel FM
+https://unlimited10-cl.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="91373" tvg-name=" Radio Duna" tvg-logo="https://lh3.googleusercontent.com/-yl6dZt6XKzE/XdshRlQ88eI/AAAAAAAAsU4/KxB9KZBrShQzBIEQyGmDZ9a-vvI41GiQwCK8BGAsYHg/s0/2019-11-24.png",  Radio Duna
+https://unlimited6-cl.dps.live/dunatv/dunatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="91372" tvg-name=" Radio Tiempo" tvg-logo="https://lh3.googleusercontent.com/-pG_O1wKWuUY/XlPedSivgtI/AAAAAAAAwbg/f7tHw2tx4kMuTwzpTSoJQeiprrvTMshuQCK8BGAsYHg/s0/2020-02-24.png",  Radio Tiempo
+https://unlimited10-cl.dps.live/fmtiempotv/fmtiempotv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="101950" tvg-name="TNE" tvg-logo="https://lh3.googleusercontent.com/-Wp2h-nSnQFU/Xp0HQkep0SI/AAAAAAAAyCI/g-2qDDOa1q8eS9wuNH0yNoeA9LwqIKrhACK8BGAsYHg/s0/2020-04-19.png", TNE
+https://v2.tustreaming.cl/tnetv/live1/tracks-v1a1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="113872" tvg-name="Presencia Televisión" tvg-logo="https://lh3.googleusercontent.com/-7jsWnWabgL0/X5LJGwrSD0I/AAAAAAAA6qc/KggtBZyA5vwfmgYV-LRzWWMl187f4CfXgCK8BGAsYHg/s0/2020-10-23.png", Presencia Televisión
+https://sm.redconnections.net:1936/presenciatv/presenciatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="110977" tvg-name="Canal Dios Te Ve" tvg-logo="https://lh3.googleusercontent.com/-6tQjdX3egVE/X1BUs8EdjII/AAAAAAAA5MI/MQ4mGLIIwF4MiheZiu3zQxUPWnQ1NdnlwCK8BGAsYHg/s0/2020-09-02.jpg", Canal Dios Te Ve
+https://emisoras.hn:8081/diostevetv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="110978" tvg-name="Dios Te Ve Kids" tvg-logo="https://lh3.googleusercontent.com/-5ca98mWuI48/X1BU1VE-fFI/AAAAAAAA5MM/DPmAa2uFmTIH4MOJAVpjUCCClixnPOP7QCK8BGAsYHg/s0/2020-09-02.png", Dios Te Ve Kids
+https://emisoras.hn:8081/diostevekids/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="102986" tvg-name="Radio Vida Curico" tvg-logo="https://lh3.googleusercontent.com/-v6jZD0GU8TM/XxzQ8u0e0UI/AAAAAAAA3ak/-kl8Lg40HcUg2vBJhE5KbXV58HAsM9xkACK8BGAsYHg/s0/2020-07-25.png", Radio Vida Curico
+http://v2.tustreaming.cl/radiovidacurico/live1/rewind-999999.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="45150" tvg-name="  Gracia TV " tvg-logo="https://lh3.googleusercontent.com/-SWtsCllpbio/Xpz5oNEdmDI/AAAAAAAAyBc/fsfhz_a0y9I-6v8vfM0zUc_9C_xG3DgagCK8BGAsYHg/s0/2020-04-19.png",   Gracia TV 
+http://v3.tustreaming.cl:80/graciatv/live1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="101932" tvg-name="Canal ISB" tvg-logo="https://lh3.googleusercontent.com/-BAGm0_jccnk/Xpz6lms-rHI/AAAAAAAAyBk/Mbk9tiXSZPMBkW90NGR8LEG7OR1mmb2sQCK8BGAsYHg/s0/2020-04-19.png", Canal ISB
+http://unlimited10-cl.dps.live/isb/isb.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="101935" tvg-name="Nuevo Tiempo" tvg-logo="https://lh3.googleusercontent.com/-gREYOoyEcVE/Xpz9QKwVe1I/AAAAAAAAyBw/Xn3vQu7pPhA62v6q1YqeqkMtx_mHCYqWACK8BGAsYHg/s0/2020-04-19.png", Nuevo Tiempo
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="101951" tvg-name="NCTV" tvg-logo="https://lh3.googleusercontent.com/-8FziFTjIuAc/Xp0H3lcJYsI/AAAAAAAAyCQ/FGN80U47Fiw0GwPBBcVtMfT5Ky0wKftqgCK8BGAsYHg/s0/2020-04-19.png", NCTV
+http://unlimited10-cl.dps.live/nctv/nctv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="45155" tvg-name="  Televida HD " tvg-logo="https://lh3.googleusercontent.com/-1vka6r8W0mM/Wn9nbBlPjSI/AAAAAAAAgw8/FjO6TeBOhrY12r-DnLOawEFZpf89I5vEQCK8BGAs/s512/2018-02-10.png",   Televida HD 
+https://tls.cdnz.cl/televida/ngrp:live_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="83651" tvg-name="Canal 33" tvg-logo="https://lh3.googleusercontent.com/-SM266zq0954/XbJE8J3rspI/AAAAAAAArrY/ul2hiTKcHyUNayzFG1NbGTN11yRpb4oEACK8BGAsYHg/s0/2019-10-24.png", Canal 33
+https://590c5dc5c3271.streamlock.net/eduardo555/eduardo555/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="102477" tvg-name="Extrema TV" tvg-logo="https://lh3.googleusercontent.com/-YvhgR9bWwEk/XqeKc33JN4I/AAAAAAAAySs/RsIopL6SbT42YZrOwRYaWYx0EztbDMSkQCK8BGAsYHg/s0/2020-04-27.png", Extrema TV
+https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="101948" tvg-name="RC Radio" tvg-logo="https://lh3.googleusercontent.com/-W15RF9EVvig/Xp0DX11iM6I/AAAAAAAAyB8/3ToZ8-S00wcyYROTtslO_oh_VWwm99iCACK8BGAsYHg/s0/2020-04-19.png", RC Radio
+https://5c21f7ec1999d.streamlock.net:443/8096/8096/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="115845" tvg-name="Unidad Evangélica TV" tvg-logo="https://lh3.googleusercontent.com/-0tqSzwPEvSc/X7PH803XliI/AAAAAAAA7aQ/4JNA77aFp8gLDSf-RMXP1Ej7gSyKjrKrACK8BGAsYHg/s0/2020-11-17.png", Unidad Evangélica TV
+https://v2.tustreaming.cl/unidadevangelica/live1/index.m3u8?PlaylistM3UCL
 
