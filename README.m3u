@@ -2,7 +2,52 @@
 tvgratis
 #EXTM3U
 *** DEPORTES ***
-
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",BARCA TV HD
+http://195.181.162.102:7283/barca-tv-hd/index.m3u8?un=edgarcastillo&tm=1607919849&sn=fa2f84651f86cc60ca38a9a872c306ba16a4b9d9
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",DAZN  1 HD (Eventos)
+http://195.181.162.102:7283/DAZN1/index.m3u8?un=edgarcastillo&tm=1607919849&sn=4dc89a4bc753ad916f418e383ddf1ffb9357db14
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",DAZN  2 HD (Eventos)
+http://195.181.162.102:7283/DAZN2/index.m3u8?un=edgarcastillo&tm=1607919849&sn=d7ec980af014d6e9d8f0f43aea0f1b461883ff4b
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",DAZN  3 HD (Eventos)
+http://195.181.162.102:7283/DAZN3/index.m3u8?un=edgarcastillo&tm=1607919849&sn=9e3345e0f7901072b20eaf1f218c659245d9d289
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",DAZN  4 HD (Eventos)
+http://195.181.162.102:7283/DAZN4/index.m3u8?un=edgarcastillo&tm=1607919849&sn=9afd581bf1b0a929b18d02fe103974ac52a46d32
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",Evento Deportivo  #1
+http://195.181.162.102:7283/Evento-Deportivo1/index.m3u8?un=edgarcastillo&tm=1607919849&sn=4d7d8fec13a099f07e3fa8f9067c89136f6b5854
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",Evento Deportivo  #2
+http://195.181.162.102:7283/Evento-Deportivo2/index.m3u8?un=edgarcastillo&tm=1607919849&sn=2181be32c71ada5f9a7eff681e996b648b5809a6
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",Evento Deportivo  #3
+http://195.181.162.102:7283/Evento-Deportivo3/index.m3u8?un=edgarcastillo&tm=1607919849&sn=477a0e609671a0e9ffaca32a432ca7181dda06d7
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",Evento Deportivo  #4
+http://195.181.162.102:7283/Evento-Deportivo4/index.m3u8?un=edgarcastillo&tm=1607919849&sn=2431ecb6d42c4e0648faf1aa71e9079caba896ab
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",Evento Deportivo #5
+http://195.181.162.102:7283/Evento-Deportivo5/index.m3u8?un=edgarcastillo&tm=1607919849&sn=765c6ba0caaff7b4b08b90572dbb1f642c052c26
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",Evento Deportivo #6
+http://195.181.162.102:7283/Evento-Deportivo6/index.m3u8?un=edgarcastillo&tm=1607919849&sn=8d2444a7ddf8a61df155f749c268f11993285c10
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",Evento Deportivo #7
+http://195.181.162.102:7283/Evento-Deportivo7/index.m3u8?un=edgarcastillo&tm=1607919849&sn=8cbc352c14ffd33987b1b9799a92368736a18c75
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",Evento Deportivo #8
+http://195.181.162.102:7283/Evento-Deportivo8/index.m3u8?un=edgarcastillo&tm=1607919849&sn=d6b7a3db6f1a20cd0a2edbac4779d79a08947089
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",Evento EC PPV
+http://195.181.162.102:7283/EL-CANAL-DEL-FUTBOL-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=1e3cc63646cc20c75b57ae8271a95214b94e4da8
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",Evento EC PPV 2
+http://195.181.162.102:7283/EL-CANAL-DEL-FUTBOL-2-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=ca8e00f1551dd498aa5c7d48dcc6b22f45b94ffd
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",Evento PPV 1 Liga Espanola Futbol
+http://195.181.162.102:7283/Evento-PPV-1-Liga-Espanola-Futbol/index.m3u8?un=edgarcastillo&tm=1607919849&sn=d77ef32600061ff487e3905f91339539126155f8
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",FOX DEPORTES US HD
+http://195.181.162.102:7283/fox-deportes-us-hd/index.m3u8?un=edgarcastillo&tm=1607919849&sn=53e07efb34e549b00353bf509de8f5a50ff27578
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",PREMIERE 1 HD BR
+http://195.181.162.102:7283/PREMIERE-1-HD-BR/index.m3u8?un=edgarcastillo&tm=1607919849&sn=b505b972dc3fc2e820f8b2479e1cb7ab04b98dcf
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",PREMIERE 2 HD BR
+http://195.181.162.102:7283/PREMIERE-2-HD-BR/index.m3u8?un=edgarcastillo&tm=1607919849&sn=d5efe661a81e8ab87a93b9a8068c357a372c525d
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",PREMIERE 3 HD BR
+http://195.181.162.102:7283/PREMIERE-3-HD-BR/index.m3u8?un=edgarcastillo&tm=1607919849&sn=d71861003aadef99b4200e266a8c4e8379911ad0
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",SPORTV 1 HD BR
+http://195.181.162.102:7283/SPORTV-1-HD-BR/index.m3u8?un=edgarcastillo&tm=1607919849&sn=678de22fcbe10ac738dc9519f7f17770784addd8
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",SPORTV 2 HD BR
+http://195.181.162.102:7283/SPORTV-2-HD-BR/index.m3u8?un=edgarcastillo&tm=1607919849&sn=ca7e499640a2cdf3e73818600bcb09f00ee1a083
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",SPORTV 3 HD BR
+http://195.181.162.102:7283/SPORTV-3-HD-BR/index.m3u8?un=edgarcastillo&tm=1607919849&sn=67b3333ed98f639c2fe349856934bdf889a99360
 #EXTINF:0,AYM SPORTS
 #EXTGRP:unsorted
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=180&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
