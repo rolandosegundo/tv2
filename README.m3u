@@ -1,7 +1,183 @@
 
 #EXTM3U
- 
+  
 #EXTINF:0, *** DEPORTES MOMENTANIOS*** 
+#EXTINF:-1 tvg-logo="http://cdn.cablefax.com/wp-content/uploads/2014/05/Bein-Sports-SPA-logo-color-hires-1.jpg" group-title="• LATINO DEPORTES •", LD - BEIN SPORTS Ñ HD
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3747
+
+#EXTINF:-1 tvg-logo="http://cdn.cablefax.com/wp-content/uploads/2014/05/Bein-Sports-SPA-logo-color-hires-1.jpg" group-title="• LATINO DEPORTES •", LD - BEIN SPORTS SD
+http://tv.nstvlatino.com:8080/jairo1/jairo123/43187
+
+#EXTINF:-1 tvg-logo="https://www.reporterosasociados.com.co/wp/wp-content/uploads/2019/01/DIRECTV-Sports.png" group-title="• LATINO DEPORTES •", LD - DIRECTV SPORTS HD
+http://tv.nstvlatino.com:8080/jairo1/jairo123/7863
+
+#EXTINF:-1 tvg-logo="https://www.reporterosasociados.com.co/wp/wp-content/uploads/2019/01/DIRECTV-Sports.png" group-title="• LATINO DEPORTES •", LD - DIRECTV SPORTS
+http://tv.nstvlatino.com:8080/jairo1/jairo123/33512
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/1200px-DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="• LATINO DEPORTES •", LD - DIRECTV SPORTS 2 HD
+http://tv.nstvlatino.com:8080/jairo1/jairo123/32882
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/1200px-DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="• LATINO DEPORTES •", LD - DIRECTV SPORTS 2
+http://tv.nstvlatino.com:8080/jairo1/jairo123/32881
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/1200px-DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="• LATINO DEPORTES •", LD - DIRECTV SPORTS PLUS HD
+http://tv.nstvlatino.com:8080/jairo1/jairo123/27879
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/1200px-DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="• LATINO DEPORTES •", LD - DIRECTV SPORTS PLUS
+http://tv.nstvlatino.com:8080/jairo1/jairo123/8520
+
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/LOGO-DEPORTES-1040x585-480x480.jpg" group-title="• LATINO DEPORTES •", LD - FOX DEPORTES USA HD
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3753
+
+#EXTINF:-1 tvg-logo="https://ya-webdesign.com/images/fox-sports-1-logo-png-1.png" group-title="• LATINO DEPORTES •", LD - FOX SPORTS 1 SUR HD
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3612
+
+#EXTINF:-1 tvg-logo="https://ya-webdesign.com/images/fox-sports-1-logo-png-1.png" group-title="• LATINO DEPORTES •", LD - FOX SPORTS 1 SUR
+http://tv.nstvlatino.com:8080/jairo1/jairo123/18580
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/5/5c/Fox_Sports_2_HD_logo.png" group-title="• LATINO DEPORTES •", LD - FOX SPORTS 2 SUR HD
+http://tv.nstvlatino.com:8080/jairo1/jairo123/16139
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/5/5c/Fox_Sports_2_HD_logo.png" group-title="• LATINO DEPORTES •", LD - FOX SPORTS 2 SUR SD
+http://tv.nstvlatino.com:8080/jairo1/jairo123/42456
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c1/Fox_Sports_3_HD-0.png" group-title="• LATINO DEPORTES •", LD - FOX SPORTS 3 SUR HD
+http://tv.nstvlatino.com:8080/jairo1/jairo123/33475
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c1/Fox_Sports_3_HD-0.png" group-title="• LATINO DEPORTES •", LD - FOX SPORTS 3 SUR SD
+http://tv.nstvlatino.com:8080/jairo1/jairo123/43640
+
+#EXTINF:-1 tvg-logo="https://ya-webdesign.com/images/fox-sports-1-logo-png-1.png" group-title="• LATINO DEPORTES •", LD - FOX SPORTS MX
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3267
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/5/5c/Fox_Sports_2_HD_logo.png" group-title="• LATINO DEPORTES •", LD - FOX SPORTS 2 MX
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3268
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c1/Fox_Sports_3_HD-0.png" group-title="• LATINO DEPORTES •", LD - FOX SPORTS 3 MX
+http://tv.nstvlatino.com:8080/jairo1/jairo123/4008
+
+#EXTINF:-1 tvg-logo="http://e.espncdn.com/2003/photos2017/0331/ESPN-logo_220.jpg" group-title="• LATINO DEPORTES •", LD - ESPN 1 SUR HD
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3614
+
+#EXTINF:-1 tvg-logo="http://e.espncdn.com/2003/photos2017/0331/ESPN-logo_220.jpg" group-title="• LATINO DEPORTES •", LD - ESPN 1 SUR SD
+http://tv.nstvlatino.com:8080/jairo1/jairo123/33469
+
+#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn2.png" group-title="• LATINO DEPORTES •", LD - ESPN 2 SUR HD
+http://tv.nstvlatino.com:8080/jairo1/jairo123/43637
+
+#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn2.png" group-title="• LATINO DEPORTES •", LD - ESPN 2 SUR SD
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3616
+
+#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn3.png" group-title="• LATINO DEPORTES •", LD - ESPN 3 SUR HD
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3615
+
+#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn3.png" group-title="• LATINO DEPORTES •", LD - ESPN 3 SUR SD
+http://tv.nstvlatino.com:8080/jairo1/jairo123/43639
+
+#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn-mas.png" group-title="• LATINO DEPORTES •", LD - ESPN PLUS SUR FHD
+http://tv.nstvlatino.com:8080/jairo1/jairo123/7940
+
+#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn-mas.png" group-title="• LATINO DEPORTES •", LD - ESPN PLUS SUR HD
+http://tv.nstvlatino.com:8080/jairo1/jairo123/43638
+
+#EXTINF:-1 tvg-logo="http://e.espncdn.com/2003/photos2017/0331/ESPN-logo_220.jpg" group-title="• LATINO DEPORTES •", LD - ESPN MX
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3178
+
+#EXTINF:-1 tvg-logo="http://www.mediafire.com/convkey/7617/64eaua60jei8k3pzg.jpg" group-title="• LATINO DEPORTES •", LD - ESPN 2 MX
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3258
+
+#EXTINF:-1 tvg-logo="http://www.mediafire.com/convkey/d823/mp5467d3i5iq4n4zg.jpg" group-title="• LATINO DEPORTES •", LD - ESPN 3 MX
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3260
+
+#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn-mas.png" group-title="• LATINO DEPORTES •", LD - ESPN PLUS MX
+http://tv.nstvlatino.com:8080/jairo1/jairo123/4120
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TUDN.jpg" group-title="• LATINO DEPORTES •", LD - UNIVISION TUDN USA
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3751
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TUDN.jpg" group-title="• LATINO DEPORTES •", LD - UNIVISION DEPORTES FHD
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3962
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TUDN.jpg" group-title="• LATINO DEPORTES •", LD - UNIVISION TUDN HD
+http://tv.nstvlatino.com:8080/jairo1/jairo123/4117
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TUDN.jpg" group-title="• LATINO DEPORTES •", LD - TUDN FHD
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3963
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D_XydwSW4AAjU6l.jpg" group-title="• LATINO DEPORTES •", LD - TYC SPORTS HD
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3759
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D_XydwSW4AAjU6l.jpg" group-title="• LATINO DEPORTES •", LD - TYC SPORTS
+http://tv.nstvlatino.com:8080/jairo1/jairo123/8247
+
+#EXTINF:-1 tvg-logo="https://www.tigosports.com.bo/sites/default/files/tigosports-app-icon_0.png" group-title="PARAGUAY", LD - TIGO SPORTS HD (PARAGUAY)
+http://tv.nstvlatino.com:8080/jairo1/jairo123/29832
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/814993132488101889/73_HERjX_400x400.jpg" group-title="• LATINO DEPORTES •", LD - CLARO SPORTS HD
+http://tv.nstvlatino.com:8080/jairo1/jairo123/12011
+
+#EXTINF:-1 tvg-logo="https://www.sportstravelmagazine.com/wp-content/uploads/2017/03/UFC-LOGO.png" group-title="• LATINO DEPORTES •", LD - UFC  NETWORK FHD
+http://tv.nstvlatino.com:8080/jairo1/jairo123/4082
+
+#EXTINF:-1 tvg-logo="http://www.acessoriosparaautos.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/p/l/pl5288_1_5.jpg" group-title="• LATINO DEPORTES •", LD - UFC FIGHT LATINOAMERICA
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3421
+
+#EXTINF:-1 tvg-logo="https://images.mediapro.es/imagina_us/custom/block/Golf_Channel_Logo_web2.png" group-title="• LATINO DEPORTES •", LD - GOLF LATIN AMERICA
+http://tv.nstvlatino.com:8080/jairo1/jairo123/33363
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/574737723/logook_400x400.jpg" group-title="• LATINO DEPORTES •", LD - AYM SPORTS
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3089
+
+#EXTINF:-1 tvg-logo="https://p-img.movetv.com/cms/images/6fa62e4f1691da2fbf96eb96bfc6dfda5dfc0ba4.jpg" group-title="• LATINO DEPORTES •", LD - UFC LIVE HD
+http://tv.nstvlatino.com:8080/jairo1/jairo123/53372
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e1/TVC_Deportes_%282016-_%29.png" group-title="• LATINO DEPORTES •", LD - TVC DEPORTES
+http://tv.nstvlatino.com:8080/jairo1/jairo123/4139
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",TNT SPORTS ARG
+http://uruguayiptv.com:25461/leandro1/leandro123/8661?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",TNT SPORTS ARGENTINA
+http://uruguayiptv.com:25461/leandro1/leandro123/79965?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",FOX SPORTS PREMIUM
+http://uruguayiptv.com:25461/leandro1/leandro123/79961?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",FOX SPORTS PREMIUM ARGENTINA
+http://uruguayiptv.com:25461/leandro1/leandro123/79966?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",FOX SPORTS PREMIUM HD
+http://uruguayiptv.com:25461/leandro1/leandro123/79962?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 2 HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/19144?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN2
+http://201.1.151.74:2083/play/a03v/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",ESPN 2 CHILE
+http://uruguayiptv.com:25461/leandro1/leandro123/79963?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",ESPN 3 HD ARGENTINA
+http://uruguayiptv.com:25461/leandro1/leandro123/454?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",ESPN DEPORTES
+http://uruguayiptv.com:25461/leandro1/leandro123/56347?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",ESPN HD
+http://uruguayiptv.com:25461/leandro1/leandro123/479?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",ESPN HD ARGENTINA
+http://uruguayiptv.com:25461/leandro1/leandro123/77726?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS ESPN
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/262998.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN 2 HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/733?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN Deportes
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1124?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN1
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/520?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",DIRECTV SPORTS CHILE
+http://uruguayiptv.com:25461/leandro1/leandro123/79964?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",GOL TV ESPAÑA
+http://uruguayiptv.com:25461/leandro1/leandro123/439?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Gol tv
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/385921.ts?checkedby:hlscat.com
+
+#EXTINF:-1,TNT SPORTS
+https://live.televisiongratishd.com/tvplus2021/9_.m3u8?token=6TgZAy86qiLRprdUw_ccIg&expires=1610670285&ip=190.179.24.249 conn=S:OK --live
+#EXTINF:-1,FOX SPORTS PREMIUM Arg
+https://live.televisiongratishd.com/tvplus2021/10_.m3u8?token=CW0UDC0GP-hHdBcdL7N0gA&expires=1610674104&ip=190.179.24.249 conn=S:OK --live
+
  #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PACK PREMIUM", ESPN ARG
 http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/80316
 
