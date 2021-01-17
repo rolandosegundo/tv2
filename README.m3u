@@ -3,7 +3,7 @@
   
 #EXTINF:0, *** DEPORTES MOMENTANIOS*** 
 #EXTINF:-1 tvg-logo="http://cdn.cablefax.com/wp-content/uploads/2014/05/Bein-Sports-SPA-logo-color-hires-1.jpg" group-title="• LATINO DEPORTES •", LD - BEIN SPORTS Ñ HD
-http://tv.nstvlatino.com:8080/jairo1/jairo123/3747
+http://tv.nstvlatino.com:8080/live/jairo1/jairo123/3747.m3u
 
 #EXTINF:-1 tvg-logo="http://cdn.cablefax.com/wp-content/uploads/2014/05/Bein-Sports-SPA-logo-color-hires-1.jpg" group-title="• LATINO DEPORTES •", LD - BEIN SPORTS SD
 http://tv.nstvlatino.com:8080/jairo1/jairo123/43187
