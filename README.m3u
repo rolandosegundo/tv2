@@ -6,6 +6,8 @@
 -----------------------------------------------------------------
 #EXTINF:-1 TIGRES VS NECAXA
 https://teleclub.xyz/tv/canal?android=TUDN_USA&format=.m3u8%7CUser-Agent=loaB6oIZOla892u1q9qoi9j310qpoIZoeQk
+#EXTINF:-1 TIGRES VS NECAXA
+https://teleclub.xyz/tv/canal?android=TUDN_USA&format=.m3u8%7CUser-Agent=loaB6oIZOla892u1q9qoi9j310qpoIZoeQk
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="BEIN SPORTS HD" tvg-logo="http://cdn.cablefax.com/wp-content/uploads/2014/05/Bein-Sports-SPA-logo-color-hires-1.jpg" group-title="Deporte",BEIN SPORTS HD
 http://tv.nstvlatino.com:8080/jairo1/jairo123/3747
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS SD" tvg-logo="http://cdn.cablefax.com/wp-content/uploads/2014/05/Bein-Sports-SPA-logo-color-hires-1.jpg" group-title="Deporte",BEIN SPORTS SD
