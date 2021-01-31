@@ -3,10 +3,7 @@
 #EXTINF:0, *** DEPORTES ***
 *** DEPORTES ***
 -----------------------------------------------------------------
-#EXTINF:-1 TIGRES VS NECAXA
-https://teleclub.xyz/tv/canal?android=TUDN_USA&format=.m3u8%7CUser-Agent=loaB6oIZOla892u1q9qoi9j310qpoIZoeQk
-#EXTINF:-1 TIGRES VS NECAXA
-https://teleclub.xyz/tv/canal?android=TUDN_USA&format=.m3u8%7CUser-Agent=loaB6oIZOla892u1q9qoi9j310qpoIZoeQk
+
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="BEIN SPORTS HD" tvg-logo="http://cdn.cablefax.com/wp-content/uploads/2014/05/Bein-Sports-SPA-logo-color-hires-1.jpg" group-title="Deporte",BEIN SPORTS HD
 http://tv.nstvlatino.com:8080/jairo1/jairo123/3747
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS SD" tvg-logo="http://cdn.cablefax.com/wp-content/uploads/2014/05/Bein-Sports-SPA-logo-color-hires-1.jpg" group-title="Deporte",BEIN SPORTS SD
@@ -1275,7 +1272,26 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/548/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94111/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/p2.jpg" group-title="SOLO PARA ROKOOS", Punto 2
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97812/12?f=.m3u8
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="SOLO PARA ROKOOS", EVENTO PP1
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/88792/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="SOLO PARA ROKOOS", EVENTO PP2
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/88793/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="SOLO PARA ROKOOS", EVENTO 1
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97881/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="SOLO PARA ROKOOS", EVENTO 2
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97882/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="SOLO PARA ROKOOS", EVENTO 3
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97883/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="SOLO PARA ROKOOS", EVENTO 4
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97884/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="SOLO PARA ROKOOS", EVENTO 5
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/562/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="SOLO PARA ROKOOS", EVENTO 6
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/574/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="SOLO PARA ROKOOS", EVENTO 7
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/576/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="SOLO PARA ROKOOS", EVENTO 8
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/577/12?f=.m3u8             
 
 
 
