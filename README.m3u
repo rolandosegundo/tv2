@@ -1,10 +1,34 @@
 #EXTM3U
+################################################################################# BIG BROTHER BRAZIL ##################################################################
 
-#EXTINF:0, *** DEPORTES ***
-*** DEPORTES ***
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u5BpYTL.jpg" group-title="BBB",BBB site 1A
+http://b2p.li:80/6262789/5255378/191972
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u5BpYTL.jpg" group-title="BBB",BBB site 2A
+http://pfsv.io:80/39421684/55782/60679
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u5BpYTL.jpg" group-title="BBB",BBB site 3A
+http://play.cmsdz.life:80/8191909194/9124201943/349487
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u5BpYTL.jpg" group-title="BBB",BBB site 1B
+http://b2p.li:80/6262789/5255378/191975
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u5BpYTL.jpg" group-title="BBB",BBB site 2B
+http://pfsv.io:80/39421684/55782/60677
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u5BpYTL.jpg" group-title="BBB",BBB site 3B
+http://play.cmsdz.life:80/8191909194/9124201943/350155
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u5BpYTL.jpg" group-title="BBB",BBB site 1C
+http://b2p.li:80/6262789/5255378/191973
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u5BpYTL.jpg" group-title="BBB",BBB site 2C
+http://pfsv.io:80/39421684/55782/60678
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u5BpYTL.jpg" group-title="BBB",BBB site 2D
+http://pfsv.io:80/39421684/55782/60682
+#EXTINF:-1,*** DEPORTES ***
 -----------------------------------------------------------------
-#EXTINF:-1 DIBLO SQUAD TV
-https://video-weaver.pdx01.hls.ttvnw.net/v1/playlist/CpYFhdA5jOUgKkVxW1mpFAwxp0UsU14SxwGUir9-osGrIimQ5Fqyv3LcCBczhAfnfcRFH_BKZIl1tDffZBSj--H5fFIkdZTUMwZk1BVcgxiDb-JHtn8TGvbN24vPrF76s7vc4PxEuWRxCMFBFYg1X87bRsYP6W6BEsvziClHeVDm3bKZeTgIiWYsjq7F3yXPsqK0m4DVNYK93xo6YyTLqcXb3odgCiaHejgWCWRm_s57zAsXfeqObErDKZ3WMpHWkd26fXL6zRHRiLMGRxUmvyS6zNfZcHcUB3Y12-YvWP8oT__-5ED67zBzAorpWZ6kaVWSVhqCvIxKolXdQ9Zj_6SsAPBj5N2qDMksnaEUupPql57jFmE1rN1Zrdi_FRU8QB_BAgUNwRY0fZZ4fASO5MXWQsRQ3QFJKJAIn5Loxt0mjOJypSkvbioLwhEbUBzTQNnEkaAjWKSeCttyVNStBCJXx9_6fYPNJLUkHbOAGa2dh0XntWc7eKAMdpuwIQi4qsqp3Bug8AL8p1QNCoYLJAVhZFeT-RIeOsY8GRP9XddSMkozPizdNhJP29nZZqzb_Y9blTZbLtNzbAiTY0CDEGhqzschkOShCegNcb-eheMUzSqFSERx78NKsBKuiAdKzu_XB5ZVsSi_kBEWiKEWXTHV73J_V_uEDHfk1mfoDQTd0QuZwChF60TpozFvHPtmDZL1lmRuJoetH7qmvmhD26Vb2t4E8_CgLE3oHKvcbZUPrlsPIRE9mlBtevCsJHqam8BdbMBj6ake71cvy14zD24uhNb4sdgay6Drobm3kzPMBNljVlvZP8HuKm5vXLWERuibqLKGkRmrMtS9HgXyW2eKIw3p2YV9P5kFS_VcNn1Dr2TuhoDt5cwSEGyiNDzJFdtYG7gM8odAeygaDMhKfSmgA_tSajI2xw.m3u8
 #EXTINF:-1,AFIZZIONADOS
 http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/55292
 #EXTINF:-1,AFIZZIONADOS ⁽ᴴᴰ⁾
