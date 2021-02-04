@@ -1,4 +1,9 @@
 #EXTM3U
+##########MUNDIAL DE CLUBES ###########
+#EXTINF:-1,MUNDILA DE CLUBES TNT SPORTS CHI
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/27180
+#EXTINF:-1, MUNDILA DE CLUBES Fox Deportes
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531
 ###############BIG BROTHER BRAZIL ######################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5BpYTL.jpg" group-title="BBB",BBB site 1A
