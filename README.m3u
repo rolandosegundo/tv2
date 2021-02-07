@@ -1157,9 +1157,9 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/576/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="SOLO PARA ROKOOS", EVENTO 8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/577/12?f=.m3u8 
 #EXTINF:-1  group-title="Lista 23",Azteca 7 
-https://blackghost.live/play/telegratis-205.php?id=azteca-7-en-vivo&k=b1ack--ghost&f=.m2u8
+https://blackghost.live/play/telegratis-205.php?id=azteca-7-en-vivo&k=b1ack--ghost&f=.m3u8
 #EXTINF:-1  group-title="Lista 23",Canal 5 
-https://blackghost.live/play/telegratis-205.php?id=canal-5-en-vivo&k=b1ack--ghost&f=.m2u8
+https://blackghost.live/play/telegratis-205.php?id=canal-5-en-vivo&k=b1ack--ghost&f=.m3u8
 #EXTINF:-1  group-title="Lista 23",TUDN 
 https://blackghost.live/play/telegratis-205.php?id=tudn-en-vivo&k=b1ack--ghost&f=.m2u8
 #EXTINF:-1  group-title="Lista 23",Latina 
