@@ -1,25 +1,4 @@
 #EXTM3U
-############################### BBB #############################
-#EXTINF:-1 group-title="BBB" tvg-name="BBB 2 HD" tvg-logo="https://tinyurl.com/yxkusrwr" group-title="BBB",BBB 2 HD
-http://vpnbr.top:80/539058/3c0ecb/83182
-#EXTINF:-1 group-title="BBB" tvg-name="BBB 1 HD" tvg-logo="https://tinyurl.com/yxkusrwr" group-title="BBB",BBB 1 HD
-http://vpnbr.top:80/539058/3c0ecb/83181
-#EXTINF:-1 group-title="BBB" tvg-name="BBB MOSAICO HD" tvg-logo="https://tinyurl.com/yxkusrwr" group-title="BBB",BBB MOSAICO HD
-http://vpnbr.top:80/539058/3c0ecb/83180
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/lye3ubJ.png" group-title="BBB",BBB 21 HD
-https://newedge.eu-central-1.edge.mycdn.live/live/bbb24hras/bbb24hras_2000/index.m3u8
-#EXTINF:-1 group-title="BBB" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png",BBB Mosaico
-http://rec2.distv.net:80/abraao/123456/259
-#EXTINF:-1 group-title="BBB" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png",BBB Quarto 1
-http://rec2.distv.net:80/daniele/12345/255
-#EXTINF:-1 group-title="BBB" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png",BBB Quarto 2
-http://dns.icut.uno:80/36116097/98126280/8706
-#EXTINF:-1 group-title="BBB" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png",BBB Piscina 1
-http://rec2.distv.net:80/abraao/123456/254
-#EXTINF:-1 group-title="BBB" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png",BBB Piscina 2
-http://rec2.distv.net:80/daniele/12345/254
-#EXTINF:-1 group-title="BBB" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png",BBB Cozinha
-http://rec3.distv.net:8080/MICHELLE_DANTAS/1234/295
 #EXTINF:-1,*** DEPORTES ***
 -----------------------------------------------------------------
 #EXTINF:-1,Fox Deportes
