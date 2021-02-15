@@ -1,279 +1,3369 @@
 #EXTM3U
-#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-epl.png",Sky Sports Premier League
-http://mytv.fun:8080/live/Oskartest/t4h92jfvp/683787.ts
-http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/28942.m3u8.ts
+#EXTINF:-1,########## United States ##########
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6365
+#EXTINF:-1,------- US Locals -------
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677096
+#EXTINF:-1,ABC2 [Baltimore] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678105
+#EXTINF:-1,ABC2 [Atlanta] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677105
+#EXTINF:-1,ABC4 [Charleston] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678103
+#EXTINF:-1,ABC4 [Honolulu] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678102
+#EXTINF:-1,ABC5 [Boston] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678099
+#EXTINF:-1,ABC5 [Oklahoma] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678100
+#EXTINF:-1,ABC6 [Philadelphia] HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677106
+#EXTINF:-1,ABC6 [Indianapolis] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678090
+#EXTINF:-1,ABC7 [New York] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/658606
+#EXTINF:-1,ABC7 [Washington DC] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678095
+#EXTINF:-1,ABC7 [Chicago IL] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677104
+#EXTINF:-1,ABC7 [Los Angeles] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677108
+#EXTINF:-1,ABC7 [San Francisco] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678094
+#EXTINF:-1,ABC7 [Buffalo] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678096
+#EXTINF:-1,ABC7 [Detroit] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677109
+#EXTINF:-1,ABC7 [Denver] HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677110
+#EXTINF:-1,ABC8 [Dallas] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678091
+#EXTINF:-1,ABC8 [Hartford] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678092
+#EXTINF:-1,ABC9 [Manchester] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678088
+#EXTINF:-1,ABC9 [Orlando] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678089
+#EXTINF:-1,ABC10 [Miami] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677129
+#EXTINF:-1,ABC10 [San Diego] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678106
+#EXTINF:-1,ABC10 [Sacramento] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678107
+#EXTINF:-1,ABC10 [Albany] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678108
+#EXTINF:-1,CBS2 [New York] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678114
+#EXTINF:-1,CBS2 [Los Angeles] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677113
+#EXTINF:-1,CBS4 [St. Louis] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684684
+#EXTINF:-1,CBS5 [Mobile] VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678104
+#EXTINF:-1,CBS5 [San Francisco] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684775
+#EXTINF:-1,CBS5 [Phoenix] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684771
+#EXTINF:-1,CBS8 [Selma] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678097
+#EXTINF:-1,CBS9 [Los Angeles] VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684773
+#EXTINF:-1,CBS17 [Phoenix] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684713
+#EXTINF:-1,CBS26 [Orlando] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684704
+#EXTINF:-1,CBS29 [San Francisco] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684699
+#EXTINF:-1,CBS29 [Bakersfield] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684772
+#EXTINF:-1,CBS42 [Birmingham] VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678093
+#EXTINF:-1,CBS46 [Monterey] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684774
+#EXTINF:-1,CBS46 [Atlanta GA] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677116
+#EXTINF:-1,FOX2 [St. Louis] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684686
+#EXTINF:-1,FOX4 [Kansas City] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677111
+#EXTINF:-1,FOX2 [Detroit] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684711
+#EXTINF:-1,Fox25 [Boston] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677122
+#EXTINF:-1,Fox35 [Orlando] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/4944
+#EXTINF:-1,FOX11 [Los Angeles] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677117
+#EXTINF:-1,FOX7 [Miami] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678068
+#EXTINF:-1,FOX5 [New York] HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677119
+#EXTINF:-1,FOX5 [Atlanta] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677118
+#EXTINF:-1,NBC4 [New York] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678116
+#EXTINF:-1,NBC4 [New York] HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/4954
+#EXTINF:-1,NBC6 [Miami FL] FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678067
+#EXTINF:-1,NBC6 [Miami FL] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678063
+#EXTINF:-1,MY33 (Miami FL) HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678064
+#EXTINF:-1,CW57 [Philadelphia] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678069
+#EXTINF:-1,CW11 [New York] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678112
+#EXTINF:-1,CW28 [San Francisco] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684701
+#EXTINF:-1,Atlanta Channel HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677125
+#EXTINF:-1,Univision23 [Miami] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678065
+#EXTINF:-1,------- US News -------
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677099
+#EXTINF:-1,CBN HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677225
+#EXTINF:-1,News12 [Bronx] FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678110
+#EXTINF:-1,News12 [Westchester] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678111
+#EXTINF:-1,ONE America News HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677237
+#EXTINF:-1,Bloomberg FHD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/4940
+#EXTINF:-1,Bloomberg HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6360
+#EXTINF:-1,CBSN HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6342
+#EXTINF:-1,CBSN US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/4939
+#EXTINF:-1,CNBC FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683996
+#EXTINF:-1,CNBC HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/4956
+#EXTINF:-1,CNBC [B] HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/14337
+#EXTINF:-1,CNBC World HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683879
+#EXTINF:-1,CNN FHD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13750
+#EXTINF:-1,CNN HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/4919
+#EXTINF:-1,CNN [B] HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/14377
+#EXTINF:-1,CNN US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6359
+#EXTINF:-1,Fox Business FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683442
+#EXTINF:-1,Fox Business HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683878
+#EXTINF:-1,Fox News HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678142
+#EXTINF:-1,Fox News HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/14358
+#EXTINF:-1,Fox News [B] HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/14357
+#EXTINF:-1,Fox News US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/4943
+#EXTINF:-1,NewsMax HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683338
+#EXTINF:-1,CBC News Network FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683887
+#EXTINF:-1,MSNBC FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13738
+#EXTINF:-1,MSNBC HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/14398
+#EXTINF:-1,Cheddar Stream HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684716
+#EXTINF:-1,ABC News Feed HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6364
+#EXTINF:-1,------- US Sports -------
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677100
+#EXTINF:-1,DAZN HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683505
+#EXTINF:-1,beIN Sports FHD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13759
+#EXTINF:-1,beiN Sports HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/4902
+#EXTINF:-1,Bein Sports 11 HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677819
+#EXTINF:-1,Bein Sports 12 FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/682911
+#EXTINF:-1,bein Sports Espagnol HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677144
+#EXTINF:-1,TUDN HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684705
+#EXTINF:-1,TVG Network HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678070
+#EXTINF:-1,TVG2 Network HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678071
+#EXTINF:-1,CBS Sports Network HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/14385
+#EXTINF:-1,ESPN News HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/4935
+#EXTINF:-1,ESPN FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683881
+#EXTINF:-1,ESPN HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/14363
+#EXTINF:-1,ESPN 2 FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683882
+#EXTINF:-1,ESPN 2 HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677173
+#EXTINF:-1,ESPN 3 VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6708
+#EXTINF:-1,ESPN U HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677140
+#EXTINF:-1,ESPN U US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/33498
+#EXTINF:-1,ESPN Sec Network HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/32382
+#EXTINF:-1,ESPN Deportes HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677142
+#EXTINF:-1,Fox Sports HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/14562
+#EXTINF:-1,Fox Sports 1 HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/137256
+#EXTINF:-1,Fox Sports 1 US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/63735
+#EXTINF:-1,Fox Sports 2 HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/494259
+#EXTINF:-1,Fox Sports 2 US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/63365
+#EXTINF:-1,Fox Sports Soccer Plus HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677143
+#EXTINF:-1,Fox Sports Prime Ticket HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677149
+#EXTINF:-1,Sportsman HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677145
+#EXTINF:-1,BTN Sports HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677147
+#EXTINF:-1,BTN Sports US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/4884
+#EXTINF:-1,MSG HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/623146
+#EXTINF:-1,MSG 2 VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677150
+#EXTINF:-1,MSG+ HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684712
+#EXTINF:-1,Longhorn Network HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/659778
+#EXTINF:-1,UFC Fight Pass FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/16617
+#EXTINF:-1,UFC 24/7 FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677822
+#EXTINF:-1,PPV UFC [Early Prelims] FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677823
+#EXTINF:-1,PPV 1 UFC [Prelims] FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677130
+#EXTINF:-1,PPV 2 UFC [Main Card] FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677821
+#EXTINF:-1,PPV 3 UFC [Main Card] FHD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677824
+#EXTINF:-1,PPV 4 UFC [Main Card] FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677825
+#EXTINF:-1,PPV UFC [Post Fight Conference] FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677826
+#EXTINF:-1,PPV Bellator [Prelims] FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683267
+#EXTINF:-1,PPV Bellator [Main Card] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683268
+#EXTINF:-1,The Fight Network FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/14361
+#EXTINF:-1,The Fight Network HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13748
+#EXTINF:-1,Fubo Sports Network HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684703
+#EXTINF:-1,WWE Network FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683883
+#EXTINF:-1,WWE Network HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/14404
+#EXTINF:-1,WWE Network [B] HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6347
+#EXTINF:-1,NBA TV HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684729
+#EXTINF:-1,NBA TV HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6355
+#EXTINF:-1,NBA LP1 [Match Time] HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/681995
+#EXTINF:-1,NBA LP2 [Match Time] HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/681996
+#EXTINF:-1,NBA LP3 [Match Time] HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/681997
+#EXTINF:-1,NBA LP4 [Match Time] HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/682012
+#EXTINF:-1,NBA LP5 [Match Time] HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/682013
+#EXTINF:-1,NBA LP6 [Match Time] HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/682000
+#EXTINF:-1,NBA LP7 [Match Time] HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/682001
+#EXTINF:-1,NBA LP8 [Match Time] HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/682002
+#EXTINF:-1,NBA LP9 [Match Time] HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/682003
+#EXTINF:-1,NBA LP10 [Match Time] HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/682004
+#EXTINF:-1,NBA LP11 [Match Time] HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/682005
+#EXTINF:-1,NBA LP12 [Match Time] HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/682006
+#EXTINF:-1,NBA LP13 [Match Time] HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/682007
+#EXTINF:-1,NBA LP14 [Match Time] HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/682008
+#EXTINF:-1,MAV TV HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677152
+#EXTINF:-1,MLB StrikeZone HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678087
+#EXTINF:-1,MLB Network FHD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/4868
+#EXTINF:-1,MLB Network HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/14402
+#EXTINF:-1,MLB Live US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/4867
+#EXTINF:-1,MLB1 [Match Time] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678076
+#EXTINF:-1,MLB2 [Match Time] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678073
+#EXTINF:-1,MLB3 [Match Time] VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678074
+#EXTINF:-1,MLB4 [Match Time] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678075
+#EXTINF:-1,MLB5 [Match Time] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678077
+#EXTINF:-1,MLB6 [Match Time] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678078
+#EXTINF:-1,MLB7 [Match Time] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678072
+#EXTINF:-1,MLB8 [Match Time] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678079
+#EXTINF:-1,MLB9 [Match Time] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678080
+#EXTINF:-1,MLB10 [Match Time] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678081
+#EXTINF:-1,MLB11 [Match Time] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678082
+#EXTINF:-1,MLB12 [Match Time] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678083
+#EXTINF:-1,MLB13 [Match Time] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678084
+#EXTINF:-1,MLB14 [Match Time] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678085
+#EXTINF:-1,MLB15 [Match Time] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678086
+#EXTINF:-1,NESN HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/34415
+#EXTINF:-1,NESN+ HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677154
+#EXTINF:-1,Big Ten Network HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684743
+#EXTINF:-1,Big Ten Network HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6361
+#EXTINF:-1,Big Ten Network Alternate2 HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684744
+#EXTINF:-1,Tennis Channel FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683506
+#EXTINF:-1,Tennis Channel HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684767
+#EXTINF:-1,Tennis Channel HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7084
+#EXTINF:-1,Golf Channel HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6340
+#EXTINF:-1,Olympic Channel HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684721
+#EXTINF:-1,Eleven Sports HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677155
+#EXTINF:-1,Redbull TV FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683995
+#EXTINF:-1,NBC Golf FHD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13753
+#EXTINF:-1,NBC Golf US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/14410
+#EXTINF:-1,NBC Golf HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/4953
+#EXTINF:-1,NBC Sports Network FHD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/14403
+#EXTINF:-1,NBC Sports Network HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/4952
+#EXTINF:-1,NBC Sports Network HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677133
+#EXTINF:-1,NBC Sports Bay Area HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677158
+#EXTINF:-1,NBC Sports [Boston] FHD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677159
+#EXTINF:-1,NBC Sports [California] FHD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677160
+#EXTINF:-1,NBC Sports Chicago HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677161
+#EXTINF:-1,NBC Sports Plus Chicago VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677162
+#EXTINF:-1,NBC Sports Philadelphia HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677163
+#EXTINF:-1,NBC Sports [Philadelphia] HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677164
+#EXTINF:-1,NBC Sports Washington HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677165
+#EXTINF:-1,Fox Sports Florida [South] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677170
+#EXTINF:-1,Fox Sports North HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/14355
+#EXTINF:-1,Fox Sports Tennessee HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677174
+#EXTINF:-1,Fox Sports Ohio HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683441
+#EXTINF:-1,Fox Sports [San Diego] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677172
+#EXTINF:-1,Fox Sports [Midwest] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677166
+#EXTINF:-1,Fox Sports Carolina HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677128
+#EXTINF:-1,Fox Soccer Plus HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/14408
+#EXTINF:-1,Fox Deportes HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/494543
+#EXTINF:-1,NFL Network FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/685903
+#EXTINF:-1,NFL Network HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/685902
+#EXTINF:-1,NFL RedZone FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683880
+#EXTINF:-1,NFL RedZone HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683504
+#EXTINF:-1,NFL RedZone HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/53157
+#EXTINF:-1,NFL1 HD [Match Time] US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677827
+#EXTINF:-1,NFL2 HD [Match Time] US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677828
+#EXTINF:-1,NFL3 HD [Match Time] US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677829
+#EXTINF:-1,NFL4 HD [Match Time] US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677830
+#EXTINF:-1,NFL5 HD [Match Time] US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677831
+#EXTINF:-1,NFL6 HD [Match Time] US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677832
+#EXTINF:-1,NFL7 HD [Match Time] US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677833
+#EXTINF:-1,NHL Network HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/4875
+#EXTINF:-1,TSN 1 HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6353
+#EXTINF:-1,TSN 2 HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6352
+#EXTINF:-1,TSN 3 HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6351
+#EXTINF:-1,TSN 4 HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/679808
+#EXTINF:-1,TSN 5 HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6349
+#EXTINF:-1,Pac-12 Network HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684756
+#EXTINF:-1,Pac-12 Washington HD VIP US3
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684759
+#EXTINF:-1,Pac-12 Mountain HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684755
+#EXTINF:-1,PAC-12 [Los Angeles] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677124
+#EXTINF:-1,Pac-12 Arizona HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684754
+#EXTINF:-1,PAC-12 Oregon HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13752
+#EXTINF:-1,PAC-12 Oregon US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/4863
+#EXTINF:-1,Spectrum Sportsnet La Dodgers FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/682937
+#EXTINF:-1,Spectrum Sportsnet LA HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677153
+#EXTINF:-1,SNY HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677151
+#EXTINF:-1,Sportsnet [SouthWest] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/14407
+#EXTINF:-1,Sportsnet 360 HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/4915
+#EXTINF:-1,Sportsnet Ontario HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/14317
+#EXTINF:-1,Sportsnet Ontario US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/14406
+#EXTINF:-1,Fntsy Sports Network HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684702
+#EXTINF:-1,Willow Cricket HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677818
+#EXTINF:-1,------- US Movies -------
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677097
+#EXTINF:-1,HBO FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/685038
+#EXTINF:-1,HBO 2 FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/685039
+#EXTINF:-1,HBO [West] FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/685040
+#EXTINF:-1,HBO Family HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13741
+#EXTINF:-1,HBO Signature FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/685178
+#EXTINF:-1,HBO Signature [East] FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/685179
+#EXTINF:-1,HBO Comedy FHD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/4921
+#EXTINF:-1,HBO Comedy HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13762
+#EXTINF:-1,HBO Zone [East] FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/685176
+#EXTINF:-1,HBO Zone HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/685177
+#EXTINF:-1,TBS FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677201
+#EXTINF:-1,AMC HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684738
+#EXTINF:-1,AMC HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/4959
+#EXTINF:-1,AMC US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6363
+#EXTINF:-1,TCM HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677203
+#EXTINF:-1,Freeform HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677202
+#EXTINF:-1,Retro Plex HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677233
+#EXTINF:-1,Showtime HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/4926
+#EXTINF:-1,Showtime [West] FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678716
+#EXTINF:-1,Showtime 2 FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677213
+#EXTINF:-1,Showtime Showcase HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/4891
+#EXTINF:-1,Showtime Family Zone HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677205
+#EXTINF:-1,Showtime Next FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677206
+#EXTINF:-1,Showtime Women FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677212
+#EXTINF:-1,Showtime Extreme FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677214
+#EXTINF:-1,SHO×BET* FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677215
+#EXTINF:-1,Cozi TV US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677207
+#EXTINF:-1,LMN/Lifetime Movies HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/676924
+#EXTINF:-1,Starz [East] FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678449
+#EXTINF:-1,Starz [West] FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678450
+#EXTINF:-1,Starz Edge US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/4897
+#EXTINF:-1,Starz Kids & Family FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678446
+#EXTINF:-1,Starz In Black [East] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678448
+#EXTINF:-1,Starz In Black [West] FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678447
+#EXTINF:-1,Starz Comedy FHD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/4899
+#EXTINF:-1,Starz Cinema FHD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/4898
+#EXTINF:-1,Starz Encore FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/685180
+#EXTINF:-1,Starz Encore Family HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/685185
+#EXTINF:-1,Starz Encore Action HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/685181
+#EXTINF:-1,Starz Encore Black HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/685182
+#EXTINF:-1,Starz Encore Classic HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677210
+#EXTINF:-1,Starz Encore Suspense HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677208
+#EXTINF:-1,Starz Encore Westerns FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/685187
+#EXTINF:-1,Starz Encore Espanol FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/685188
+#EXTINF:-1,Epix HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677216
+#EXTINF:-1,Epix Hits FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677217
+#EXTINF:-1,Cinemax [West] HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/4914
+#EXTINF:-1,Cinemax [East] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/4912
+#EXTINF:-1,CineMax East HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/14380
+#EXTINF:-1,Action Max FHD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/4869
+#EXTINF:-1,5Star Max HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/4911
+#EXTINF:-1,TNT FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/4876
+#EXTINF:-1,TNT HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6354
+#EXTINF:-1,Paramount Network HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677220
+#EXTINF:-1,Sony Movie Channel HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677222
+#EXTINF:-1,Hallmark FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/685299
+#EXTINF:-1,Hallmark HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/685298
+#EXTINF:-1,Hallmark Movies & Mysteries FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13746
+#EXTINF:-1,Hallmark Drama FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683885
+#EXTINF:-1,FX Movie Channel HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677221
+#EXTINF:-1,FX FHD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13763
+#EXTINF:-1,FX HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/4942
+#EXTINF:-1,FXX FHD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13756
+#EXTINF:-1,FXX HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/14353
+#EXTINF:-1,INSP HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/676923
+#EXTINF:-1,Me TV VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678118
+#EXTINF:-1,IFC HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13739
+#EXTINF:-1,TBS HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/4908
+#EXTINF:-1,Comet TV HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677224
+#EXTINF:-1,Antenna TV VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677223
+#EXTINF:-1,Sundance TV FHD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/676927
+#EXTINF:-1,Sundance TV HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684764
+#EXTINF:-1,Adult Swim [East] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/676925
+#EXTINF:-1,------- US Entertainment -------
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677101
+#EXTINF:-1,BBC America US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/14392
+#EXTINF:-1,Fox FHD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13757
+#EXTINF:-1,Fox HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/4948
+#EXTINF:-1,ABC HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/4925
+#EXTINF:-1,MTV HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/14342
+#EXTINF:-1,VH1 HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6753
+#EXTINF:-1,VH1 US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/11254
+#EXTINF:-1,VH1 [West] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684714
+#EXTINF:-1,VH1 [East] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684715
+#EXTINF:-1,Comedy Central HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/4882
+#EXTINF:-1,Comedy Central US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13823
+#EXTINF:-1,Comedy Central [East] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684747
+#EXTINF:-1,Comedy Central [West] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684746
+#EXTINF:-1,Justice Central FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/679742
+#EXTINF:-1,Syfy HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/648340
+#EXTINF:-1,Syfy [East] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684766
+#EXTINF:-1,Syfy [West] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684765
+#EXTINF:-1,E! [East] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684728
+#EXTINF:-1,E! [West] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684727
+#EXTINF:-1,People TV HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684760
+#EXTINF:-1,POP TV HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684761
+#EXTINF:-1,USA Network HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/4901
+#EXTINF:-1,Bravo HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/4883
+#EXTINF:-1,Bravo [B] HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/679201
+#EXTINF:-1,Bravo [West] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684745
+#EXTINF:-1,Lifetime HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/14343
+#EXTINF:-1,A&E FHD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/4960
+#EXTINF:-1,A&E HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/14399
+#EXTINF:-1,AWE FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677226
+#EXTINF:-1,HGTV HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/14348
+#EXTINF:-1,HGTV US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/10218
+#EXTINF:-1,HGTV [East] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684726
+#EXTINF:-1,OutSide TV HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/659779
+#EXTINF:-1,OWN HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13760
+#EXTINF:-1,TLC FHD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13734
+#EXTINF:-1,TLC HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/14397
+#EXTINF:-1,TLC US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/4924
+#EXTINF:-1,TLC [East] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684769
+#EXTINF:-1,TLC [West] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684768
+#EXTINF:-1,Fashion TV FHD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/14362
+#EXTINF:-1,TRU TV HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677227
+#EXTINF:-1,TV Land Classic HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/655120
+#EXTINF:-1,Reelz Channel HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/51014
+#EXTINF:-1,WE TV FHD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677228
+#EXTINF:-1,Fuse HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/676921
+#EXTINF:-1,Oxygen HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/51015
+#EXTINF:-1,Oxygen [West] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684731
+#EXTINF:-1,BounceTV HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/638798
+#EXTINF:-1,Buzzr FHD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677230
+#EXTINF:-1,Ion TV HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677232
+#EXTINF:-1,TV One FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677234
+#EXTINF:-1,El Rey Network US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13758
+#EXTINF:-1,El Rey Network HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/14364
+#EXTINF:-1,Logo HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684751
+#EXTINF:-1,CBS US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/4885
+#EXTINF:-1,BET HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/4958
+#EXTINF:-1,BET [East] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684740
+#EXTINF:-1,BET [West] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684741
+#EXTINF:-1,Bet Her HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683180
+#EXTINF:-1,Bet Her HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13764
+#EXTINF:-1,BET Jams HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684742
+#EXTINF:-1,CW HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/4955
+#EXTINF:-1,CMT HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/14383
+#EXTINF:-1,GSN HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/14351
+#EXTINF:-1,GINX eSports HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684719
+#EXTINF:-1,FYI Channel HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684717
+#EXTINF:-1,ME TV US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/676922
+#EXTINF:-1,TBN VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/679743
+#EXTINF:-1,------- US Documentary -------
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677098
+#EXTINF:-1,Discovery Science FHD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/4887
+#EXTINF:-1,Discovery Science HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684762
+#EXTINF:-1,Discovery Channel HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/14373
+#EXTINF:-1,Discovery [East] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684724
+#EXTINF:-1,Discovery [West] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684723
+#EXTINF:-1,Discovery Motor Trend HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/14371
+#EXTINF:-1,Discovery Life HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/4933
+#EXTINF:-1,Discovery ID HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/674583
+#EXTINF:-1,Discovery Family HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/14396
+#EXTINF:-1,Destination America FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/17640
+#EXTINF:-1,Destination America HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684748
+#EXTINF:-1,History Channel FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/14347
+#EXTINF:-1,History Channel HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684749
+#EXTINF:-1,History Channel HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/4880
+#EXTINF:-1,National Geographic FHD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/4881
+#EXTINF:-1,National Geographic HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/14339
+#EXTINF:-1,Nat Geo Wild FHD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13745
+#EXTINF:-1,Animal Planet HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/14393
+#EXTINF:-1,Animal Planet [B] HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6362
+#EXTINF:-1,Crime & Investigation HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/4879
+#EXTINF:-1,Diy Network HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/675417
+#EXTINF:-1,Food Network [East] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/14359
+#EXTINF:-1,Food Network [West] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/4949
+#EXTINF:-1,Cooking Channel HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683443
+#EXTINF:-1,Motortrend HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677157
+#EXTINF:-1,Outdoor Channel HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/14325
+#EXTINF:-1,Outdoor Channel HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684730
+#EXTINF:-1,Travel Channel FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/32381
+#EXTINF:-1,Tastemade HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677219
+#EXTINF:-1,The Weather Channel HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683444
+#EXTINF:-1,NASA VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/4941
+#EXTINF:-1,American Heroes HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677204
+#EXTINF:-1,Smithsonian Channel [West] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684763
+#EXTINF:-1,Univision HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683445
+#EXTINF:-1,Viceland HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/667813
+#EXTINF:-1,World Fishing Network HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/679668
+#EXTINF:-1,------- US Kids -------
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677102
+#EXTINF:-1,Cartoon Network FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/4886
+#EXTINF:-1,Cartoon Network HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/14387
+#EXTINF:-1,Disney Channel HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/14369
+#EXTINF:-1,Disney Junior HD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/675522
+#EXTINF:-1,Disney XD FHD US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/14368
+#EXTINF:-1,Nicktoons HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13744
+#EXTINF:-1,NickMusic VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/14327
+#EXTINF:-1,Nickelodeon [West] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/638822
+#EXTINF:-1,Universal Kids HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677236
+#EXTINF:-1,------- US Music -------
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683900
+#EXTINF:-1,MTVU HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684706
+#EXTINF:-1,MTV 2 [East] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684708
+#EXTINF:-1,MTV 2 [West] HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684707
+#EXTINF:-1,MTV Live FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683372
+#EXTINF:-1,MTV Live HD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684752
+#EXTINF:-1,MTV Classic VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683899
+#EXTINF:-1,Revolt FHD VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/659781
+#EXTINF:-1,BET Soul US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/661091
+#EXTINF:-1,Music Choice 90s VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683902
+#EXTINF:-1,Music Alternative VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683903
+#EXTINF:-1,Music Choice Dance/EDM VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683905
+#EXTINF:-1,Music Choice Hip-Hop & R&B VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683906
+#EXTINF:-1,Music Choice R&B Soul VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683909
+#EXTINF:-1,Music Choice Pop Hits VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683907
+#EXTINF:-1,Music Choice Rock VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683911
+#EXTINF:-1,Music Choice Teen Beats VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683913
+#EXTINF:-1,Music Choice Y2K VIP US
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683914
+#EXTINF:-1,########## Germany ##########
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6267
+#EXTINF:-1,------- Main & Regional -------
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678832
+#EXTINF:-1,Das Erste HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13166
+#EXTINF:-1,Das Erste HD [B] DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6262
+#EXTINF:-1,Das Erste DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6256
+#EXTINF:-1,ZDF FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6151
+#EXTINF:-1,ZDF HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/17011
+#EXTINF:-1,ZDF Neo HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/17304
+#EXTINF:-1,RTL FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13565
+#EXTINF:-1,RTL FHD [B] DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683243
+#EXTINF:-1,RTL HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6216
+#EXTINF:-1,Sat.1 FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6210
+#EXTINF:-1,Sat.1 HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683455
+#EXTINF:-1,Pro 7 FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6220
+#EXTINF:-1,Pro 7 HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683393
+#EXTINF:-1,Pro Sieben FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8235
+#EXTINF:-1,Pro Sieben HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13144
+#EXTINF:-1,VOX FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13553
+#EXTINF:-1,VOX DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6153
+#EXTINF:-1,VOXup DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/679836
+#EXTINF:-1,Kabel 1 FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6242
+#EXTINF:-1,Kabel 1 Classic HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9151
+#EXTINF:-1,Kabel 1 Classic DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/679844
+#EXTINF:-1,RTL 2 FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6215
+#EXTINF:-1,RTL 2 HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13136
+#EXTINF:-1,RTL Nitro FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6212
+#EXTINF:-1,RTL Nitro HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13137
+#EXTINF:-1,RTL Passion FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8219
+#EXTINF:-1,RTL Plus DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9152
+#EXTINF:-1,RTL Crime FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6214
+#EXTINF:-1,RTL Crime HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/17012
+#EXTINF:-1,Crime & Investigation FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6263
+#EXTINF:-1,Crime & Investigation HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8197
+#EXTINF:-1,RTL Living FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6150
+#EXTINF:-1,RTL Living HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6213
+#EXTINF:-1,Sat1 Emotion DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13135
+#EXTINF:-1,Sat1 Gold FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6209
+#EXTINF:-1,Pro 7 Fun FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6219
+#EXTINF:-1,Pro 7 Fun HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13145
+#EXTINF:-1,Pro 7 Fun [B] HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13142
+#EXTINF:-1,Pro 7 Max FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6218
+#EXTINF:-1,Pro 7 Max HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683394
+#EXTINF:-1,Pro Sieben Maxx HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13143
+#EXTINF:-1,Pro Sieben Maxx FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8234
+#EXTINF:-1,E! Entertainment FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13569
+#EXTINF:-1,E! Entertainment HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9137
+#EXTINF:-1,E! Entertainment DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/5095
+#EXTINF:-1,SRF 1 DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6170
+#EXTINF:-1,MDR HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6238
+#EXTINF:-1,MDR S-Anhalt HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8240
+#EXTINF:-1,MDR Sachsen HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8239
+#EXTINF:-1,3Sat FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/16289
+#EXTINF:-1,3sat HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6265
+#EXTINF:-1,NDR HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6225
+#EXTINF:-1,HR FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13150
+#EXTINF:-1,HR HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6243
+#EXTINF:-1,HR Fernsehen HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8225
+#EXTINF:-1,RBB Berlin HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6217
+#EXTINF:-1,BR DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13168
+#EXTINF:-1,SWR HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6165
+#EXTINF:-1,WDR HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6152
+#EXTINF:-1,Franken Fernsehen FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677835
+#EXTINF:-1,BW Family TV FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6246
+#EXTINF:-1,BW Family TV HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/23772
+#EXTINF:-1,QVC HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13140
+#EXTINF:-1,QVC Beauty & Style DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13141
+#EXTINF:-1,Augsburg TV HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13170
+#EXTINF:-1,Sonnenklar TV FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13130
+#EXTINF:-1,Event - Covid Info FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/679845
+#EXTINF:-1,------- Sports -------
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678834
+#EXTINF:-1,Sky Sports News FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13555
+#EXTINF:-1,Sky Sports News HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684431
+#EXTINF:-1,Sky Sport 1 FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684432
+#EXTINF:-1,Sky Sport 1 HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683895
+#EXTINF:-1,Sky Sport 1 DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9125
+#EXTINF:-1,Sky Sport 1 [B] DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684429
+#EXTINF:-1,Sky Sport 2 FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7362
+#EXTINF:-1,Sky Sport 2 HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683896
+#EXTINF:-1,Sky Sport 3 [Match Time] FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13563
+#EXTINF:-1,Sky Sport 3 [Match Time] HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6182
+#EXTINF:-1,Sky Sport 4 [Match Time] FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13562
+#EXTINF:-1,Sky Sport 4 [Match Time] HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9127
+#EXTINF:-1,Sky Sport 5 FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13561
+#EXTINF:-1,Sky Sport 5 [Match Time] FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9126
+#EXTINF:-1,Sky Sport 6 [Match Time] HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6181
+#EXTINF:-1,Sky Sport 7 [Match Time] HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6180
+#EXTINF:-1,Sky Sport 8 [Match Time] HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6179
+#EXTINF:-1,Sky Sport 9 [Match Time] HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6178
+#EXTINF:-1,Sky Sport 10 [Match Time] HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6177
+#EXTINF:-1,Sky Sport Bundesliga 1 [Match Time] FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684430
+#EXTINF:-1,Sky Sport Bundesliga 1 [Match Time-B] FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683408
+#EXTINF:-1,Sky Sport Bundesliga 1 [Match Time-B] HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683409
+#EXTINF:-1,Sky Sport Bundesliga 1 [Match Time] DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13538
+#EXTINF:-1,Sky Sport Bundesliga 1 [Match Time] DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/73136
+#EXTINF:-1,Sky Sport Bundesliga 1 [Match Time-B] DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684005
+#EXTINF:-1,Sky Sport Bundesliga 2 [Match Time] FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/135258
+#EXTINF:-1,Sky Sport Bundesliga 2 [Match Time] FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/62223
+#EXTINF:-1,Sky Sport Bundesliga 3 [Match Time] FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/135671
+#EXTINF:-1,Sky Sport Bundesliga 3 [Match Time] HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/62220
+#EXTINF:-1,Sky Sport Bundesliga 4 [Match Time] FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/91235
+#EXTINF:-1,Sky Sport Bundesliga 5 [Match Time] FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/135335
+#EXTINF:-1,Sky Sport Bundesliga 5 [Match Time] DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/62002
+#EXTINF:-1,Sky Sport Bundesliga 6 [Match Time] FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/619225
+#EXTINF:-1,Sky Sport Bundesliga 7 [Match Time] DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6198
+#EXTINF:-1,Sky Sport Bundesliga 8 [Match Time] FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6197
+#EXTINF:-1,Sky Sport Bundesliga 9 [Match Time] DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6196
+#EXTINF:-1,Sky Sport Bundesliga 10 [Match Time] FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6195
+#EXTINF:-1,DAZN 1 FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/661090
+#EXTINF:-1,DAZN 1 HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/625243
+#EXTINF:-1,DAZN 1 [B] HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/661088
+#EXTINF:-1,DAZN 2 FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/661089
+#EXTINF:-1,DAZN 2 HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/50775
+#EXTINF:-1,Sport1 FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6173
+#EXTINF:-1,Sport1 HD  DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8221
+#EXTINF:-1,Sport1 HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8226
+#EXTINF:-1,Sport1+ FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/679847
+#EXTINF:-1,Sport1+ HD [B] DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/679848
+#EXTINF:-1,Telekom Fußball 2 HD [Match Time] DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/679822
+#EXTINF:-1,Telekom Fußball 1 HD [Match Time] DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/679821
+#EXTINF:-1,Telekom Fußball 3 HD [Match Time] DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/679823
+#EXTINF:-1,Telekom Fußball 4 HD [Match Time] DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/679824
+#EXTINF:-1,Telekom Fußball 5 HD [Match Time] DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/679825
+#EXTINF:-1,Telekom Fußball 6 HD [Match Time] DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/679826
+#EXTINF:-1,Telekom Fußball 7 HD [Match Time] DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/679827
+#EXTINF:-1,Telekom Eishockey 1 [Match Time] HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/679671
+#EXTINF:-1,Telekom Eishockey 2 [Match Time] HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/679672
+#EXTINF:-1,Telekom Eishockey 3 [Match Time] HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/679673
+#EXTINF:-1,Telekom Eishockey 4 [Match Time] HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/679676
+#EXTINF:-1,Telekom Basketball 1 [Match Time] HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/679674
+#EXTINF:-1,Telekom Basketball 2 [Match Time] HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/679675
+#EXTINF:-1,Eurosport 1 FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8218
+#EXTINF:-1,Eurosport 2 FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9131
+#EXTINF:-1,Eurosport 2 Xtra FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13163
+#EXTINF:-1,Eurosport 2 Xtra HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9130
+#EXTINF:-1,Sport Digital FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8244
+#EXTINF:-1,Sport Digital HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6171
+#EXTINF:-1,Motorvision HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8222
+#EXTINF:-1,Auto Motor Sport FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9132
+#EXTINF:-1,FC Bayern TV HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9128
+#EXTINF:-1,DEL Sport 1 HD [Match Time] DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/679851
+#EXTINF:-1,DEL Sport 2 HD [Match Time] DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/679852
+#EXTINF:-1,DEL Sport 3 HD [Match Time] DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/679853
+#EXTINF:-1,DEL Sport 4 HD [Match Time] DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/679854
+#EXTINF:-1,DEL Sport 5 HD [Match Time] DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/679855
+#EXTINF:-1,DEL Sport 6 HD [Match Time] DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/679856
+#EXTINF:-1,------- Movies & Series -------
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678836
+#EXTINF:-1,Sky Action HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/5093
+#EXTINF:-1,Sky Action DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6205
+#EXTINF:-1,Sky Cinema Special FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8217
+#EXTINF:-1,Sky Cinema Special HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6252
+#EXTINF:-1,Sky Cinema Thriller FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/5089
+#EXTINF:-1,Sky Cinema Thriller HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7372
+#EXTINF:-1,Sky Cinema Thriller DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6193
+#EXTINF:-1,Sky Cinema Premieren FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6194
+#EXTINF:-1,Sky Cinema Premieren HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7373
+#EXTINF:-1,Sky Cinema Premieren +24 FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6192
+#EXTINF:-1,Sky Cinema Premieren +24 HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13133
+#EXTINF:-1,Sky Cinema Action HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7370
+#EXTINF:-1,Sky Cinema Action DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9146
+#EXTINF:-1,Sky Cinema Fun HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9144
+#EXTINF:-1,Sky Cinema Fun DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6190
+#EXTINF:-1,Sky Cinema Best Of FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7368
+#EXTINF:-1,Sky Cinema Best Of HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8223
+#EXTINF:-1,Sky Cinema Family FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9145
+#EXTINF:-1,Sky Cinema Family HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7369
+#EXTINF:-1,Sky Cinema Classics HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13131
+#EXTINF:-1,Sky Cinema Classics DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6186
+#EXTINF:-1,Sky Cinema Best of DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/5088
+#EXTINF:-1,Sky Atlantic HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7367
+#EXTINF:-1,Sky Atlantic DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6204
+#EXTINF:-1,Sky Atlantic +1 HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13134
+#EXTINF:-1,Sky 13TH Street HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7365
+#EXTINF:-1,13th Street FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/5098
+#EXTINF:-1,13th Street HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8198
+#EXTINF:-1,Sky One FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9138
+#EXTINF:-1,One HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9147
+#EXTINF:-1,Fox FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13567
+#EXTINF:-1,Fox HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6245
+#EXTINF:-1,Fox DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/23770
+#EXTINF:-1,Syfy FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7364
+#EXTINF:-1,Syfy HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/5087
+#EXTINF:-1,Syfy DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6164
+#EXTINF:-1,Sky Krimi HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8220
+#EXTINF:-1,TNT Comedy FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6157
+#EXTINF:-1,TNT Film FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6156
+#EXTINF:-1,TNT Film HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683894
+#EXTINF:-1,TNT Serie FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/5084
+#EXTINF:-1,TNT Serie HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6155
+#EXTINF:-1,TNT Serie DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13154
+#EXTINF:-1,Universal FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/5265
+#EXTINF:-1,SonyTV HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6167
+#EXTINF:-1,Kinowelt HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6240
+#EXTINF:-1,Kinowelt DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/672086
+#EXTINF:-1,Eagle Cinema Premiere FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/681946
+#EXTINF:-1,Eagle Cinema Horror FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/681942
+#EXTINF:-1,Eagle Cinema Thriller FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/681950
+#EXTINF:-1,Eagle Cinema Sci-Fi FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/681949
+#EXTINF:-1,Eagle Cinema Animation HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/681939
+#EXTINF:-1,Eagle Cinema Mythologie HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/681945
+#EXTINF:-1,Eagle Cinema Lächeln HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/681944
+#EXTINF:-1,Eagle Cinema Geschichte HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/681941
+#EXTINF:-1,Eagle Cinema Romantisch FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/681948
+#EXTINF:-1,Sky Select 1 FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/655131
+#EXTINF:-1,Sky Select 1 HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7375
+#EXTINF:-1,Sky Select 2 FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/655130
+#EXTINF:-1,Sky Select 2 HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7376
+#EXTINF:-1,Sky Select 3 FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/655129
+#EXTINF:-1,Sky Select 3 HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7377
+#EXTINF:-1,Sky Select 4 FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/655128
+#EXTINF:-1,Sky Select 4 HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7378
+#EXTINF:-1,Sky Select 5 HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8977
+#EXTINF:-1,Sky Select 5 HD (demnächst) DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/655127
+#EXTINF:-1,Sky Select 6 HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8976
+#EXTINF:-1,Sky Select 6 FHD (demnächst) DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/655126
+#EXTINF:-1,Sky Select 7 HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8975
+#EXTINF:-1,Sky Select 8 HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8974
+#EXTINF:-1,PopCorn Select 1 HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/23778
+#EXTINF:-1,PopCorn Select 2 FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683536
+#EXTINF:-1,PopCorn Select 2 HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/23777
+#EXTINF:-1,PopCorn Select 3 FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683537
+#EXTINF:-1,PopCorn Select 3 HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/23776
+#EXTINF:-1,PopCorn Select 4 HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/23775
+#EXTINF:-1,PopCorn Select 5 HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683540
+#EXTINF:-1,HiperCinema 4K DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683524
+#EXTINF:-1,HyperCinema Boxset FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683534
+#EXTINF:-1,HyperCinema INFO FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683523
+#EXTINF:-1,HyperCinema 1 FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683535
+#EXTINF:-1,HyperCinema 2 HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683525
+#EXTINF:-1,HyperCinema 3 FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683526
+#EXTINF:-1,HyperCinema 4 4K DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683527
+#EXTINF:-1,HyperCinema 5 HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683528
+#EXTINF:-1,HyperCinema 6 FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683529
+#EXTINF:-1,HyperCinema 7 FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683530
+#EXTINF:-1,HyperCinema 8 FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683531
+#EXTINF:-1,HyperCinema 9 FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683532
+#EXTINF:-1,HyperCinema 10 FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683533
+#EXTINF:-1,AXN FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/5097
+#EXTINF:-1,AXN HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6259
+#EXTINF:-1,Comedy Central FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6154
+#EXTINF:-1,Romance TV HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13152
+#EXTINF:-1,Romance TV DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6211
+#EXTINF:-1,Sky Heimat Kanal HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678481
+#EXTINF:-1,Sky Heimat Kanal DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6188
+#EXTINF:-1,Sixx FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6207
+#EXTINF:-1,Servus TV HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6208
+#EXTINF:-1,Tele 5 HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9150
+#EXTINF:-1,Bibel TV HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677497
+#EXTINF:-1,------- Documentary -------
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678919
+#EXTINF:-1,ZDF Info HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9148
+#EXTINF:-1,N24 Doku DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/679837
+#EXTINF:-1,Kabel Eins Doku FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13147
+#EXTINF:-1,Kabel 1 Doku DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/679843
+#EXTINF:-1,History Channel FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6244
+#EXTINF:-1,Spiegel Geschichte HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6174
+#EXTINF:-1,Spiegel TV Wissen HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9135
+#EXTINF:-1,Discovery FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13570
+#EXTINF:-1,Discovery HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/5096
+#EXTINF:-1,DOXX HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/679846
+#EXTINF:-1,Animal Planet FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8196
+#EXTINF:-1,Animal Planet HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13173
+#EXTINF:-1,National Geographic HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8194
+#EXTINF:-1,National Geographic DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6226
+#EXTINF:-1,Nat Geo wild FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6227
+#EXTINF:-1,Nat Geo Wild HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9136
+#EXTINF:-1,Nat Geo Wild DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/5085
+#EXTINF:-1,Welt der Wunder HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/679838
+#EXTINF:-1,Welt der Wunder DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13129
+#EXTINF:-1,Anixe HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6264
+#EXTINF:-1,Dmax FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6249
+#EXTINF:-1,TLC HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8224
+#EXTINF:-1,Luxe TV FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/676714
+#EXTINF:-1,Sky Arte FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/5091
+#EXTINF:-1,Sky Arte HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9139
+#EXTINF:-1,Sky Arte DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6261
+#EXTINF:-1,ARD Alpha HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13171
+#EXTINF:-1,------- News -------
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678922
+#EXTINF:-1,Euronews DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6248
+#EXTINF:-1,Welt HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6228
+#EXTINF:-1,N-TV FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13149
+#EXTINF:-1,N-TV HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8195
+#EXTINF:-1,N-TV DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13566
+#EXTINF:-1,Munchen TV DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6229
+#EXTINF:-1,Phoenix HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6221
+#EXTINF:-1,Tagesschau 24 HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6163
+#EXTINF:-1,------- Children -------
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678923
+#EXTINF:-1,Super RTL FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13554
+#EXTINF:-1,Super RTL HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6166
+#EXTINF:-1,KiKa FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/679839
+#EXTINF:-1,Kika HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6241
+#EXTINF:-1,Baby TV DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13169
+#EXTINF:-1,Toggo Plus HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/5086
+#EXTINF:-1,Toggo Plus DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9133
+#EXTINF:-1,Boomerang HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6258
+#EXTINF:-1,Cartoon Network FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6257
+#EXTINF:-1,Disney Channel FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6253
+#EXTINF:-1,Disney Junior FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13568
+#EXTINF:-1,Disney Junior HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6251
+#EXTINF:-1,Junior HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6239
+#EXTINF:-1,Nickelodeon HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6224
+#EXTINF:-1,Fix & Foxi DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/23771
+#EXTINF:-1,Kids Tom&Jerry DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/679840
+#EXTINF:-1,------- Music -------
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678925
+#EXTINF:-1,MTV FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/35466
+#EXTINF:-1,MTV +1 HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/679793
+#EXTINF:-1,MTV 80s DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/638080
+#EXTINF:-1,Sky Classica DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6191
+#EXTINF:-1,Classica HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13167
+#EXTINF:-1,GoldStar TV DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683427
+#EXTINF:-1,Deep House Radio FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/679832
+#EXTINF:-1,Urban Radio FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/679833
+#EXTINF:-1,Classic Radio FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/679834
+#EXTINF:-1,Trap Radio FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/679835
+#EXTINF:-1,Rainy Jazz Radio HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/679831
+#EXTINF:-1,Jukebox DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13148
+#EXTINF:-1,Deluxe Music HD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6255
+#EXTINF:-1,Kronehit FHD DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/14200
+#EXTINF:-1,Deutsches Musik Fernsehen DE
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13165
+#EXTINF:-1,########## ULUSAL KANALLAR ##########
+http://mytv.fun:8080/Oskartest/t4h92jfvp/625942
+#EXTINF:-1,TRT 1 FHD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/12835
+#EXTINF:-1,TRT 1 HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8711
+#EXTINF:-1,TRT 1 TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/54651
+#EXTINF:-1,TRT 4K TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/667815
+#EXTINF:-1,ATV FHD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6915
+#EXTINF:-1,ATV HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8660
+#EXTINF:-1,ATV Avrupa TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6914
+#EXTINF:-1,Show TV FHD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8656
+#EXTINF:-1,Show TV HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8071
+#EXTINF:-1,Show Max TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8644
+#EXTINF:-1,Kanal D FHD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6864
+#EXTINF:-1,Kanal D HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8671
+#EXTINF:-1,Euro D TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8067
+#EXTINF:-1,Star TV FHD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/12834
+#EXTINF:-1,Star TV TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8072
+#EXTINF:-1,Eurostar HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8073
+#EXTINF:-1,TV 8 FHD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8647
+#EXTINF:-1,TV 8 HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8718
+#EXTINF:-1,TV 8 HD [B] TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678141
+#EXTINF:-1,TV 8 Int. TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8017
+#EXTINF:-1,TV 8 int TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8018
+#EXTINF:-1,TV 8.5 FHD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/12826
+#EXTINF:-1,TV 8.5 HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8016
+#EXTINF:-1,Fox TV FHD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8658
+#EXTINF:-1,Fox TV HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8731
+#EXTINF:-1,Kanal 7 FHD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/12833
+#EXTINF:-1,Kanal 7 HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6867
+#EXTINF:-1,Kanal 7 Avrupa TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6866
+#EXTINF:-1,Beyaz TV HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6903
+#EXTINF:-1,Beyaz TV FHD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/625953
+#EXTINF:-1,A2 TV FHD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6920
+#EXTINF:-1,Teve2 TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8651
+#EXTINF:-1,360 TV HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8019
+#EXTINF:-1,Dmax HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8727
+#EXTINF:-1,TLC HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13227
+#EXTINF:-1,########## HABER KANALLAR ##########
+http://mytv.fun:8080/Oskartest/t4h92jfvp/625952
+#EXTINF:-1,TRT Haber TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8664
+#EXTINF:-1,A Haber FHD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8730
+#EXTINF:-1,A Haber TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6919
+#EXTINF:-1,NTV HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8069
+#EXTINF:-1,NTV Haber FHD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/12827
+#EXTINF:-1,CNN Turk FHD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/12825
+#EXTINF:-1,CNN Turk HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6894
+#EXTINF:-1,Haber Turk FHD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8659
+#EXTINF:-1,Haber Turk HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6872
+#EXTINF:-1,Halk TV HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6871
+#EXTINF:-1,Global Haber TV TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/656380
+#EXTINF:-1,KRT HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/647436
+#EXTINF:-1,tv100 TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8646
+#EXTINF:-1,Yol TV HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678706
+#EXTINF:-1,Tele 1 TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8732
+#EXTINF:-1,Ulusal Kanal TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8009
+#EXTINF:-1,TGRT Haber FHD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8066
+#EXTINF:-1,Bloomberg HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6900
+#EXTINF:-1,Ulke TV HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8719
+#EXTINF:-1,Ulke TV TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8010
+#EXTINF:-1,24 TV TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6921
+#EXTINF:-1,Kanal 24 TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6869
+#EXTINF:-1,TV Net TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8013
+#EXTINF:-1,A News HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/627060
+#EXTINF:-1,########## SPOR KANALLARI ##########
+http://mytv.fun:8080/Oskartest/t4h92jfvp/625943
+#EXTINF:-1,beIN Sports Haber HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/623058
+#EXTINF:-1,Bein Sport Haber TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/12836
+#EXTINF:-1,beIN Sports 1 FHD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/681951
+#EXTINF:-1,beIN Sports 1 HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6908
+#EXTINF:-1,beIN Sports 1 [Yedek] HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13232
+#EXTINF:-1,beIN Sports 1 TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/623692
+#EXTINF:-1,beIN Sports 2 HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6907
+#EXTINF:-1,beIN Sports 2 [Yedek] HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13231
+#EXTINF:-1,beIN Sports 3 HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6906
+#EXTINF:-1,beIN Sports 3 (Yedek) HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8740
+#EXTINF:-1,beIN Sports 4 HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6905
+#EXTINF:-1,beIN Sports 4 (Yedek) HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13874
+#EXTINF:-1,beIN Sports Max 1 HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/16006
+#EXTINF:-1,beIN Sports Max 2 HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/16005
+#EXTINF:-1,Tivibu Sport 1 FHD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8725
+#EXTINF:-1,Tivibu Spor 1 HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8736
+#EXTINF:-1,Tivibu Sport 2 FHD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8724
+#EXTINF:-1,Tivibu Spor 2 HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8735
+#EXTINF:-1,Tivibu Sport 3 FHD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8723
+#EXTINF:-1,S Sport HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8729
+#EXTINF:-1,Smart Spor HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8739
+#EXTINF:-1,Smart Spor [Yedek] TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8738
+#EXTINF:-1,Sports TV TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8737
+#EXTINF:-1,Eurosport 1 HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6879
+#EXTINF:-1,Eurosport 2 HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6878
+#EXTINF:-1,TRT Spor HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/3482
+#EXTINF:-1,TRT Spor 2 FHD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/687399
+#EXTINF:-1,A Spor HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8726
+#EXTINF:-1,A Spor TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6918
+#EXTINF:-1,GS TV HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6873
+#EXTINF:-1,Galatasaray TV TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8684
+#EXTINF:-1,FB TV TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6883
+#EXTINF:-1,Fenerbahce TV TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8683
+#EXTINF:-1,Fiberbox Komedi FHD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6901
+#EXTINF:-1,Sports TV [B] TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8668
+#EXTINF:-1,TJK TV FHD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8650
+#EXTINF:-1,NBA TV TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/626988
+#EXTINF:-1,Tay TV TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/626987
+#EXTINF:-1,########## ÇOCUK KANALLARI ##########
+http://mytv.fun:8080/Oskartest/t4h92jfvp/625944
+#EXTINF:-1,TRT Cocuk FHD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/12828
+#EXTINF:-1,TRT Cocuk HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/3475
+#EXTINF:-1,Disney Junior TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6889
+#EXTINF:-1,Disney JR TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8709
+#EXTINF:-1,Disney XD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6888
+#EXTINF:-1,Disney Channel TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6892
+#EXTINF:-1,Baby TV TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6913
+#EXTINF:-1,Cartoon Network TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6897
+#EXTINF:-1,Nick Jr TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6923
+#EXTINF:-1,Nickelodeon TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6843
+#EXTINF:-1,Minika Cocuk TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6857
+#EXTINF:-1,Boomerang HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/647437
+#EXTINF:-1,Minika Go TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6858
+#EXTINF:-1,########## BELGESEL KANALLAR ##########
+http://mytv.fun:8080/Oskartest/t4h92jfvp/625946
+#EXTINF:-1,TRT Belgesel HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678140
+#EXTINF:-1,beIN Gurme HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678454
+#EXTINF:-1,beIN IZ TV HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678455
+#EXTINF:-1,BBC Earth HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6902
+#EXTINF:-1,History Channel FHD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6870
+#EXTINF:-1,Da Vinci Learning HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8643
+#EXTINF:-1,Da Vinci Learning TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6893
+#EXTINF:-1,Animal Planet TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8708
+#EXTINF:-1,TGRT Belgesel TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/627058
+#EXTINF:-1,Discovery Channel TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6895
+#EXTINF:-1,Discovery ID TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6891
+#EXTINF:-1,Discovery Science TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6890
+#EXTINF:-1,Nat Geo People HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6845
+#EXTINF:-1,Nat Geo Wild HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6844
+#EXTINF:-1,National Geographic HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6846
+#EXTINF:-1,Yaban TV HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8004
+#EXTINF:-1,########## MÜZiK KANALLARI ##########
+http://mytv.fun:8080/Oskartest/t4h92jfvp/625947
+#EXTINF:-1,TRT Muzik TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8715
+#EXTINF:-1,Kral Pop TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6862
+#EXTINF:-1,Kral TV TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6863
+#EXTINF:-1,Power Turk HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8065
+#EXTINF:-1,Dream Turk TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6886
+#EXTINF:-1,NR1 HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/626989
+#EXTINF:-1,NR1 Turk TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8070
+#EXTINF:-1,Number 1 TV Turk HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/12829
+#EXTINF:-1,########## FiLM KANALLARI ##########
+http://mytv.fun:8080/Oskartest/t4h92jfvp/625948
+#EXTINF:-1,bein Movies Stars HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8707
+#EXTINF:-1,beIN MOVIES Turk TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6847
+#EXTINF:-1,Nostalji Turk 1 TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/10461
+#EXTINF:-1,Fiberbox FHD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8674
+#EXTINF:-1,SL Sinema Komedi TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/10480
+#EXTINF:-1,beIN Box Office 1 TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/14976
+#EXTINF:-1,beIN Box Office 1 FHD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6912
+#EXTINF:-1,beIN Box Office 2 FHD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6911
+#EXTINF:-1,beIN Box Office 2 TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/14975
+#EXTINF:-1,beIN Box Office 3 FHD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6910
+#EXTINF:-1,beIN Movies Action FHD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8688
+#EXTINF:-1,Digimax TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8640
+#EXTINF:-1,Salon 1 FHD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8704
+#EXTINF:-1,Salon 2 FHD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8703
+#EXTINF:-1,Salon 3 FHD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8702
+#EXTINF:-1,Moviesmart Premium FHD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6848
+#EXTINF:-1,Moviesmart Platin FHD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6849
+#EXTINF:-1,Moviesmart Gold FHD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6850
+#EXTINF:-1,Moviesmart Festival TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6851
+#EXTINF:-1,Moviesmart Family HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6852
+#EXTINF:-1,Moviemax Stars HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6855
+#EXTINF:-1,Moviemax Festival FHD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6854
+#EXTINF:-1,MovieMax Premiere TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6856
+#EXTINF:-1,Moviesmart Family HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8639
+#EXTINF:-1,Fox Crime FHD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6876
+#EXTINF:-1,Magic Box Animasyon TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8654
+#EXTINF:-1,Loca 1 FHD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6861
+#EXTINF:-1,Loca1 TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8691
+#EXTINF:-1,Loca 2 FHD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8662
+#EXTINF:-1,Loca 3 FHD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6860
+#EXTINF:-1,Loca 3 HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8661
+#EXTINF:-1,Multivizyon 1 HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/636490
+#EXTINF:-1,Multivizyon 2 HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/636489
+#EXTINF:-1,Multivizyon 3 HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/636488
+#EXTINF:-1,Multivizyon 4 TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/10464
+#EXTINF:-1,Multivizyon 5 HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/636487
+#EXTINF:-1,Multivizyon 6 HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/636486
+#EXTINF:-1,Multivizyon 7 HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/636485
+#EXTINF:-1,Multivizyon 8 HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/636484
+#EXTINF:-1,Multivizyon 9 HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/636483
+#EXTINF:-1,Multivizyon 10 HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/636482
+#EXTINF:-1,Multivizyon 11 HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/636481
+#EXTINF:-1,Multivizyon 12 HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/636480
+#EXTINF:-1,Multivizyon 13 HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/636479
+#EXTINF:-1,Multivizyon 14 HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/636478
+#EXTINF:-1,Multivizyon 15 HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/636477
+#EXTINF:-1,Multivizyon 16 HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/636476
+#EXTINF:-1,Multivizyon 17 HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/636475
+#EXTINF:-1,Multivizyon 18 HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/636474
+#EXTINF:-1,Sinema 2 HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8697
+#EXTINF:-1,FilmBox Adrenalin HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/636504
+#EXTINF:-1,FilmBox Aksiyon HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/636502
+#EXTINF:-1,FilmBox Animasyon HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/636500
+#EXTINF:-1,FilmBox Bilim Kurgu HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/636499
+#EXTINF:-1,FilmBox Dram HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/636498
+#EXTINF:-1,Filmbox Fantastik HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/636496
+#EXTINF:-1,FilmBox Komedi HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/636495
+#EXTINF:-1,FilmBox Komedi TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/10474
+#EXTINF:-1,FilmBox Korku HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/636494
+#EXTINF:-1,FilmBox Korku TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/10477
+#EXTINF:-1,FilmBox Fantastic FHD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/636492
+#EXTINF:-1,Sine Viziyon TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8673
+#EXTINF:-1,Sinema TV 1001 HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8698
+#EXTINF:-1,Sinema TV TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/10468
+#EXTINF:-1,Sinema TV Aile HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/10469
+#EXTINF:-1,Sinema TV Aksiyon TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/10470
+#EXTINF:-1,SineVizyon Turk 1 TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/636436
+#EXTINF:-1,SineVizyon Turk 2 TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/636435
+#EXTINF:-1,SineVizyon Turk 3 TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/636434
+#EXTINF:-1,SineVizyon Turk 4 TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/636433
+#EXTINF:-1,SineVizyon 1 TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/10519
+#EXTINF:-1,SineVizyon 2 TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/10518
+#EXTINF:-1,SineVizyon 3 TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/10517
+#EXTINF:-1,SineVizyon 4 TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/10516
+#EXTINF:-1,SineVizyon 5 TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/10515
+#EXTINF:-1,SineVizyon 6 TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/10514
+#EXTINF:-1,SineVizyon 7 TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/10513
+#EXTINF:-1,SineVizyon 9 TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/636438
+#EXTINF:-1,SineVizyon 38 TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/10482
+#EXTINF:-1,SineVizyon 39 TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/10481
+#EXTINF:-1,SineVizyon CMYLMZ TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/636437
+#EXTINF:-1,SineVizyon Nostalji 1 TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/636432
+#EXTINF:-1,SineVizyon Nostalji 2 TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/636431
+#EXTINF:-1,EnoAnimasyon TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/636413
+#EXTINF:-1,EnoWestern TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/636414
+#EXTINF:-1,EnoVizyon 1 TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/636422
+#EXTINF:-1,EnoVizyon 2 TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/636421
+#EXTINF:-1,EnoVizyon 3 TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/636420
+#EXTINF:-1,EnoVizyon 4 TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/636419
+#EXTINF:-1,EnoVizyon 5 TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/636418
+#EXTINF:-1,EnoVizyon 6 TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/636417
+#EXTINF:-1,EnoVizyon 7 TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/636416
+#EXTINF:-1,EnoVizyon 8 TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/636415
+#EXTINF:-1,EnoVizyon 15 TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/636408
+#EXTINF:-1,Captain Movies 2 TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/636426
+#EXTINF:-1,Captain Movies 3 TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/636425
+#EXTINF:-1,Captain Movies 5 TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/636423
+#EXTINF:-1,Kurtlar Vadisi TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/636412
+#EXTINF:-1,########## DiNi KANALLAR ##########
+http://mytv.fun:8080/Oskartest/t4h92jfvp/625945
+#EXTINF:-1,TRT Diyanet TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8713
+#EXTINF:-1,Dost TV TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/625617
+#EXTINF:-1,Meltem TV TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/625950
+#EXTINF:-1,Medine TV TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/625618
+#EXTINF:-1,TV52 TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/625624
+#EXTINF:-1,TV 2000 TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/3491
+#EXTINF:-1,Lalegul TV TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/16004
+#EXTINF:-1,Semerkand TV TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8663
+#EXTINF:-1,FM TV TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/627021
+#EXTINF:-1,Medine Canli TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/627022
+#EXTINF:-1,########## YEREL KANALLAR ##########
+http://mytv.fun:8080/Oskartest/t4h92jfvp/625951
+#EXTINF:-1,Fox Life FHD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6875
+#EXTINF:-1,FX TV TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6874
+#EXTINF:-1,TRT Avaz HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/3476
+#EXTINF:-1,TRT Turk HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8717
+#EXTINF:-1,Yaban HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/3466
+#EXTINF:-1,Bengu Turk TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6904
+#EXTINF:-1,Cem TV TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6896
+#EXTINF:-1,TV EM TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8015
+#EXTINF:-1,TV Kayseri TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8014
+#EXTINF:-1,Ucankus TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8011
+#EXTINF:-1,Vatan TV TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8007
+#EXTINF:-1,TRT Al Arabia TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8712
+#EXTINF:-1,TRT Kurdi TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8714
+#EXTINF:-1,TRT World TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8721
+#EXTINF:-1,Ada TV TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/627032
+#EXTINF:-1,Akilli TV TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/627029
+#EXTINF:-1,Akit TV TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/627062
+#EXTINF:-1,Aktif TV Belcika TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/627061
+#EXTINF:-1,Altas TV [Urdu] HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/627068
+#EXTINF:-1,AS TV Bursa TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/627030
+#EXTINF:-1,BRT 1 TV TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/627034
+#EXTINF:-1,BRT 2 TV TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/627033
+#EXTINF:-1,Bursa TV TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/627007
+#EXTINF:-1,Cay TV TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/627065
+#EXTINF:-1,Ciftci TV TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/627011
+#EXTINF:-1,Deha TV Denizli TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/627050
+#EXTINF:-1,Diyar TV TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/627040
+#EXTINF:-1,DRT Denizli TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/627051
+#EXTINF:-1,ER TV TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/627041
+#EXTINF:-1,Kanal 32 TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/626986
+#EXTINF:-1,Kanal 42 Konya TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/627035
+#EXTINF:-1,Kanal 68 TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/627017
+#EXTINF:-1,Kanal Avrupa TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/627023
+#EXTINF:-1,Kanal B TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/627053
+#EXTINF:-1,Kanal T TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/626985
+#EXTINF:-1,Kanal Urfa TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/627012
+#EXTINF:-1,TV5 TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/627066
+#EXTINF:-1,Kardelen TV TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/627024
+#EXTINF:-1,Kibris Genc TV TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/627031
+#EXTINF:-1,Kon TV TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/627025
+#EXTINF:-1,Koy TV TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/627026
+#EXTINF:-1,Koza TV Adana TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/627013
+#EXTINF:-1,Kudus TV TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/626996
+#EXTINF:-1,Line TV Bursa TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/627036
+#EXTINF:-1,Mavi Karadeniz TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/627069
+#EXTINF:-1,Planet Turk TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/627019
+#EXTINF:-1,Rehber TV TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/626993
+#EXTINF:-1,Rumeli TV TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/627006
+#EXTINF:-1,Sat 7 Turk TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/627014
+#EXTINF:-1,Show Turk TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/627055
+#EXTINF:-1,TGRT EU TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/627054
+#EXTINF:-1,Ton TV Canakkale TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/627000
+#EXTINF:-1,TV 4 TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/627047
+#EXTINF:-1,TV 41 TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/627043
+#EXTINF:-1,TV 5 TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/627044
+#EXTINF:-1,TV1 Kayseri TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/627016
+#EXTINF:-1,Uzay Haber TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/626997
+#EXTINF:-1,Kemal Sunal HD TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/663533
+#EXTINF:-1,ARTI 1 TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/667816
+#EXTINF:-1,Anadolu Dernek TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/679669
+#EXTINF:-1,Canli TV TR
+http://mytv.fun:8080/Oskartest/t4h92jfvp/685723
+#EXTINF:-1,########## United Kingdom ##########
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6668
+#EXTINF:-1,------- UK Sports -------
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15576
+#EXTINF:-1,Sky Sports Main Event FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683736
+#EXTINF:-1,Sky Sports Main Event HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683737
+#EXTINF:-1,Sky Sports Main Event VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683738
+#EXTINF:-1,Sky Sports Premier League FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683787
+#EXTINF:-1,Sky Sports Premier League HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683791
+#EXTINF:-1,Sky Sports Premier League VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683793
+#EXTINF:-1,Sky Sports Football FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683759
+#EXTINF:-1,Sky Sports Football HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683762
+#EXTINF:-1,Sky Sports Football VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683761
+#EXTINF:-1,Sky Sports Cricket FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683765
+#EXTINF:-1,Sky Sports Cricket HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683766
+#EXTINF:-1,Sky Sports Cricket VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683767
+#EXTINF:-1,Sky Sports Golf FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684093
+#EXTINF:-1,Sky Sports Golf HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684094
+#EXTINF:-1,Sky Sports Golf VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684095
+#EXTINF:-1,Sky Sports Racing FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683768
+#EXTINF:-1,Sky Sports Racing HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683769
+#EXTINF:-1,Sky Sports Racing VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683771
+#EXTINF:-1,Sky Sports F1 FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683751
+#EXTINF:-1,Sky Sports F1 HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683752
+#EXTINF:-1,Sky Sports F1 VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683753
+#EXTINF:-1,Sky Sports Action FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/674009
+#EXTINF:-1,Sky Sports Action HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/674010
+#EXTINF:-1,Sky Sports Action UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/674011
+#EXTINF:-1,Sky Sports Arena FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/682023
+#EXTINF:-1,Sky Sports Arena HD UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7926
+#EXTINF:-1,Sky Sports News FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683756
+#EXTINF:-1,Sky Sports News HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683757
+#EXTINF:-1,Sky Sports News VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683758
+#EXTINF:-1,Sky Sports Mix FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683754
+#EXTINF:-1,Sky Sports Mix HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683755
+#EXTINF:-1,Sky Sports Mix VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683824
+#EXTINF:-1,Sky Sports Box Office FHD [Match Time] UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/679092
+#EXTINF:-1,MUTV FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684682
+#EXTINF:-1,MUTV HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684683
+#EXTINF:-1,Eleven Sports 1 HD UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/682019
+#EXTINF:-1,Liverpool FC VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/656978
+#EXTINF:-1,BT Sport 1 FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683851
+#EXTINF:-1,BT Sport 1 HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677901
+#EXTINF:-1,BT Sport 1 VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683852
+#EXTINF:-1,BT Sport 2 FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683854
+#EXTINF:-1,BT Sport 2 HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677902
+#EXTINF:-1,BT Sport 2 VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683855
+#EXTINF:-1,BT Sport 3 FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683856
+#EXTINF:-1,BT Sport 3 HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684435
+#EXTINF:-1,BT Sport 3 VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677903
+#EXTINF:-1,BT Sport Extra 1 [Match Time] UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683826
+#EXTINF:-1,BT Sport Extra 2 [Match Time] UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683827
+#EXTINF:-1,BT Sport Extra 3 [Match Time] UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683829
+#EXTINF:-1,BT Sport Extra 4 [Match Time] UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683830
+#EXTINF:-1,BT Sport Extra 5 [Match Time] UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683831
+#EXTINF:-1,BT Sport Extra 6 [Match Time] UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683832
+#EXTINF:-1,BT Sport ESPN FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684436
+#EXTINF:-1,BT Sport ESPN HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683993
+#EXTINF:-1,BT Sport ESPN VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683994
+#EXTINF:-1,Eurosport 1 FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684075
+#EXTINF:-1,Eurosport 1 HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684076
+#EXTINF:-1,EuroSport 2 FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684077
+#EXTINF:-1,EuroSport 2 HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684078
+#EXTINF:-1,Box Nation HD UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/671396
+#EXTINF:-1,Box Nation VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15783
+#EXTINF:-1,Fight Network UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15747
+#EXTINF:-1,Eir Sports 1 FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683868
+#EXTINF:-1,Eir Sports HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683870
+#EXTINF:-1,Eir Sports VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683871
+#EXTINF:-1,Eir Sports 2 FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683872
+#EXTINF:-1,Eir Sports 2 HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683873
+#EXTINF:-1,Premier Sports 1 FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683997
+#EXTINF:-1,Premier Sports 1 HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683998
+#EXTINF:-1,Premier Sports 1 VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683999
+#EXTINF:-1,Premier Sports 2 FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684000
+#EXTINF:-1,Premier Sports 2 HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684002
+#EXTINF:-1,Premier Sports 2 VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684003
+#EXTINF:-1,Free Sports FHD UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/671331
+#EXTINF:-1,LA LIGA FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683833
+#EXTINF:-1,LA LIGA HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/685171
+#EXTINF:-1,FreeSports HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/641400
+#EXTINF:-1,Racing FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683772
+#EXTINF:-1,Racing HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683773
+#EXTINF:-1,Racing VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683774
+#EXTINF:-1,SPFL Hearts TV [Match Time] HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678726
+#EXTINF:-1,Rangers TV [Match Time] FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678724
+#EXTINF:-1,Celtic FC TV [Match Time] HD UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/678725
+#EXTINF:-1,------- UK BBC National -------
+http://mytv.fun:8080/Oskartest/t4h92jfvp/671696
+#EXTINF:-1,BBC One FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/671711
+#EXTINF:-1,BBC One HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/656966
+#EXTINF:-1,BBC Two FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/671712
+#EXTINF:-1,BBC Two HD UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/656954
+#EXTINF:-1,BBC Four FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/671388
+#EXTINF:-1,BBC Four HD UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6656
+#EXTINF:-1,BBC News FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683843
+#EXTINF:-1,BBC News HD UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/671407
+#EXTINF:-1,BBC Parliament VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/685416
+#EXTINF:-1,BBC Parliament UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9546
+#EXTINF:-1,BBC Alba VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9549
+#EXTINF:-1,CBBC FHD UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9550
+#EXTINF:-1,CBeebies HD UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/671713
+#EXTINF:-1,------- UK BBC Regional -------
+http://mytv.fun:8080/Oskartest/t4h92jfvp/671697
+#EXTINF:-1,BBC One [Northern Ireland] HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683781
+#EXTINF:-1,BBC One [Scotland] FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/673869
+#EXTINF:-1,BBC One [Scotland] HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/671363
+#EXTINF:-1,BBC One [Scotland] VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9553
+#EXTINF:-1,BBC One [Wales] FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9554
+#EXTINF:-1,BBC Two [Scotland] UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9551
+#EXTINF:-1,BBC Two [Northern Ireland] HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/671369
+#EXTINF:-1,BBC Scotland FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/671714
+#EXTINF:-1,------- UK BBC Local -------
+http://mytv.fun:8080/Oskartest/t4h92jfvp/671698
+#EXTINF:-1,BBC One [East Midlands] VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683782
+#EXTINF:-1,BBC One [London] VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683783
+#EXTINF:-1,BBC One [North West] VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/671360
+#EXTINF:-1,BBC One [Yorkshire & North Midlands] VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683785
+#EXTINF:-1,------- UK News -------
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15574
+#EXTINF:-1,Euronews UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9545
+#EXTINF:-1,ABC News UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9535
+#EXTINF:-1,Al Jazeera News FHD UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9531
+#EXTINF:-1,BBC News UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6655
+#EXTINF:-1,BBC World News HD UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/671307
+#EXTINF:-1,CNN FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6630
+#EXTINF:-1,CNN HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15768
+#EXTINF:-1,Fox News HD UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6602
+#EXTINF:-1,France 24 English UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9532
+#EXTINF:-1,Sky News FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683844
+#EXTINF:-1,Sky News HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/671411
+#EXTINF:-1,Sky News UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6548
+#EXTINF:-1,RTE News HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9503
+#EXTINF:-1,----- UK Movies & Series -----
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15575
+#EXTINF:-1,Sky Cinema Premiere FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/671340
+#EXTINF:-1,Sky Cinema Premiere HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/671389
+#EXTINF:-1,Sky Cinema Premiere UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6553
+#EXTINF:-1,Sky Cinema Select FHD UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15711
+#EXTINF:-1,Sky Cinema Select HD UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6551
+#EXTINF:-1,Sky Cinema Hits FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683888
+#EXTINF:-1,Sky Cinema Hits HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683890
+#EXTINF:-1,Sky Cinema Hits VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683891
+#EXTINF:-1,Sky Cinema Greats FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683565
+#EXTINF:-1,Sky Cinema Animation FHD UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/671336
+#EXTINF:-1,Sky Cinema Family FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15715
+#EXTINF:-1,Sky Cinema Family HD UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6555
+#EXTINF:-1,Sky Cinema Disney FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/656994
+#EXTINF:-1,Sky Cinema Disney HD UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15717
+#EXTINF:-1,Sky Cinema Disney UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7913
+#EXTINF:-1,Sky Cinema Action FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/671337
+#EXTINF:-1,Sky Cinema Action HD UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15720
+#EXTINF:-1,Sky Cinema Action UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6558
+#EXTINF:-1,Sky Cinema Comedy FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683970
+#EXTINF:-1,Sky Cinema Comedy HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683972
+#EXTINF:-1,Sky Cinema Comedy VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683973
+#EXTINF:-1,Sky Cinema Thriller FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684065
+#EXTINF:-1,Sky Cinema Thriller HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684066
+#EXTINF:-1,Sky Cinema Thriller VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684067
+#EXTINF:-1,Sky Cinema Drama FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/656987
+#EXTINF:-1,Sky Cinema Drama HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15716
+#EXTINF:-1,Sky Cinema Drama VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6556
+#EXTINF:-1,Sky Cinema Sci-Fi & Horror FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/671341
+#EXTINF:-1,Sky Cinema Sci-Fi & Horror HD UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15712
+#EXTINF:-1,Sky Cinema Sci-Fi & Horror UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6552
+#EXTINF:-1,Box Office 1 HD UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683419
+#EXTINF:-1,Box Office 2 SD UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683420
+#EXTINF:-1,Box Office 3 HD UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683421
+#EXTINF:-1,Box Office 4 HD UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683422
+#EXTINF:-1,Box Office 5 HD UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683423
+#EXTINF:-1,Box Office 6 HD UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683424
+#EXTINF:-1,Sky Witness FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6559
+#EXTINF:-1,Sky Witness UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7912
+#EXTINF:-1,Movie/Christmas 24 FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/685408
+#EXTINF:-1,Sony Movies Classic UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6524
+#EXTINF:-1,Sony Movies UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9528
+#EXTINF:-1,Film4 FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/657009
+#EXTINF:-1,Film 4 HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15746
+#EXTINF:-1,Film4 VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6607
+#EXTINF:-1,Paramount FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/671335
+#EXTINF:-1,TCM HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/676189
+#EXTINF:-1,TCM HD UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9511
+#EXTINF:-1,Talking Pictures TV UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683406
+#EXTINF:-1,------- UK Documentary -------
+http://mytv.fun:8080/Oskartest/t4h92jfvp/16206
+#EXTINF:-1,BBC Earth FHD UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683390
+#EXTINF:-1,Animal Planet VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683892
+#EXTINF:-1,Crime & Investigation FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/671392
+#EXTINF:-1,Crime & Investigation HD UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15766
+#EXTINF:-1,Crime & Investigation UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6627
+#EXTINF:-1,Discovery Channel FHD VP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684097
+#EXTINF:-1,Discovery Channel HD VP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684098
+#EXTINF:-1,Discovery History VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683794
+#EXTINF:-1,Investigation Discovery UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9521
+#EXTINF:-1,Discovery Science VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684064
+#EXTINF:-1,Discovery Turbo VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684074
+#EXTINF:-1,Discovery Home & Health +1 UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15761
+#EXTINF:-1,History FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6597
+#EXTINF:-1,History HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677938
+#EXTINF:-1,H2 FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/671406
+#EXTINF:-1,H2 HD UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6596
+#EXTINF:-1,Horse & Country UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9525
+#EXTINF:-1,National Geographic FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/671383
+#EXTINF:-1,National Geographic HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6574
+#EXTINF:-1,National Geographic Wild HD UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15810
+#EXTINF:-1,National Geographic Wild UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6573
+#EXTINF:-1,Sky Documentaries HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/679807
+#EXTINF:-1,Love Nature HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683989
+#EXTINF:-1,Love Nature VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683990
+#EXTINF:-1,SKY Nature FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/676905
+#EXTINF:-1,Smithsonian Channel VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/671348
+#EXTINF:-1,Travel Channel FHD UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6526
+#EXTINF:-1,Travel Channel HD UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9517
+#EXTINF:-1,Travel Warehouse VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/685415
+#EXTINF:-1,ID +1 UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15834
+#EXTINF:-1,------- UK Entertainment -------
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15573
+#EXTINF:-1,BBC Entertainment UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9548
+#EXTINF:-1,Virgin Media One FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683786
+#EXTINF:-1,Virgin Media One HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683845
+#EXTINF:-1,Virgin Media One VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/655123
+#EXTINF:-1,Virgin Media Two FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683846
+#EXTINF:-1,Virgin Media Two HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683847
+#EXTINF:-1,Virgin Media Two VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6667
+#EXTINF:-1,Virgin Media Three HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/671353
+#EXTINF:-1,RTE One FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/671349
+#EXTINF:-1,RTE One HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683969
+#EXTINF:-1,RTE One VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/671377
+#EXTINF:-1,RTE Two FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/671350
+#EXTINF:-1,RTE Two HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683974
+#EXTINF:-1,RTE Two UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/671399
+#EXTINF:-1,RTE Jr VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15793
+#EXTINF:-1,RTE Jr UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9501
+#EXTINF:-1,ITV 1 FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15731
+#EXTINF:-1,ITV 1 HD UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15734
+#EXTINF:-1,ITV 1 UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6592
+#EXTINF:-1,ITV 1 [B] UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6587
+#EXTINF:-1,ITV 2 HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15729
+#EXTINF:-1,ITV 2 VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6591
+#EXTINF:-1,ITV 2 +1 UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15730
+#EXTINF:-1,ITV 3 HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15727
+#EXTINF:-1,ITV 3 UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6590
+#EXTINF:-1,ITV 4 HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15724
+#EXTINF:-1,ITV 4 UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6589
+#EXTINF:-1,ITV Be HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15732
+#EXTINF:-1,ITV Be UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6588
+#EXTINF:-1,Bet UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6654
+#EXTINF:-1,Blaze VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15786
+#EXTINF:-1,CBS Justice UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6636
+#EXTINF:-1,CBS Drama VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6635
+#EXTINF:-1,CBS Reality UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6634
+#EXTINF:-1,CourtTV VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/685410
+#EXTINF:-1,Challenge UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9556
+#EXTINF:-1,Channel 4 FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683739
+#EXTINF:-1,Channel 4 HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683740
+#EXTINF:-1,Channel 5 VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6632
+#EXTINF:-1,Comedy Central FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683745
+#EXTINF:-1,Comedy Central HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683746
+#EXTINF:-1,Comedy Central Extra UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15855
+#EXTINF:-1,Eden FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683749
+#EXTINF:-1,Eden HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683750
+#EXTINF:-1,Dave FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683743
+#EXTINF:-1,Dave HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683744
+#EXTINF:-1,Dave ja vu UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15764
+#EXTINF:-1,Drama VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6614
+#EXTINF:-1,Dmax VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684330
+#EXTINF:-1,E! UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9516
+#EXTINF:-1,E4 UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6613
+#EXTINF:-1,Fine Living UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15745
+#EXTINF:-1,Five UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6606
+#EXTINF:-1,Food Network UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6601
+#EXTINF:-1,Fox FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/671330
+#EXTINF:-1,Fox UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6604
+#EXTINF:-1,Gold FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683848
+#EXTINF:-1,Gold UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6599
+#EXTINF:-1,Horror Channel VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683748
+#EXTINF:-1,Lifetime FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/671382
+#EXTINF:-1,London Live UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6583
+#EXTINF:-1,More4 +1 UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15821
+#EXTINF:-1,More4 UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6581
+#EXTINF:-1,PBS America UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9514
+#EXTINF:-1,Pick TV VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6569
+#EXTINF:-1,Quest FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683874
+#EXTINF:-1,Quest VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15797
+#EXTINF:-1,Quest Red UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15847
+#EXTINF:-1,Real Lives UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6564
+#EXTINF:-1,Really UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6565
+#EXTINF:-1,Rok TV UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7827
+#EXTINF:-1,RokTV VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683875
+#EXTINF:-1,Ben VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/685414
+#EXTINF:-1,S4C VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/671381
+#EXTINF:-1,S4C UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9512
+#EXTINF:-1,Sky One FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6547
+#EXTINF:-1,Sky ONE HD UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15902
+#EXTINF:-1,Sky One VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15721
+#EXTINF:-1,Sky Two HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6532
+#EXTINF:-1,Sky Comedy FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/673300
+#EXTINF:-1,Sky Arts FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684070
+#EXTINF:-1,Sky Arts HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684072
+#EXTINF:-1,Sky Arts VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/684073
+#EXTINF:-1,Sky Atlantic FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/671400
+#EXTINF:-1,Sky Atlantic HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15900
+#EXTINF:-1,STV FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15854
+#EXTINF:-1,STV HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9557
+#EXTINF:-1,Syfy FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/671403
+#EXTINF:-1,Syfy HD UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15886
+#EXTINF:-1,TG4 HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15881
+#EXTINF:-1,TG4 UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6529
+#EXTINF:-1,TLC FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/671404
+#EXTINF:-1,Sony Channel UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6525
+#EXTINF:-1,Sony Crime VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9526
+#EXTINF:-1,UTV HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677059
+#EXTINF:-1,UTV UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15866
+#EXTINF:-1,Universal FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/671379
+#EXTINF:-1,Universal VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6520
+#EXTINF:-1,Viceland HD UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13219
+#EXTINF:-1,Watch FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/671405
+#EXTINF:-1,Yesterday VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6516
+#EXTINF:-1,Yesterday +1 UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15859
+#EXTINF:-1,4Seven FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/671325
+#EXTINF:-1,4Seven VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15697
+#EXTINF:-1,5 Star UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6665
+#EXTINF:-1,5 Star +1 UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/11461
+#EXTINF:-1,AMC HD UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9515
+#EXTINF:-1,Alibi FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/685413
+#EXTINF:-1,Alibi HD UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6663
+#EXTINF:-1,Alibi UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15693
+#EXTINF:-1,TBN VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15884
+#EXTINF:-1,Colors TV UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/16881
+#EXTINF:-1,Sony TV FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15897
+#EXTINF:-1,Sony Sab UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15895
+#EXTINF:-1,Star Gold FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683850
+#EXTINF:-1,Star Gold UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/656983
+#EXTINF:-1,Star Plus FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/671347
+#EXTINF:-1,------- UK Family -------
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15572
+#EXTINF:-1,Baby TV VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/671394
+#EXTINF:-1,Boomerang HD UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6651
+#EXTINF:-1,Cartoon Network FHD UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/671326
+#EXTINF:-1,Cartoon Network HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15781
+#EXTINF:-1,Cartoonito VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/685173
+#EXTINF:-1,CBeebies FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6637
+#EXTINF:-1,Nick Jr HD UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15806
+#EXTINF:-1,Nickelodeon FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6572
+#EXTINF:-1,Nicktoons UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6570
+#EXTINF:-1,POP VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15800
+#EXTINF:-1,POP +1 VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15876
+#EXTINF:-1,Tiny Pop VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9523
+#EXTINF:-1,CBBC HD UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/673868
+#EXTINF:-1,------- UK Music -------
+http://mytv.fun:8080/Oskartest/t4h92jfvp/16208
+#EXTINF:-1,Clubland TV VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15769
+#EXTINF:-1,Now 70s VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/685773
+#EXTINF:-1,Now 80s VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/685774
+#EXTINF:-1,4Music UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15698
+#EXTINF:-1,MTV FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683775
+#EXTINF:-1,MTV Music VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683776
+#EXTINF:-1,MTV Live FHD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/671334
+#EXTINF:-1,MTV Live HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9540
+#EXTINF:-1,MTV Hits VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683777
+#EXTINF:-1,MTV Base HD VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15818
+#EXTINF:-1,MTV Base VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9537
+#EXTINF:-1,MTV Classic VIP UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683898
+#EXTINF:-1,MTV 90s UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15845
+#EXTINF:-1,MTV 80s UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9509
+#EXTINF:-1,MTV 80s Classic UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683778
+#EXTINF:-1,Box Hits UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15785
+#EXTINF:-1,Capital TV UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/11459
+#EXTINF:-1,Kerrang TV UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15827
+#EXTINF:-1,Kiss UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15826
+#EXTINF:-1,Magic UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15824
+#EXTINF:-1,The Box UK
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15880
+#EXTINF:-1,########## Poland ##########
+http://mytv.fun:8080/Oskartest/t4h92jfvp/5261
+#EXTINF:-1,------- Main & Regional -------
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683431
+#EXTINF:-1,TVP 1 FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/5227
+#EXTINF:-1,TVP 1 HD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7271
+#EXTINF:-1,TVP 2 FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/5226
+#EXTINF:-1,TVP 2 HD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7270
+#EXTINF:-1,TVP 3 Warszawa VIP PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9845
+#EXTINF:-1,TVP FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9893
+#EXTINF:-1,TVP Polonia FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9843
+#EXTINF:-1,Polsat HD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7286
+#EXTINF:-1,Polsat 2 FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7285
+#EXTINF:-1,Polsat 2 PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/5255
+#EXTINF:-1,TVN FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/5229
+#EXTINF:-1,TVN HD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7274
+#EXTINF:-1,TV 4 FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7278
+#EXTINF:-1,TV6 FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9822
+#EXTINF:-1,TVN 7 FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7276
+#EXTINF:-1,TVP Info FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7269
+#EXTINF:-1,Nowa TV FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9850
+#EXTINF:-1,Polsat News HD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7282
+#EXTINF:-1,Polsat News 2 PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/5250
+#EXTINF:-1,TVN 24 FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/5224
+#EXTINF:-1,TV Puls FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7277
+#EXTINF:-1,TV Puls HD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9895
+#EXTINF:-1,Puls 2 PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9899
+#EXTINF:-1,TVS PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9890
+#EXTINF:-1,Trwam TV HD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9884
+#EXTINF:-1,------- Sports -------
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683432
+#EXTINF:-1,Canal+ Sport 1 FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7300
+#EXTINF:-1,Canal+ Sport 2 FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7304
+#EXTINF:-1,Canal+ Sport 2 HD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7299
+#EXTINF:-1,Eleven Sports 1 FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/524331
+#EXTINF:-1,Eleven Sports 2 FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/99803
+#EXTINF:-1,Eleven Sports 3 FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/99930
+#EXTINF:-1,Eleven Sports 4 HD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/167186
+#EXTINF:-1,nSport Plus FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/5238
+#EXTINF:-1,Eurosport 1 HD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9878
+#EXTINF:-1,Eurosport 2 FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9877
+#EXTINF:-1,Fight Box FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/5239
+#EXTINF:-1,Extreme Sports FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/5240
+#EXTINF:-1,Golf Channel FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9873
+#EXTINF:-1,Motorwizja FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9904
+#EXTINF:-1,Motowizja PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9851
+#EXTINF:-1,Polsat Sport FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/625236
+#EXTINF:-1,Polsat Sport Premium 1 HD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/53159
+#EXTINF:-1,Polsat Sport Premium 2 HD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/531582
+#EXTINF:-1,Polsat Sport Premium PPV 3 FHD
+http://mytv.fun:8080/Oskartest/t4h92jfvp/620683
+#EXTINF:-1,Polsat Sport Premium PPV 4 FHD
+http://mytv.fun:8080/Oskartest/t4h92jfvp/620682
+#EXTINF:-1,Polsat Sport Premium PPV 6 FHD
+http://mytv.fun:8080/Oskartest/t4h92jfvp/620680
+#EXTINF:-1,Polsat Sport Extra FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/625232
+#EXTINF:-1,Polsat Sport Extra HD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/625230
+#EXTINF:-1,Polsat Sport Fight FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/5247
+#EXTINF:-1,Polsat Sport News FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9869
+#EXTINF:-1,Super Polsat FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9897
+#EXTINF:-1,TVP Sport FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/5225
+#EXTINF:-1,TVP Sports PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7267
+#EXTINF:-1,Sportklub HD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9819
+#EXTINF:-1,KSW PPV FHD [Match Time] PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/624946
+#EXTINF:-1,------- Movies & Series -------
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683433
+#EXTINF:-1,HBO 1 FHD [Multi-Audio] PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/5223
+#EXTINF:-1,HBO HD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7293
+#EXTINF:-1,HBO 2 FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7292
+#EXTINF:-1,HBO 2 PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/5222
+#EXTINF:-1,HBO 3 FHD [Multi-Audio] PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7291
+#EXTINF:-1,Cinemax FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/5246
+#EXTINF:-1,Cinemax 2 FHD VIP PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/5245
+#EXTINF:-1,Canal+ Family HD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7305
+#EXTINF:-1,Canal+ Premium FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7302
+#EXTINF:-1,Canal+ Film FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/5243
+#EXTINF:-1,Canal+ Film HD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7303
+#EXTINF:-1,Canal+ Seriale HD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9913
+#EXTINF:-1,Film Box Extra HD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9876
+#EXTINF:-1,Film Box Premium FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/5230
+#EXTINF:-1,Film Box Premium HD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7297
+#EXTINF:-1,Film Box Family PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/5231
+#EXTINF:-1,Filmbox Action PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7296
+#EXTINF:-1,Film Box Arthouse PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/5232
+#EXTINF:-1,Polsat Film FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/5253
+#EXTINF:-1,Polsat Film HD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7283
+#EXTINF:-1,Kino Polska PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/5237
+#EXTINF:-1,AMC PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/641401
+#EXTINF:-1,TNT HD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9866
+#EXTINF:-1,VOD 205 PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9889
+#EXTINF:-1,VOD 206 PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9888
+#EXTINF:-1,VOD 207 PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9887
+#EXTINF:-1,VOD 208 PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9886
+#EXTINF:-1,TVP Seriale PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7268
+#EXTINF:-1,TVP Historia PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9836
+#EXTINF:-1,TVP Kultura PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9892
+#EXTINF:-1,TVN Fabula FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7275
+#EXTINF:-1,TVP Rozrywka PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9891
+#EXTINF:-1,Fox FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9874
+#EXTINF:-1,Fox Comedy HD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9875
+#EXTINF:-1,Comedy Central FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/5242
+#EXTINF:-1,Comedy Central Family HD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9834
+#EXTINF:-1,13 ulica FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/5260
+#EXTINF:-1,Adventure FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9917
+#EXTINF:-1,AXN FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7306
+#EXTINF:-1,AXN Spin FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/5220
+#EXTINF:-1,AXN Black PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9915
+#EXTINF:-1,AXN White PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9914
+#EXTINF:-1,BBC First FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9861
+#EXTINF:-1,CBS Europa FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9881
+#EXTINF:-1,CBS Europa HD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9912
+#EXTINF:-1,Ale Kino FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/5259
+#EXTINF:-1,ATM Rozrywka PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9916
+#EXTINF:-1,Lifetime FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9871
+#EXTINF:-1,Paramount Channel FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9829
+#EXTINF:-1,Romance TV FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9826
+#EXTINF:-1,SciFi Universal PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9868
+#EXTINF:-1,Stopklatka TV PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9898
+#EXTINF:-1,Sundance TV PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9867
+#EXTINF:-1,Zoom TV PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9839
+#EXTINF:-1,------- Documentary -------
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683434
+#EXTINF:-1,Canal+ Discovery FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9835
+#EXTINF:-1,Discovery FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7298
+#EXTINF:-1,Discovery Science FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/5234
+#EXTINF:-1,Discovery Life FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/5235
+#EXTINF:-1,Discovery Historia PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/5236
+#EXTINF:-1,Crime and Investigation PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/5221
+#EXTINF:-1,Animal Planet FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/5257
+#EXTINF:-1,Animal Planet HD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7307
+#EXTINF:-1,National Geographic FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7288
+#EXTINF:-1,Nat Geo Wild FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7289
+#EXTINF:-1,Nat Geo People FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9883
+#EXTINF:-1,BBC Earth HD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9862
+#EXTINF:-1,Da Vinci Learning PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/5218
+#EXTINF:-1,DTX FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9824
+#EXTINF:-1,CBS Reality FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9911
+#EXTINF:-1,Food Network FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9815
+#EXTINF:-1,HGTV HD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9906
+#EXTINF:-1,Fokus TV PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9853
+#EXTINF:-1,Metro PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9818
+#EXTINF:-1,Domo + HD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/648339
+#EXTINF:-1,Planete+ HD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9903
+#EXTINF:-1,Polsat Viasat Explore FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9900
+#EXTINF:-1,Polsat Viasat History FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9811
+#EXTINF:-1,Polsat Viasat Nature PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9810
+#EXTINF:-1,Polsat Doku FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9813
+#EXTINF:-1,Polsat Play FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/5252
+#EXTINF:-1,Polsat Play HD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7281
+#EXTINF:-1,Kuchnia+ FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9905
+#EXTINF:-1,TVN Turbo FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/5228
+#EXTINF:-1,TVN Turbo HD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7272
+#EXTINF:-1,TV Republika PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/5249
+#EXTINF:-1,WP PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9840
+#EXTINF:-1,------- Entertainment -------
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683435
+#EXTINF:-1,BBC Brit FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/648338
+#EXTINF:-1,Active Family PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9817
+#EXTINF:-1,E! Entertainment FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9879
+#EXTINF:-1,TLC FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7279
+#EXTINF:-1,Polsat Cafe FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/5254
+#EXTINF:-1,Polsat Cafe FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7284
+#EXTINF:-1,Polsat Games FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/628998
+#EXTINF:-1,TVN Style HD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7273
+#EXTINF:-1,TVN Style FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/5219
+#EXTINF:-1,TTV FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9808
+#EXTINF:-1,TTV HD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683438
+#EXTINF:-1,TO!TV PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9809
+#EXTINF:-1,------- Children -------
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683436
+#EXTINF:-1,Baby TV PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15950
+#EXTINF:-1,Boomerang HD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9860
+#EXTINF:-1,Cartoon Network FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9882
+#EXTINF:-1,Disney Channel HD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9918
+#EXTINF:-1,Disney Junior PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9880
+#EXTINF:-1,Disney XD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9910
+#EXTINF:-1,MiniMini FHD VIP PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9870
+#EXTINF:-1,Nick Jr Polska PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9831
+#EXTINF:-1,Nickelodeon PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9830
+#EXTINF:-1,Polsat Jim Jam PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9848
+#EXTINF:-1,TVP ABC PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9894
+#EXTINF:-1,TeleToon+ FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9896
+#EXTINF:-1,------- Music -------
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683437
+#EXTINF:-1,MTV Polska FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9838
+#EXTINF:-1,MTV Polska HD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9832
+#EXTINF:-1,MTV Live FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9833
+#EXTINF:-1,VH1 PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9828
+#EXTINF:-1,VH1 Polska PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9827
+#EXTINF:-1,4Fun TV PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9825
+#EXTINF:-1,4Fun Dance PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9864
+#EXTINF:-1,4Fun Gold Hits PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9863
+#EXTINF:-1,Vox Music TV PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9885
+#EXTINF:-1,Nuta TV PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9849
+#EXTINF:-1,Eska TV HD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9807
+#EXTINF:-1,Eska TV PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9857
+#EXTINF:-1,Eska Rock TV HD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9858
+#EXTINF:-1,Eska Rock TV PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9852
+#EXTINF:-1,Disco Polo Music PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9816
+#EXTINF:-1,Polo TV FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9814
+#EXTINF:-1,Polo Party TV PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9902
+#EXTINF:-1,Polsat Music FHD PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9847
+#EXTINF:-1,Power TV PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9846
+#EXTINF:-1,Stars TV PL
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9820
+#EXTINF:-1,########## Switzerland ##########
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7910
+#EXTINF:-1,SRF 1 HD CH
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7909
+#EXTINF:-1,SRF 2 HD CH
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8995
+#EXTINF:-1,SRF zwei HD CH
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7908
+#EXTINF:-1,SRF Info HD CH
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7901
+#EXTINF:-1,RTS Un HD CH
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8983
+#EXTINF:-1,RTS Deux CH
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8984
+#EXTINF:-1,RSI LA 1 HD CH
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8986
+#EXTINF:-1,RSI LA 2 HD CH
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8985
+#EXTINF:-1,3+ HD CH
+http://mytv.fun:8080/Oskartest/t4h92jfvp/672295
+#EXTINF:-1,4+ HD CH
+http://mytv.fun:8080/Oskartest/t4h92jfvp/672294
+#EXTINF:-1,5+ HD CH
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8992
+#EXTINF:-1,Blue Sport 1 FHD CH
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7903
+#EXTINF:-1,Blue Sport 2 FHD CH
+http://mytv.fun:8080/Oskartest/t4h92jfvp/677923
+#EXTINF:-1,Blue Action FHD CH
+http://mytv.fun:8080/Oskartest/t4h92jfvp/668093
+#EXTINF:-1,Blue Prime FHD CH
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9005
+#EXTINF:-1,Blue Emotion FHD CH
+http://mytv.fun:8080/Oskartest/t4h92jfvp/668094
+#EXTINF:-1,Blue Zoom HD CH
+http://mytv.fun:8080/Oskartest/t4h92jfvp/655141
+#EXTINF:-1,Tele Zurich CH
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7907
+#EXTINF:-1,Tele M1 HD CH
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8990
+#EXTINF:-1,Teleclub Star Action HD CH
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8989
+#EXTINF:-1,TeleBielingue HD CH
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8998
+#EXTINF:-1,Discovery Channel FHD CH
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8996
+#EXTINF:-1,TV24 HD CH
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8988
+#EXTINF:-1,TVM3 CH
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7899
+#EXTINF:-1,TVO HD CH
+http://mytv.fun:8080/Oskartest/t4h92jfvp/7900
+#EXTINF:-1,########## Austria ##########
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8053
+#EXTINF:-1,ORF 1 HD AT
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8052
+#EXTINF:-1,ORF 1 [B] HD AT
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6223
+#EXTINF:-1,ORF 2 FHD AT
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6222
+#EXTINF:-1,ORF 2 HD AT
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8051
+#EXTINF:-1,ORF 3 HD AT
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8050
+#EXTINF:-1,ORF Sport HD AT
+http://mytv.fun:8080/Oskartest/t4h92jfvp/8049
+#EXTINF:-1,ATV HD AT
+http://mytv.fun:8080/Oskartest/t4h92jfvp/17309
+#EXTINF:-1,ATV 2 AT
+http://mytv.fun:8080/Oskartest/t4h92jfvp/17310
+#EXTINF:-1,Plus4 HD AT
+http://mytv.fun:8080/Oskartest/t4h92jfvp/681925
+#EXTINF:-1,Plus4 AT
+http://mytv.fun:8080/Oskartest/t4h92jfvp/17308
+#EXTINF:-1,W24 Wien HD AT
+http://mytv.fun:8080/Oskartest/t4h92jfvp/17305
+#EXTINF:-1,Servus TV HD AT
+http://mytv.fun:8080/Oskartest/t4h92jfvp/679670
+#EXTINF:-1,oe24 HD AT
+http://mytv.fun:8080/Oskartest/t4h92jfvp/679818
+#EXTINF:-1,oe24 AT
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683886
+#EXTINF:-1,Sky Sport Austria FHD AT
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13560
+#EXTINF:-1,Sky Sport Austria AT
+http://mytv.fun:8080/Oskartest/t4h92jfvp/6175
+#EXTINF:-1,Sky Sport Austria 2 HD [Match Time] AT
+http://mytv.fun:8080/Oskartest/t4h92jfvp/663530
+#EXTINF:-1,Sky Sport Austria 3 HD [Match Time] AT
+http://mytv.fun:8080/Oskartest/t4h92jfvp/663531
+#EXTINF:-1,Sky Sport Austria 4 HD [Match Time] AT
+http://mytv.fun:8080/Oskartest/t4h92jfvp/663532
 
-#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-mainevent.png",Sky Sports Main Event
-http://mytv.fun:8080/live/Oskartest/t4h92jfvp/683736.ts
-http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/28919.m3u8.ts
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-football.png",Sky Sports Football
-http://mytv.fun:8080/live/Oskartest/t4h92jfvp/683759.ts
-http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/2870.m3u8.ts
-
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsport1hd.png",BT Sport 1
-http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/2943.m3u8.ts
-http://mytv.fun:8080/live/Oskartest/t4h92jfvp/683851.ts
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsport2hd.png",BT Sport 2
-http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/2942.m3u8.ts
-http://mytv.fun:8080/live/Oskartest/t4h92jfvp/683854.ts
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsport3hd.png",BT Sport 3
-http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/2941.m3u8.ts
-http://mytv.fun:8080/live/Oskartest/t4h92jfvp/683856.ts
-
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://sport-tv-guide.live/images/tv-station-bt-sport-extra-101.png",BT Sport Extra 1
-http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/28937.m3u8.ts
-http://mytv.fun:8080/live/Oskartest/t4h92jfvp/683826.ts
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://sport-tv-guide.live/images/stations/a1921.png",BT Sport Extra 2
-http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/28938.m3u8.ts
-http://mytv.fun:8080/live/Oskartest/t4h92jfvp/683827.ts
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://sport-tv-guide.live/images/tv-station-bt-sport-extra-3-2512.png",BT Sport Extra 3
-http://mytv.fun:8080/live/Oskartest/t4h92jfvp/683829.ts
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbcsn-us.png" group-title="Sport",NBCSN
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/606
-
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0a/Nbc-sports-logo-600x450.png/revision/latest?cb=20150824212119" group-title="Sport", NBC Sports Network
-http://mytv.fun:8080/live/Oskartest/t4h92jfvp/14403.ts
-http://tv.nousiptv.com:5230/live/Glen/Glen1/3709.ts
-
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="Sport",ASTRO SUPERSPORTS 1
-http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/59220.m3u8.ts
-http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_2.png" group-title="Sport",ASTRO SUPERSPORTS 2
-http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/59219.m3u8.ts
-http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_3.png" group-title="Sport",ASTRO SUPERSPORTS 3 
-http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/59218.m3u8.ts
-http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_4.png" group-title="Sport",ASTRO SUPERSPORTS 4 
-http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/59217.m3u8.ts
-http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="Sport",beIN Sports 1
-http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/28918.m3u8.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="Sport",beIN Sports 2
-http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/28917.m3u8.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wSjJxv2/HD3.png" group-title="Sport",beIN Sports 3
-http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/28916.m3u8.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rFV69xp/HD4.png" group-title="Sport",beIN Sports 4
-http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/59268.m3u8.ts
-
-#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD11-1.png" group-title="Sport",beIN Sports 11
-http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/59261.m3u8.ts
-http://mytv.fun:8080/live/Oskartest/t4h92jfvp/677819.ts
-
-#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD12-1.png" group-title="Sport",beIN Sports 12
-http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/59260.m3u8.ts
-http://mytv.fun:8080/live/Oskartest/t4h92jfvp/682911.ts
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sport",beIN Sports 1 Asia
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="Sport",beIN Sports 2 Asia
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-https://liveanevia.mncnow.id/live/eds/BeIN2/sa_dash_vmx/BeIN2.mpd
-
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1967.png" group-title="Sport",beIN Sports XTRA
-https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/fr-bein1hd.png",beIN Sports 1 France
-http://rv.imax.re:80/6425023033/4168002992/78393
-#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/fr-bein2hd.png",beIN Sports 2 France
-http://rv.imax.re:80/6425023033/4168002992/78392
-#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/fr-bein3hd.png",beIN Sports 3 France
-http://rv.imax.re:80/6425023033/4168002992/78391
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/BeIN_SPORTS_USA_logo_2017.jpg" group-title="Sport",beIN Sports USA
-http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/3159.m3u8.ts
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488
-http://mytv.fun:8080/live/Oskartest/t4h92jfvp/13759.ts
-
-#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD12-1.png" group-title="Sport",beIN Sports Espanol
-http://mytv.fun:8080/live/Oskartest/t4h92jfvp/677144.ts
-
-
-#EXTINF:-1, tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_84_b_85_c000000_0_0_01.png" group-title="Sport", DAZN 1
-http://mytv.fun:8080/live/Oskartest/t4h92jfvp/661090.ts
-
-#EXTINF:-1, tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_7a_b_85_c00000_0_0_01.png" group-title="Sport", DAZN 2
-http://mytv.fun:8080/live/Oskartest/t4h92jfvp/661089.ts
-
-#EXTINF:-1, tvg-logo="https://sport-tv-guide.live/images/tv-station-sky-sport-hd-1-155.png" group-title="Sport", Sky Sport 1 DE
-http://mytv.fun:8080/live/Oskartest/t4h92jfvp/684432.ts
-
-#EXTINF:-1, tvg-logo="https://sport-tv-guide.live/images/tv-station-sky-sport-hd-2-171.png" group-title="Sport", Sky Sport 2 DE
-http://mytv.fun:8080/live/Oskartest/t4h92jfvp/683896.ts
-
-
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Sport", RTM Sports
-https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b4064000.m3u8
-
-
-#EXTINF:-1, tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball_v2/img/tvonline/skynethd.png" group-title="Sport", SkyNet Sports
-http://newhostshare.ddns.net:9981/stream/service/4e5c0539c647b1fdffffe11ca690e516?ticket=f90e4e2233921e7999148e4d5361ef14163cbe4c
-
-
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/RMC_Sport_1.png" group-title="Sport", RMC 1
-http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/2785.m3u8.ts
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/RMC_Sport_2.png" group-title="Sport", RMC 2
-http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/2784.m3u8.ts
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/RMC_Sport_3.png" group-title="Sport", RMC 3
-http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/2783.m3u8.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Sport", Canal+ Sport
-http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/33522.m3u8.ts
-
-
-#EXTINF:-1 tvg-logo="https://fullcanaleshd.files.wordpress.com/2015/10/9ea08-directv2bsports.png" group-title="Sport", DirecTV Sports
-http://tv.nousiptv.com:5230/live/Glen/Glen1/53462.ts
-#EXTINF:-1 tvg-logo="https://fullcanaleshd.files.wordpress.com/2015/10/9ea08-directv2bsports.png" group-title="Sport", DirecTV Sports 2
-http://tv.nousiptv.com:5230/live/Glen/Glen1/32881.ts
-#EXTINF:-1 tvg-logo="https://fullcanaleshd.files.wordpress.com/2015/10/9ea08-directv2bsports.png" group-title="Sport", DirecTV Sports+
-http://tv.nousiptv.com:5230/live/Glen/Glen1/27879.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ESPN_Brasil_logo.svg/1200px-ESPN_Brasil_logo.svg.png" group-title="Sport", ESPN Brasil
-http://tv.nousiptv.com:5230/live/Glen/Glen1/7784.ts
-
-
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a450.png" group-title="Sport",Sport TV 1
-https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a451.png" group-title="Sport",Sport TV 2
-https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a452.png" group-title="Sport",Sport TV 3
-https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a453.png" group-title="Sport",Sport TV 4
-https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a454.png" group-title="Sport",Sport TV 5
-https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/U/univision-deportes-logo-79C578256D-seeklogo.com.png" group-title="Sport", Univision Deportes
-http://tv.nousiptv.com:5230/live/Glen/Glen1/3962.ts
-
-
-#EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sport", Premier Football 1
-http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sport", Premier Football 2
-http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sport", Premier Football 3
-http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Smash_Television_logo.png",Smash Sports
-http://a3.smashmalta.com:82/live/smash/smash/17.ts
-
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" group-title="Sport", CCTV5
-http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" group-title="Sport", CCTV5+
-http://39.135.138.59:18890/PLTV/88888910/224/3221225706/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/wxh/banner/2019/08/16/775945-FOXsport.png" group-title="Sport",Fox Sport 1
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/wxh/banner/2019/08/16/813474-foxsport2.png" group-title="Sport",Fox Sport 2
-https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/wxh/banner/2019/07/16/894184-foxsport_3.png" group-title="Sport",Fox Sport 3
-https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://cdn.tvpassport.com/image/station/240x135/sportsman-can.png" group-title="Sport", Sportsman Channel
-http://rv.imax.re:80/6425023033/4168002992/80980
-
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/18135.png" group-title="Sport", Redbull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-################################################################################# BBB ##################################################################
-
-#EXTINF:-1,BBB ¹ SD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/32841
-#EXTINF:-1,BBB ¹ HD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/32840
-#EXTINF:-1,BBB ² HD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/32838
-#EXTINF:-1,BBB ³ HD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/32839
-#EXTINF:-1,BBB Mosaico HD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/32837
-#EXTINF:-1 tvg-id="" tvg-name="BBB 01" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB 01
-http://grtsvk.life:8080/jane00001/00001jane/62319
-#EXTINF:-1 tvg-id="" tvg-name="BBB 01¹" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB 01¹
-http://grtsvk.life:8080/jane00001/00001jane/64038
-#EXTINF:-1 tvg-id="" tvg-name="BBB 02" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB 02
-http://grtsvk.life:8080/jane00001/00001jane/64069
-#EXTINF:-1 tvg-id="" tvg-name="BBB 03" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB 03
-http://grtsvk.life:8080/jane00001/00001jane/66143
-#EXTINF:-1 tvg-id="" tvg-name="BBB 04" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB 04
-http://grtsvk.life:8080/jane00001/00001jane/66144
-#EXTINF:-1 tvg-id="" tvg-name="BBB 2021 MOSAICO" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB 2021 MOSAICO
-http://grtsvk.life:8080/jane00001/00001jane/64068
-#EXTINF:-1 tvg-id="" tvg-name="BBB CONFESSIONARIO" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB CONFESSIONARIO
-http://grtsvk.life:8080/jane00001/00001jane/70855
-#EXTINF:-1 tvg-id="" tvg-name="BBB COZINHA VIP XEPA" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB COZINHA VIP XEPA
-http://grtsvk.life:8080/jane00001/00001jane/70856
-#EXTINF:-1 tvg-id="" tvg-name="BBB PISCINA" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB PISCINA
-http://grtsvk.life:8080/jane00001/00001jane/70857
-#EXTINF:-1 tvg-id="" tvg-name="BBB QUARTO COLORIDO" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB QUARTO COLORIDO
-http://grtsvk.life:8080/jane00001/00001jane/71571
-#EXTINF:-1 tvg-id="" tvg-name="BBB SALA DE ESTAR" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB SALA DE ESTAR
-http://grtsvk.life:8080/jane00001/00001jane/71572
-#EXTINF:-1 tvg-id="" tvg-name="BBB 01" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB 01
-http://grtsvk.life:8080/mara00001/00001mara/62319
-#EXTINF:-1 tvg-id="" tvg-name="BBB 01¹" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB 01¹
-http://grtsvk.life:8080/mara00001/00001mara/64038
-#EXTINF:-1 tvg-id="" tvg-name="BBB 02" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB 02
-http://grtsvk.life:8080/mara00001/00001mara/64069
-#EXTINF:-1 tvg-id="" tvg-name="BBB 03" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB 03
-http://grtsvk.life:8080/mara00001/00001mara/66143
-#EXTINF:-1 tvg-id="" tvg-name="BBB 04" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB 04
-http://grtsvk.life:8080/mara00001/00001mara/66144
-#EXTINF:-1 tvg-id="" tvg-name="BBB 2021 MOSAICO" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB 2021 MOSAICO
-http://grtsvk.life:8080/mara00001/00001mara/64068
-#EXTINF:-1 tvg-id="" tvg-name="BBB CONFESSIONARIO" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB CONFESSIONARIO
-http://grtsvk.life:8080/mara00001/00001mara/70855
-#EXTINF:-1 tvg-id="" tvg-name="BBB COZINHA VIP XEPA" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB COZINHA VIP XEPA
-http://grtsvk.life:8080/mara00001/00001mara/70856
-#EXTINF:-1 tvg-id="" tvg-name="BBB PISCINA" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB PISCINA
-http://grtsvk.life:8080/mara00001/00001mara/70857
-#EXTINF:-1 tvg-id="" tvg-name="BBB QUARTO COLORIDO" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB QUARTO COLORIDO
-http://grtsvk.life:8080/mara00001/00001mara/71571
-#EXTINF:-1 tvg-id="" tvg-name="BBB SALA DE ESTAR" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB SALA DE ESTAR
-http://grtsvk.life:8080/mara00001/00001mara/71572
-#EXTINF:-1 tvg-id="" tvg-name="BBB 01" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB 01
-http://grtsvk.life:8080/leotb0001/888777555/62319
-#EXTINF:-1 tvg-id="" tvg-name="BBB 01¹" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB 01¹
-http://grtsvk.life:8080/leotb0001/888777555/64038
-#EXTINF:-1 tvg-id="" tvg-name="BBB 02" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB 02
-http://grtsvk.life:8080/leotb0001/888777555/64069
-#EXTINF:-1 tvg-id="" tvg-name="BBB 03" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB 03
-http://grtsvk.life:8080/leotb0001/888777555/66143
-#EXTINF:-1 tvg-id="" tvg-name="BBB 04" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB 04
-http://grtsvk.life:8080/leotb0001/888777555/66144
-#EXTINF:-1 tvg-id="" tvg-name="BBB 2021 MOSAICO" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB 2021 MOSAICO
-http://grtsvk.life:8080/leotb0001/888777555/64068
-#EXTINF:-1 tvg-id="" tvg-name="BBB CONFESSIONARIO" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB CONFESSIONARIO
-http://grtsvk.life:8080/leotb0001/888777555/70855
-#EXTINF:-1 tvg-id="" tvg-name="BBB COZINHA VIP XEPA" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB COZINHA VIP XEPA
-http://grtsvk.life:8080/leotb0001/888777555/70856
-#EXTINF:-1 tvg-id="" tvg-name="BBB PISCINA" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB PISCINA
-http://grtsvk.life:8080/leotb0001/888777555/70857
-#EXTINF:-1 tvg-id="" tvg-name="BBB QUARTO COLORIDO" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB QUARTO COLORIDO
-http://grtsvk.life:8080/leotb0001/888777555/71571
-#EXTINF:-1 tvg-id="" tvg-name="BBB SALA DE ESTAR" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2021",BBB SALA DE ESTAR
-http://grtsvk.life:8080/leotb0001/888777555/71572
 #EXTINF:-1,*** DEPORTES ***
 -----------------------------------------------------------------
 #EXTINF:-1,Fox Deportes
