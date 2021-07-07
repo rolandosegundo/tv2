@@ -1,42 +1,6 @@
 #EXTM3U
 #EXTINF:-1MX | AFIZZIONADOS
 http://51.222.105.5:8081/tecno/Afizzionados.Tecnobyte/chunks.m3u8
-#EXTINF:-1 tvg-id="I854.25595.schedulesdirect.org" tvg-name="[USA] Espn Deportes" tvg-logo="http://fauconteam.com/logo/espn.png" group-title="USA", Espn Deportes
-http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4797
-#EXTINF:-1 tvg-id="72189" tvg-name="[USA] FOX Deportes" tvg-logo="" group-title="USA", FOX Deportes
-http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/5016
-#EXTINF:-1 tvg-id="" tvg-name="[USA] Telemundo Boston" tvg-logo="" group-title="USA", Telemundo Boston
-http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/5012
-#EXTINF:-1 tvg-id="" tvg-name="[USA] Telemundo Chicago" tvg-logo="" group-title="USA", Telemundo Chicago
-http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/5011
-#EXTINF:-1 tvg-id="" tvg-name="[USA] Telemundo Fresno" tvg-logo="" group-title="USA", Telemundo Fresno
-http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/5008
-#EXTINF:-1 tvg-id="" tvg-name="[USA] Telemundo Harlingen" tvg-logo="" group-title="USA", Telemundo Harlingen
-http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/5007
-#EXTINF:-1 tvg-id="" tvg-name="[USA] Telemundo Houston" tvg-logo="" group-title="USA", Telemundo Houston
-http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/5006
-#EXTINF:-1 tvg-id="" tvg-name="[USA] Telemundo Los Angeles" tvg-logo="" group-title="USA", Telemundo Los Angeles
-http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/5004
-#EXTINF:-1 tvg-id="" tvg-name="[USA] Telemundo Miami" tvg-logo="" group-title="USA", Telemundo Miami
-http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/5003
-#EXTINF:-1 tvg-id="" tvg-name="[USA] Telemundo New York" tvg-logo="" group-title="USA", Telemundo New York
-http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/5002
-#EXTINF:-1 tvg-id="" tvg-name="[USA] Telemundo Phoenix" tvg-logo="" group-title="USA", Telemundo Phoenix
-http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/5000
-#EXTINF:-1 tvg-id="" tvg-name="[USA] Telemundo Tucson" tvg-logo="" group-title="USA", Telemundo Tucson
-http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4997
-#EXTINF:-1 tvg-id="" tvg-name="[US] Unimas Austin" tvg-logo="" group-title="USA",Unimas Austin
-http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9916
-#EXTINF:-1 tvg-id="" tvg-name="[US] Unimas New York" tvg-logo="" group-title="USA",Unimas New York
-http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9924
-#EXTINF:-1 tvg-id="" tvg-name="[US] Univision" tvg-logo="" group-title="USA",Univision
-http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9868
-#EXTINF:-1 tvg-id="" tvg-name="[US] Univision Austin" tvg-logo="" group-title="USA",Univision Austin
-http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9925
-#EXTINF:-1 tvg-id="" tvg-name="[US] Univision Chicago" tvg-logo="" group-title="USA",Univision Chicago
-http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9927
-#EXTINF:-1 tvg-id="" tvg-name="[US] Univision Houston" tvg-logo="" group-title="USA",Univision Houston
-http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9928
 #EXTINF:0,LA_SD_MEX2:FOX SPORTS 3
 #EXTVLCOPT:network-caching=4000
 http://latinosiptv.online:8090/notocar/xmauc84bx1/2306
