@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, tvg-logo="https://elcomercio.pe/resizer/4LH2xoVTqolA2WETcT50mTTvqiI=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/563PMI24MBGNBFBVZ7HHI6EGKM.jpeg" PUEBLA VS TIGRES
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt.m3u8
 #EXTINF:-1MX | AFIZZIONADOS
 http://51.222.105.5:8081/tecno/Afizzionados.Tecnobyte/chunks.m3u8
 #EXTINF:0,LA_SD_MEX2:FOX SPORTS 3
